@@ -1,0 +1,35 @@
+name: World Cup daily LinkedIn digest
+
+# Posts ONE World Cup context update to LinkedIn per day during the
+# tournament, deliberately decoupled from worldcup-live.yml's every-3-hours
+# data refresh — posting every 3 hours would be spam, not a useful digest.
+# Reads whatever World Cup data is already committed (does not re-scrape),
+# so it always runs quickly regardless of when the last data refresh was.
+
+on:
+  schedule:
+    - cron: "0 6 15-30 8 *"   # Once daily, 06:00 UTC, 15-30 August only
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Post World Cup digest to LinkedIn
+        env:
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          LINKEDIN_AUTHOR_URN: ${{ secrets.LINKEDIN_AUTHOR_URN }}
+          DIGEST_KIND: worldcup
+        run: python scripts/post_to_linkedin.py
+        continue-on-error: true
