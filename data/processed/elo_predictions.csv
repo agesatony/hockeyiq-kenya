@@ -1,0 +1,178 @@
+Competition,HomeTeam,AwayTeam,PredictedHomeWinProb,ActualHomeResult,SquaredError
+NLM-CZ,Dukes of Gloucester,Nyari Hockey Club,0.55,1.0,0.20249999999999996
+NLM-CZ,Thika Rovers,Dukes of Gloucester,0.523,1.0,0.22752899999999998
+NLM-CZ,GHF Rift Pirates Men,Dukes of Gloucester,0.559,1.0,0.19448099999999996
+NLM-EZ,Black Tigers,UoN Cubs,0.55,1.0,0.20249999999999996
+NLM-EZ,TUK Men,Gorillas,0.55,0.0,0.30250000000000005
+NLM-EZ,Gorillas,Ulinzi Patriots,0.563,0.0,0.31696899999999995
+NLM-EZ,Mombasa West,Mombasa Sports Club,0.55,0.0,0.30250000000000005
+NLM-EZ,TUK Men,Black Tigers,0.527,1.0,0.22372899999999998
+NLM-EZ,Daystar University Men,Ulinzi Patriots,0.529,0.0,0.279841
+NLM-EZ,Parklands Sports Club – Legacy,UoN Cubs,0.561,0.0,0.3147210000000001
+NLM-EZ,Snippers Hockey Club (Makueni),Black Tigers,0.551,0.0,0.30360100000000007
+NLM-EZ,Ulinzi Patriots,Parklands Sports Club – Legacy,0.603,0.0,0.36360899999999996
+NLM-EZ,UoN Cubs,Daystar University Men,0.573,1.0,0.18232900000000005
+NLM-EZ,Gorillas,Snippers Hockey Club (Makueni),0.555,1.0,0.19802499999999995
+NLM-EZ,Ulinzi Patriots,UoN Cubs,0.549,1.0,0.20340099999999997
+NLM-EZ,Gorillas,Parklands Sports Club – Legacy,0.559,0.5,0.0034810000000000062
+NLM-EZ,UoN Cubs,Snippers Hockey Club (Makueni),0.577,1.0,0.17892900000000003
+NLM-EZ,Daystar University Men,Parklands Sports Club – Legacy,0.533,0.0,0.28408900000000004
+NLM-EZ,Gorillas,Mombasa Sports Club,0.538,0.5,0.0014440000000000026
+NLM-EZ,Ulinzi Patriots,Mombasa West,0.598,0.5,0.009603999999999994
+NLM-EZ,Gorillas,Mombasa West,0.559,0.0,0.31248100000000006
+NLM-EZ,Parklands Sports Club – Legacy,Snippers Hockey Club (Makueni),0.59,1.0,0.16810000000000003
+NLM-EZ,Ulinzi Patriots,Mombasa Sports Club,0.569,0.5,0.0047609999999999935
+NLM-EZ,Daystar University Men,Gorillas,0.529,0.0,0.279841
+NLM-EZ,Mombasa Sports Club,Parklands Sports Club – Legacy,0.544,0.5,0.0019360000000000035
+NLM-EZ,Mombasa West,Black Tigers,0.541,1.0,0.21068099999999998
+NLM-EZ,Snippers Hockey Club (Makueni),Ulinzi Patriots,0.471,0.0,0.22184099999999998
+NLM-EZ,Mombasa Sports Club,Black Tigers,0.57,0.5,0.004899999999999993
+NLM-EZ,Mombasa West,Parklands Sports Club – Legacy,0.547,0.5,0.002209000000000004
+NLM-EZ,Black Tigers,Parklands Sports Club – Legacy,0.522,1.0,0.228484
+NLM-EZ,Snippers Hockey Club (Makueni),Daystar University Men,0.538,0.0,0.28944400000000003
+NLM-EZ,Ulinzi Patriots,Black Tigers,0.582,1.0,0.17472400000000002
+NLM-EZ,Black Tigers,Daystar University Men,0.584,1.0,0.17305600000000004
+NLM-EZ,Black Tigers,Gorillas,0.57,0.0,0.32489999999999997
+NLM-SZ,Bay Club,Kisii Falcons,0.55,0.0,0.30250000000000005
+NLM-SZ,Oyugis Hockey Club,Kisii Falcons,0.53,0.0,0.28090000000000004
+NLM-SZ,Kisii Falcons,Gorillas Hockey CLub – Migori,0.612,1.0,0.150544
+NLM-SZ,Oyugis Hockey Club,Gorillas Hockey CLub – Migori,0.528,0.0,0.27878400000000003
+NLM-SZ,Oyugis Hockey Club,Bay Club,0.508,0.0,0.258064
+NLM-SZ,Gorillas Hockey CLub – Migori,Bay Club,0.551,0.0,0.30360100000000007
+NLM-WZ,Fire Flickers,Lakers Hockey Club Men,0.55,0.5,0.0025000000000000044
+NLM-WZ,GHF Blue Pirates II,Kitale Hockey Club,0.55,0.0,0.30250000000000005
+NLM-WZ,Nandi Hawks,Fire Flickers,0.552,1.0,0.20070399999999997
+NLM-WZ,Lakers Hockey Club Men,GHF Blue Pirates II,0.565,1.0,0.18922500000000006
+NLM-WZ,Fire Flickers,GHF Blue Pirates II,0.561,1.0,0.19272099999999995
+NLM-WZ,GHF Blue Pirates II,Nandi Hawks,0.5,0.5,0.0
+NLM-WZ,Nandi Hawks,Lakers Hockey Club Men,0.549,0.0,0.30140100000000003
+NLM-WZ,Kitale Hockey Club,Nandi Hawks,0.565,1.0,0.18922500000000006
+NLM-WZ,Fire Flickers,Kitale Hockey Club,0.511,0.0,0.261121
+NLM-WZ,Lakers Hockey Club Men,Kitale Hockey Club,0.52,0.0,0.27040000000000003
+NLM-WZ,Western Jaguars Dev,Kitale Hockey Club,0.482,0.0,0.23232399999999997
+PLM,Greensharks,Parklands Sports Club,0.55,0.0,0.30250000000000005
+PLM,Kenya Police,USIU – A,0.55,0.5,0.0025000000000000044
+PLM,Warriors,Wazalendo,0.55,0.5,0.0025000000000000044
+PLM,Western Jaguars,Kisumu Youngsters,0.55,1.0,0.20249999999999996
+PLM,Sikh Union Nairobi,Greensharks,0.57,1.0,0.18490000000000004
+PLM,USIU – A,Wazalendo,0.55,0.0,0.30250000000000005
+PLM,Warriors,Kenya Police,0.55,0.5,0.0025000000000000044
+PLM,Greensharks,Kisumu Youngsters,0.53,0.0,0.28090000000000004
+PLM,Parklands Sports Club,Daikyo Heroes,0.57,0.0,0.32489999999999997
+PLM,USIU – A,Sikh Union Nairobi,0.529,0.0,0.279841
+PLM,Wazalendo,Western Jaguars,0.554,1.0,0.19891599999999995
+PLM,Greensharks,Western Jaguars,0.507,0.0,0.257049
+PLM,Parklands Sports Club,Kenya Police,0.55,0.5,0.0025000000000000044
+PLM,Sikh Union Nairobi,Daikyo Heroes,0.552,1.0,0.20070399999999997
+PLM,Warriors,USIU – A,0.57,1.0,0.18490000000000004
+PLM,Wazalendo,Kisumu Youngsters,0.573,1.0,0.18232900000000005
+PLM,Kenya Police,Sikh Union Nairobi,0.508,0.0,0.258064
+PLM,Kisumu Youngsters,Parklands Sports Club,0.539,0.0,0.29052100000000003
+PLM,Western Jaguars,USIU – A,0.607,1.0,0.154449
+PLM,Daikyo Heroes,Greensharks,0.616,1.0,0.147456
+PLM,Kisumu Youngsters,USIU – A,0.572,1.0,0.18318400000000004
+PLM,Western Jaguars,Parklands Sports Club,0.578,0.0,0.33408399999999994
+PLM,Kenya Police,Western Jaguars,0.515,0.5,0.0002250000000000004
+PLM,Kisumu Youngsters,Daikyo Heroes,0.526,0.0,0.27667600000000003
+PLM,Parklands Sports Club,Warriors,0.567,0.0,0.32148899999999997
+PLM,Wazalendo,Sikh Union Nairobi,0.535,0.5,0.0012250000000000021
+PLM,Kenya Police,Kisumu Youngsters,0.562,0.5,0.0038440000000000067
+PLM,Sikh Union Nairobi,Warriors,0.574,0.0,0.32947599999999994
+PLM,USIU – A,Parklands Sports Club,0.489,1.0,0.261121
+PLM,Western Jaguars,Daikyo Heroes,0.549,1.0,0.20340099999999997
+PLM,Daikyo Heroes,Kenya Police,0.573,1.0,0.18232900000000005
+PLM,Kisumu Youngsters,Sikh Union Nairobi,0.486,0.5,0.00019600000000000035
+PLM,Western Jaguars,Warriors,0.546,0.5,0.0021160000000000037
+PLM,Daikyo Heroes,Wazalendo,0.536,1.0,0.21529599999999996
+PLM,Kisumu Youngsters,Warriors,0.482,1.0,0.268324
+PLM,Western Jaguars,Sikh Union Nairobi,0.548,1.0,0.20430399999999996
+PLM,Kenya Police,Greensharks,0.601,1.0,0.159201
+PLM,Sikh Union Nairobi,Parklands Sports Club,0.591,1.0,0.167281
+PLM,Kenya Police,Wazalendo,0.502,1.0,0.248004
+PLM,Warriors,Greensharks,0.67,1.0,0.10889999999999997
+PLM,Greensharks,Wazalendo,0.436,0.0,0.190096
+PLM,USIU – A,Daikyo Heroes,0.462,1.0,0.28944400000000003
+PLM,Greensharks,USIU – A,0.481,0.0,0.23136099999999998
+PLM,Warriors,Daikyo Heroes,0.569,1.0,0.18576100000000004
+PLM,Wazalendo,Parklands Sports Club,0.606,0.0,0.367236
+PLW,Blazers Hockey Club,Kenyatta University Ladies,0.55,1.0,0.20249999999999996
+PLW,Strathmore University Ladies,USIU – A Ladies,0.55,0.5,0.0025000000000000044
+PLW,UON Ladies,Amira Sailors Hockey Club,0.55,0.0,0.30250000000000005
+PLW,Amira Sailors Hockey Club,Blazers Hockey Club,0.546,0.0,0.29811600000000005
+PLW,Kenyatta University Ladies,Sliders Hockey Club,0.534,0.5,0.001156000000000002
+PLW,Lakers Hockey Club,Kisumu Queens,0.55,0.5,0.0025000000000000044
+PLW,Strathmore University Ladies,UON Ladies,0.561,0.0,0.3147210000000001
+PLW,USIU – A Ladies,JKUAT Ladies,0.552,1.0,0.20070399999999997
+PLW,Amira Sailors Hockey Club,Sliders Hockey Club,0.536,0.5,0.0012960000000000022
+PLW,Strathmore University Ladies,Blazers Hockey Club,0.493,0.0,0.243049
+PLW,USIU – A Ladies,UON Ladies,0.568,0.5,0.004623999999999993
+PLW,Blazers Hockey Club,Sliders Hockey Club,0.607,1.0,0.154449
+PLW,Kisumu Queens,USIU – A Ladies,0.536,0.5,0.0012960000000000022
+PLW,Lakers Hockey Club,Strathmore University Ladies,0.581,0.5,0.006560999999999994
+PLW,Kisumu Queens,Strathmore University Ladies,0.581,0.5,0.006560999999999994
+PLW,Lakers Hockey Club,USIU – A Ladies,0.528,0.0,0.27878400000000003
+PLW,UON Ladies,Blazers Hockey Club,0.474,0.5,0.0006760000000000013
+PLW,Sliders Hockey Club,USIU – A Ladies,0.505,0.0,0.255025
+PLW,Strathmore University Ladies,Amira Sailors Hockey Club,0.536,0.5,0.0012960000000000022
+PLW,UON Ladies,Lakers Hockey Club,0.57,0.0,0.32489999999999997
+PLW,Sliders Hockey Club,Lakers Hockey Club,0.519,0.0,0.269361
+PLW,USIU – A Ladies,Blazers Hockey Club,0.521,0.5,0.0004410000000000008
+PLW,Kisumu Queens,Amira Sailors Hockey Club,0.561,0.5,0.0037210000000000064
+PLW,Strathmore University Ladies,Sliders Hockey Club,0.59,1.0,0.16810000000000003
+PLW,Lakers Hockey Club,Amira Sailors Hockey Club,0.591,1.0,0.167281
+PLW,Sliders Hockey Club,UON Ladies,0.481,1.0,0.269361
+PLW,Blazers Hockey Club,Kisumu Queens,0.631,1.0,0.136161
+PLW,USIU – A Ladies,Amira Sailors Hockey Club,0.617,0.0,0.380689
+SLM,Parkroad Badgers,Parkroad Tigers,0.55,0.0,0.30250000000000005
+SLM,UON Men,KCA University,0.55,0.0,0.30250000000000005
+SLM,Parkroad Badgers,KCA University,0.524,0.0,0.27457600000000004
+SLM,UON Men,Parkroad Tigers,0.524,1.0,0.22657599999999997
+SLM,Impala,Wazalendo Masters,0.55,0.5,0.0025000000000000044
+SLM,Strathmore University,UON Men,0.552,0.5,0.002704000000000005
+SLM,Impala,UON Men,0.548,1.0,0.20430399999999996
+SLM,Parkroad Tigers,Strathmore University,0.554,0.0,0.3069160000000001
+SLM,Wazalendo Masters,KCA University,0.519,0.0,0.269361
+SLM,Mvita XI,Wazalendo Masters,0.573,1.0,0.18232900000000005
+SLM,Parkroad Badgers,Nakuru Hockey Club,0.518,1.0,0.23232399999999997
+SLM,Parkroad Tigers,KCA University,0.464,0.0,0.21529600000000002
+SLM,Mvita XI,Impala,0.557,0.5,0.003249000000000006
+SLM,Parkroad Tigers,Nakuru Hockey Club,0.509,1.0,0.241081
+SLM,UON Men,Parkroad Badgers,0.554,0.0,0.3069160000000001
+SLM,KCA University,Mvita XI,0.622,0.0,0.386884
+SLM,Strathmore University,Wazalendo Masters,0.616,1.0,0.147456
+SLM,Nakuru Hockey Club,GHF Blue Pirates,0.52,0.0,0.27040000000000003
+SLM,Strathmore University,Impala,0.581,0.5,0.006560999999999994
+SLM,Wazalendo Masters,UON Men,0.534,0.0,0.285156
+SLM,KCA University,Impala,0.609,1.0,0.15288100000000002
+SLM,Parkroad Badgers,Strathmore University,0.522,0.0,0.272484
+SLM,Wazalendo Masters,GHF Blue Pirates,0.472,0.0,0.22278399999999998
+SLM,Nakuru Hockey Club,Wazalendo Masters,0.59,0.5,0.008099999999999994
+SLM,Nakuru Hockey Club,Impala,0.512,0.5,0.00014400000000000025
+SLM,GHF Blue Pirates,Mvita XI,0.552,0.0,0.30470400000000003
+SLM,Impala,Parkroad Badgers,0.556,1.0,0.19713599999999995
+SLM,KCA University,Nakuru Hockey Club,0.682,1.0,0.10112399999999996
+SLM,Parkroad Tigers,Wazalendo Masters,0.582,1.0,0.17472400000000002
+SLM,Impala,GHF Blue Pirates,0.544,0.5,0.0019360000000000035
+SLM,KCA University,Strathmore University,0.591,0.0,0.34928099999999995
+SLM,Mvita XI,Nakuru Hockey Club,0.651,0.5,0.022801000000000005
+SLM,Parkroad Badgers,Wazalendo Masters,0.615,0.0,0.378225
+SLW,Black Tigresses,Twinkle Hockey Club,0.55,0.0,0.30250000000000005
+SLW,Swans Hockey Club,Mombasa Sports Club Ladies,0.55,0.5,0.0025000000000000044
+SLW,Wazalendo Pearls,Twinkle Hockey Club,0.514,0.0,0.264196
+SLW,Wazalendo Pearls,GHF Rift Pirates Ladies,0.538,1.0,0.21344399999999997
+SLW,Daystar University Ladies,GHF Rift Pirates Ladies,0.561,0.0,0.3147210000000001
+SLW,Lakers Hockey Club – B,Twinkle Hockey Club,0.502,0.5,4.0000000000000074e-06
+SLW,Swans Hockey Club,Wazalendo Pearls,0.55,0.5,0.0025000000000000044
+SLW,GHF Rift Pirates Ladies,Twinkle Hockey Club,0.512,0.0,0.262144
+SLW,Mombasa Sports Club Ladies,Wazalendo Pearls,0.552,0.0,0.30470400000000003
+SLW,Daystar University Ladies,Wazalendo Pearls,0.516,0.0,0.266256
+SLW,GHF Rift Pirates Ladies,Lakers Hockey Club – B,0.548,1.0,0.20430399999999996
+SLW,Daystar University Ladies,Lakers Hockey Club – B,0.516,0.0,0.266256
+SLW,Daystar University Ladies,Gorillas Hockey Club – Ladies,0.493,1.0,0.257049
+SLW,Twinkle Hockey Club,Daystar University Ladies,0.645,1.0,0.126025
+SLW,Wazalendo Pearls,Gorillas Hockey Club – Ladies,0.606,1.0,0.155236
+SLW,GHF Rift Pirates Ladies,Mombasa Sports Club Ladies,0.57,1.0,0.18490000000000004
+SLW,Lakers Hockey Club – B,Gorillas Hockey Club – Ladies,0.58,1.0,0.17640000000000003
+SLW,Swans Hockey Club,Lakers Hockey Club – B,0.535,0.0,0.286225
+SLW,Lakers Hockey Club – B,Mombasa Sports Club Ladies,0.595,0.5,0.009024999999999995
+SLW,Swans Hockey Club,GHF Rift Pirates Ladies,0.516,1.0,0.234256

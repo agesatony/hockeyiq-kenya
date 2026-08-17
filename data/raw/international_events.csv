@@ -1,0 +1,240 @@
+CompetitionKey,HomeTeam,AwayTeam,Date,EventType,GoalType,Team,Player,Minute,CardType
+AFCON-M-2017,Ghana,Kenya,2017-10-22,Goal,Field Goal,Ghana,DAMALIE Luke,4,
+AFCON-M-2017,Ghana,Kenya,2017-10-22,Goal,Field Goal,Ghana,AKABA Elikem,33,
+AFCON-M-2017,Ghana,Kenya,2017-10-22,Goal,Penalty Corner,Ghana,AKUAMOAH-BOATENG Michael,45,
+AFCON-M-2017,Ghana,Kenya,2017-10-22,Card,,Ghana,AKABA Emmanuel,27,G
+AFCON-M-2017,Ghana,Kenya,2017-10-22,Card,,Kenya,MANGO Kennedy,29,G
+AFCON-M-2017,Ghana,Kenya,2017-10-22,Card,,Ghana,OPOKU Ernest,49,G
+AFCON-M-2017,Egypt,Kenya,2017-10-23,Goal,Field Goal,Egypt,ELNAGGAR Ahmed,2,
+AFCON-M-2017,Egypt,Kenya,2017-10-23,Goal,Field Goal,Egypt,ELHADY Amr,4,
+AFCON-M-2017,Egypt,Kenya,2017-10-23,Goal,Field Goal,Egypt,GHOBRAN Houssam,50,
+AFCON-M-2017,Egypt,Kenya,2017-10-23,Goal,Field Goal,Kenya,MUTRIA George,52,
+AFCON-M-2017,Egypt,Kenya,2017-10-23,Goal,Penalty Corner,Egypt,GAMAL Ahmed,54,
+AFCON-M-2017,Egypt,Kenya,2017-10-23,Card,,Egypt,ELNAGGAR Ahmed,10,G
+AFCON-M-2017,Egypt,Kenya,2017-10-23,Card,,Kenya,OUNGO Samuel,15,G
+AFCON-M-2017,Egypt,Kenya,2017-10-23,Card,,Egypt,RAMADAN Mohamed,49,G
+AFCON-M-2017,Kenya,Nigeria,2017-10-25,Goal,Field Goal,Nigeria,JOHN Michael,39,
+AFCON-M-2017,Kenya,Nigeria,2017-10-25,Goal,Penalty Corner,Kenya,ONYANGO Festus,43,
+AFCON-M-2017,Kenya,Nigeria,2017-10-25,Goal,Penalty Corner,Kenya,WAKHURA Constant,56,
+AFCON-M-2017,Kenya,Nigeria,2017-10-25,Card,,Nigeria,FOWOBAJE Oluwatosin,10,G
+AFCON-M-2017,Kenya,Nigeria,2017-10-25,Card,,Nigeria,NZETE Endurance,16,G
+AFCON-M-2017,Kenya,Nigeria,2017-10-25,Card,,Nigeria,NZETE Endurance,33,G
+AFCON-M-2017,Kenya,Nigeria,2017-10-25,Card,,Nigeria,BELLO Muiz,36,G
+AFCON-M-2017,Kenya,Nigeria,2017-10-25,Card,,Nigeria,OGUNRUKU Sunday,41,Y  (5')
+AFCON-M-2017,Kenya,Nigeria,2017-10-25,Card,,Nigeria,BELLO Muiz,41,Y  (5')
+AFCON-M-2017,Kenya,Nigeria,2017-10-25,Card,,Kenya,ESIKURI Francis,55,Y  (5')
+AFCON-M-2017,South Africa,Kenya,2017-10-28,Goal,Penalty Corner,South Africa,EUSTICE Jethro,18,
+AFCON-M-2017,South Africa,Kenya,2017-10-28,Goal,Field Goal,South Africa,ROSENBERG Reza,19,
+AFCON-M-2017,South Africa,Kenya,2017-10-28,Goal,Penalty Corner,Kenya,WAKHURA Constant,19,
+AFCON-M-2017,South Africa,Kenya,2017-10-28,Goal,Field Goal,South Africa,HORNE Keenan,34,
+AFCON-M-2017,South Africa,Kenya,2017-10-28,Goal,Penalty Corner,South Africa,BELL Daniel,37,
+AFCON-M-2017,South Africa,Kenya,2017-10-28,Goal,Penalty Corner,South Africa,ROBINSON Jonathan,46,
+AFCON-M-2017,South Africa,Kenya,2017-10-28,Goal,Field Goal,South Africa,HORNE Keenan,48,
+AFCON-M-2017,South Africa,Kenya,2017-10-28,Card,,South Africa,HAMMOND Tom,42,G
+AFCON-M-2017,South Africa,Kenya,2017-10-28,Card,,Kenya,BIRIR Richard,49,G
+AFCON-M-2017,Ghana,Kenya,2017-10-29,Goal,Penalty Stroke,Kenya,WAKHURA Constant,17,
+AFCON-M-2017,Ghana,Kenya,2017-10-29,Goal,Penalty Corner,Ghana,TETTEY Francis,20,
+AFCON-M-2017,Ghana,Kenya,2017-10-29,Goal,Field Goal,Ghana,AKABA Elikem,20,
+AFCON-M-2017,Ghana,Kenya,2017-10-29,Goal,Penalty Corner,Ghana,DAMALIE Luke,23,
+AFCON-M-2017,Ghana,Kenya,2017-10-29,Goal,Field Goal,Ghana,AKABA Elikem,30,
+AFCON-M-2017,Ghana,Kenya,2017-10-29,Goal,Penalty Corner,Ghana,ANKOMAH Emmanuel,42,
+AFCON-M-2017,Ghana,Kenya,2017-10-29,Goal,Penalty Corner,Kenya,ONYANGO Festus,52,
+AFCON-M-2017,Ghana,Kenya,2017-10-29,Goal,Penalty Corner,Kenya,MANGO Kennedy,56,
+AFCON-M-2017,Ghana,Kenya,2017-10-29,Card,,Kenya,MASIBO Robert,23,G
+AFCON-M-2017,Ghana,Kenya,2017-10-29,Card,,Kenya,OUNGO Samuel,35,Y  (5')
+AFCON-M-2017,Ghana,Kenya,2017-10-29,Card,,Ghana,AKABA Emmanuel,37,Y  (5')
+AFCON-M-2017,Ghana,Kenya,2017-10-29,Card,,Kenya,ESIKURI Francis,42,Y  (5')
+AFCON-M-2017,Ghana,Kenya,2017-10-29,Card,,Kenya,WAKHURA Constant,45,G
+AFCON-M-2017,Ghana,Kenya,2017-10-29,Card,,Ghana,AKUAMOAH-BOATENG Michael,48,Y  (5')
+AFCON-M-2017,Ghana,Kenya,2017-10-29,Card,,Ghana,AKABA Elikem,48,Y  (5')
+AFCON-M-2017,Ghana,Kenya,2017-10-29,Card,,Ghana,DAMALIE Luke,53,Y  (5')
+AFCON-M-2022,Namibia,Kenya,2022-01-18,Goal,Penalty Corner,Kenya,WAKHURA Constant,14,
+AFCON-M-2022,Namibia,Kenya,2022-01-18,Goal,Field Goal,Namibia,TJIKUNIVA Isascar,18,
+AFCON-M-2022,Namibia,Kenya,2022-01-18,Goal,Penalty Corner,Kenya,ININGU Allan,51,
+AFCON-M-2022,Namibia,Kenya,2022-01-18,Goal,Field Goal,Kenya,AWINO Emmanuel,53,
+AFCON-M-2022,Namibia,Kenya,2022-01-18,Goal,Field Goal,Kenya,ONYANGO Festus,57,
+AFCON-M-2022,Namibia,Kenya,2022-01-18,Card,,Namibia,HILBERT Nicolai,2,G
+AFCON-M-2022,Namibia,Kenya,2022-01-18,Card,,Namibia,LA COCK Dian,13,G
+AFCON-M-2022,Namibia,Kenya,2022-01-18,Card,,Kenya,ONYANGO Festus,19,G
+AFCON-M-2022,Namibia,Kenya,2022-01-18,Card,,Namibia,VAN der MERWE Josh,24,G
+AFCON-M-2022,Namibia,Kenya,2022-01-18,Card,,Namibia,SEMEDO Ivan-Mendes,36,Y  (5')
+AFCON-M-2022,Namibia,Kenya,2022-01-18,Card,,Namibia,LA COCK Dian,43,Y  (5')
+AFCON-M-2022,Namibia,Kenya,2022-01-18,Card,,Namibia,BARTHRAM Percy,49,Y  (5')
+AFCON-M-2022,Kenya,South Africa,2022-01-19,Goal,Field Goal,South Africa,NTULI Nqobile,33,
+AFCON-M-2022,Kenya,South Africa,2022-01-19,Goal,Field Goal,South Africa,NTULI Nqobile,37,
+AFCON-M-2022,Kenya,South Africa,2022-01-19,Goal,Penalty Corner,Kenya,WAKHURA Constant,40,
+AFCON-M-2022,Kenya,South Africa,2022-01-19,Card,,Kenya,OGENCHE Brian,15,G
+AFCON-M-2022,Kenya,South Africa,2022-01-19,Card,,Kenya,KIPYEGO Titus,25,G
+AFCON-M-2022,Kenya,South Africa,2022-01-19,Card,,Kenya,WANGANGA Richard,27,G
+AFCON-M-2022,Kenya,South Africa,2022-01-19,Card,,South Africa,HORNE Keenan,30,G
+AFCON-M-2022,Kenya,South Africa,2022-01-19,Card,,South Africa,DLUNGWANA Tyson,30,Y  (5')
+AFCON-M-2022,Kenya,South Africa,2022-01-19,Card,,South Africa,NTULI Nqobile,37,G
+AFCON-M-2022,Kenya,South Africa,2022-01-19,Card,,Kenya,AWINO Emmanuel,51,G
+AFCON-M-2022,Kenya,South Africa,2022-01-19,Card,,Kenya,NDOMBI Edson,51,Y  (10')
+AFCON-M-2022,Kenya,South Africa,2022-01-19,Card,,South Africa,SPOONER Nicholas,57,G
+AFCON-M-2022,Egypt,Kenya,2022-01-22,Goal,Penalty Corner,Egypt,NASR Mohamed,11,
+AFCON-M-2022,Egypt,Kenya,2022-01-22,Goal,Field Goal,Egypt,RAGAB Mostafa,12,
+AFCON-M-2022,Egypt,Kenya,2022-01-22,Goal,Field Goal,Egypt,RAGAB Mostafa,27,
+AFCON-M-2022,Egypt,Kenya,2022-01-22,Goal,Penalty Corner,Egypt,ADEL Mohamed,37,
+AFCON-M-2022,Egypt,Kenya,2022-01-22,Goal,Field Goal,Egypt,ELNAGGAR Ahmed,43,
+AFCON-M-2022,Egypt,Kenya,2022-01-22,Goal,Penalty Corner,Kenya,WAKHURA Constant,51,
+AFCON-M-2022,Egypt,Kenya,2022-01-22,Card,,Egypt,NASR Mohamed,33,Y  (5')
+AFCON-M-2022,Egypt,Kenya,2022-01-22,Card,,Egypt,SAID Ashraf,41,G
+AFCON-M-2022,Nigeria,Kenya,2022-01-23,Goal,Penalty Corner,Nigeria,GODWIN Sunday,7,
+AFCON-M-2022,Nigeria,Kenya,2022-01-23,Goal,Field Goal,Nigeria,SUNDAY Emmanuel,18,
+AFCON-M-2022,Nigeria,Kenya,2022-01-23,Goal,Penalty Corner,Kenya,KIPYEGO Titus,18,
+AFCON-M-2022,Nigeria,Kenya,2022-01-23,Goal,Penalty Corner,Nigeria,IBRAHIM Benjamin,31,
+AFCON-M-2022,Nigeria,Kenya,2022-01-23,Goal,Penalty Corner,Nigeria,SAMAILA James,44,
+AFCON-M-2022,Nigeria,Kenya,2022-01-23,Goal,Field Goal,Kenya,ININGU Allan,52,
+AFCON-M-2022,Nigeria,Kenya,2022-01-23,Card,,Kenya,AWINO Emmanuel,23,G
+AFCON-M-2022,Nigeria,Kenya,2022-01-23,Card,,Nigeria,MU'AZU Shanwilu,29,G
+AFCON-M-2022,Nigeria,Kenya,2022-01-23,Card,,Kenya,WANGANGA Richard,31,G
+AFCON-M-2022,Nigeria,Kenya,2022-01-23,Card,,Kenya,KIPYEGO Titus,33,Y  (5')
+AFCON-M-2022,Nigeria,Kenya,2022-01-23,Card,,Nigeria,AJIBUA Olawale,44,Y  (5')
+AFCON-M-2022,Nigeria,Kenya,2022-01-23,Card,,Kenya,WANGANGA Richard,50,G
+AFCON-M-2022,Nigeria,Kenya,2022-01-23,Card,,Nigeria,VICTOR Kish,54,Y  (5')
+AFCON-W-2022,Kenya,Zambia,2022-01-19,Goal,Field Goal,Kenya,OPONDO Aurelia,11,
+AFCON-W-2022,Kenya,Zambia,2022-01-19,Goal,Field Goal,Kenya,MUTIVA Flavia,45,
+AFCON-W-2022,Kenya,Zambia,2022-01-19,Goal,Field Goal,Kenya,BWIRE Grace,57,
+AFCON-W-2022,Kenya,Zambia,2022-01-19,Card,,Zambia,NANKALA Martha,45,Y  (5')
+AFCON-W-2022,Kenya,Zambia,2022-01-19,Card,,Kenya,KIPSANG Lynne,60,G
+AFCON-W-2022,No goals scored,No cards issued,2022-01-18,Goal,No goals scored,No goals scored,No goals scored,No goals scored,
+AFCON-W-2022,No goals scored,No cards issued,2022-01-18,Card,,No cards issued,No cards issued,No cards issued,No cards issued
+AFCON-W-2022,Nigeria,Kenya,2022-01-20,Goal,Penalty Corner,Nigeria,JOHNSON Benedicta,11,
+AFCON-W-2022,Nigeria,Kenya,2022-01-20,Goal,Field Goal,Kenya,OPONDO Aurelia,15,
+AFCON-W-2022,Nigeria,Kenya,2022-01-20,Goal,Field Goal,Kenya,KEMUNTO Naom,54,
+AFCON-W-2022,Nigeria,Kenya,2022-01-20,Card,,Nigeria,HAMMED Nosirat,20,G
+AFCON-W-2022,South Africa,Kenya,2022-01-21,Goal,Penalty Corner,South Africa,BOBBS Quanita,21,
+AFCON-W-2022,South Africa,Kenya,2022-01-21,Goal,Field Goal,South Africa,GLASBY Tarryn,39,
+AFCON-W-2022,South Africa,Kenya,2022-01-21,Goal,Penalty Corner,South Africa,MADDOCKS Charné,55,
+AFCON-W-2022,South Africa,Kenya,2022-01-21,Goal,Field Goal,South Africa,GLASBY Tarryn,59,
+AFCON-W-2022,South Africa,Kenya,2022-01-21,Card,,Kenya,OPONDO Aurelia,28,G
+AFCON-W-2022,South Africa,Kenya,2022-01-21,Card,,South Africa,MARAIS Marizen,33,G
+AFCON-W-2022,South Africa,Kenya,2022-01-21,Card,,Kenya,KUIRA Rhoda,39,G
+AFCON-W-2022,South Africa,Kenya,2022-01-21,Card,,Kenya,KIPSANG Lynne,40,Y  (5')
+AFCON-W-2022,Kenya,Zimbabwe,2022-01-23,Goal,No goals scored,No goals scored,No goals scored,No goals scored,
+AFCON-W-2022,Kenya,Zimbabwe,2022-01-23,Card,,Kenya,ONYANGO Vivian,29,G
+AFCON-W-2022,Kenya,Zimbabwe,2022-01-23,Card,,Zimbabwe,NENGARE Farirai,48,G
+AFCON-W-2022,Kenya,Zimbabwe,2022-01-23,Card,,Kenya,OKUMU Maureen,55,G
+AFCON-M-2025,Egypt,Kenya,2025-10-11,Goal,Field Goal,Kenya,MASAMBU Bethuel,40,
+AFCON-M-2025,Egypt,Kenya,2025-10-11,Goal,Penalty Corner,Egypt,RAGAB Hossameldin,43,
+AFCON-M-2025,Egypt,Kenya,2025-10-11,Goal,Field Goal,Egypt,RAGAB Mostafa,51,
+AFCON-M-2025,Egypt,Kenya,2025-10-11,Card,,Egypt,MAMDOUH Mahmoud,12,G
+AFCON-M-2025,Egypt,Kenya,2025-10-11,Card,,Kenya,USAGI Sutcliffe,16,Y  (10')
+AFCON-M-2025,Egypt,Kenya,2025-10-11,Card,,Kenya,MANGO Kennedy,19,G
+AFCON-M-2025,Egypt,Kenya,2025-10-11,Card,,Egypt,SAID Ashraf,39,Y  (5')
+AFCON-M-2025,Egypt,Kenya,2025-10-11,Card,,Kenya,WESONGA Vincent,51,G
+AFCON-M-2025,Egypt,Kenya,2025-10-11,Card,,Egypt,RAGAB Mostafa,59,Y  (5')
+AFCON-M-2025,South Africa,Kenya,2025-10-12,Goal,Field Goal,South Africa,HORNE Keenan,20,
+AFCON-M-2025,South Africa,Kenya,2025-10-12,Goal,Penalty Corner,South Africa,CASSIEM Mustaphaa,24,
+AFCON-M-2025,South Africa,Kenya,2025-10-12,Goal,Penalty Corner,Kenya,MASAMBU Bethuel,40,
+AFCON-M-2025,South Africa,Kenya,2025-10-12,Goal,Penalty Corner,South Africa,DAVIS Calvin,49,
+AFCON-M-2025,South Africa,Kenya,2025-10-12,Card,,South Africa,MVIMBI Samkelo,12,G
+AFCON-M-2025,South Africa,Kenya,2025-10-12,Card,,South Africa,MVIMBI Samkelo,12,Y  (10')
+AFCON-M-2025,South Africa,Kenya,2025-10-12,Card,,Kenya,ASHIHUNDU Charles,20,Y  (5')
+AFCON-M-2025,South Africa,Kenya,2025-10-12,Card,,Kenya,LUDIALI Ivan,20,G
+AFCON-M-2025,South Africa,Kenya,2025-10-12,Card,,South Africa,RAATH Niel,29,G
+AFCON-M-2025,South Africa,Kenya,2025-10-12,Card,,Kenya,ASHIHUNDU Charles,49,G
+AFCON-M-2025,Kenya,Ghana,2025-10-14,Goal,Field Goal,Ghana,KWOFIE Benjamin,5,
+AFCON-M-2025,Kenya,Ghana,2025-10-14,Goal,Field Goal,Ghana,APRONTI Sylvester,5,
+AFCON-M-2025,Kenya,Ghana,2025-10-14,Goal,Penalty Corner,Kenya,OMWAKA Mathias,7,
+AFCON-M-2025,Kenya,Ghana,2025-10-14,Goal,Penalty Corner,Ghana,QUAGRAINE Kofi,10,
+AFCON-M-2025,Kenya,Ghana,2025-10-14,Goal,Penalty Stroke,Ghana,AKABA Emmanuel,23,
+AFCON-M-2025,Kenya,Ghana,2025-10-14,Goal,Field Goal,Kenya,LOISE Moses,60,
+AFCON-M-2025,Kenya,Ghana,2025-10-14,Card,,Kenya,MASAMBU Bethuel,11,G
+AFCON-M-2025,Kenya,Ghana,2025-10-14,Card,,Ghana,TEYE Joshua,12,G
+AFCON-M-2025,Kenya,Ghana,2025-10-14,Card,,Ghana,TEYE Joshua,16,G
+AFCON-M-2025,Kenya,Ghana,2025-10-14,Card,,Kenya,ASHIHUNDU Charles,23,G
+AFCON-M-2025,Kenya,Ghana,2025-10-14,Card,,Ghana,ASAMOAH Stephen,43,G
+AFCON-M-2025,Kenya,Ghana,2025-10-14,Card,,Ghana,APRONTI Sylvester,52,Y  (5')
+AFCON-M-2025,Kenya,Ghana,2025-10-14,Card,,Ghana,ABDUL Malik,57,Y  (5')
+AFCON-M-2025,Nigeria,Kenya,2025-10-15,Goal,Field Goal,Nigeria,JOHN Peter,4,
+AFCON-M-2025,Nigeria,Kenya,2025-10-15,Goal,Penalty Corner,Kenya,OMWAKA Mathias,15+,
+AFCON-M-2025,Nigeria,Kenya,2025-10-15,Goal,Field Goal,Kenya,MOSOIKO Alex,43,
+AFCON-M-2025,Nigeria,Kenya,2025-10-15,Card,,Kenya,ADEMBA Moses,31,G
+AFCON-M-2025,Nigeria,Kenya,2025-10-15,Card,,Nigeria,GODWIN Sunday,36,G
+AFCON-M-2025,Nigeria,Kenya,2025-10-15,Card,,Kenya,ASHIHUNDU Charles,49,Y  (5')
+AFCON-M-2025,Nigeria,Kenya,2025-10-15,Card,,Nigeria,SAMAILA James,49,Y  (5')
+AFCON-M-2025,Nigeria,Kenya,2025-10-15,Card,,Kenya,ADEMBA Moses,59,Y  (10')
+AFCON-M-2025,Kenya,Zambia,2025-10-17,Goal,Field Goal,Zambia,TAGWIREYI Abraham,9,
+AFCON-M-2025,Kenya,Zambia,2025-10-17,Goal,Field Goal,Zambia,MPANDE Alfred,12,
+AFCON-M-2025,Kenya,Zambia,2025-10-17,Goal,Field Goal,Kenya,LUDIALI Ivan,22,
+AFCON-M-2025,Kenya,Zambia,2025-10-17,Goal,Field Goal,Kenya,NAYOMBE Linton,23,
+AFCON-M-2025,Kenya,Zambia,2025-10-17,Goal,Field Goal,Kenya,OMARI Cliffe,46,
+AFCON-M-2025,Kenya,Zambia,2025-10-17,Card,,Zambia,KAPENDA Andrew,16,G
+AFCON-M-2025,Kenya,Zambia,2025-10-17,Card,,Zambia,BANDA Richard,18,G
+AFCON-M-2025,Kenya,Zambia,2025-10-17,Card,,Kenya,NDOMBI Edson,26,G
+AFCON-M-2025,Kenya,Zambia,2025-10-17,Card,,Kenya,OMWAKA Mathias,30,Y  (5')
+AFCON-M-2025,Kenya,Zambia,2025-10-17,Card,,Zambia,KAPENDA Andrew,36,G
+AFCON-M-2025,Kenya,Zambia,2025-10-17,Card,,Kenya,ASHIHUNDU Charles,48,Y  (5')
+AFCON-M-2025,Kenya,Zambia,2025-10-17,Card,,Kenya,MANGO Kennedy,59,G
+AFCON-M-2025,Kenya,Nigeria,2025-10-18,Goal,Field Goal,Nigeria,SOLOMON Dennis,17,
+AFCON-M-2025,Kenya,Nigeria,2025-10-18,Goal,Field Goal,Kenya,USAGI Sutcliffe,25,
+AFCON-M-2025,Kenya,Nigeria,2025-10-18,Goal,Penalty Corner,Nigeria,SAMAILA James,46,
+AFCON-M-2025,Kenya,Nigeria,2025-10-18,Goal,Penalty Corner,Nigeria,SAMAILA James,50,
+AFCON-M-2025,Kenya,Nigeria,2025-10-18,Card,,Nigeria,AJIBUA Olawale,26,G
+AFCON-M-2025,Kenya,Nigeria,2025-10-18,Card,,Nigeria,SAMAILA James,27,G
+AFCON-M-2025,Kenya,Nigeria,2025-10-18,Card,,Kenya,LOISE Moses,30,G
+AFCON-M-2025,Kenya,Nigeria,2025-10-18,Card,,Nigeria,IBRAHIM Benjamin,36,G
+AFCON-M-2025,Kenya,Nigeria,2025-10-18,Card,,Nigeria,AJIBUA Olawale,38,Y  (5')
+AFCON-M-2025,Kenya,Nigeria,2025-10-18,Card,,Kenya,OMWAKA Mathias,38,Y  (5')
+AFCON-M-2025,Kenya,Nigeria,2025-10-18,Card,,Nigeria,JOHN Michael,52,Y  (5')
+AFCON-M-2025,Kenya,Nigeria,2025-10-18,Card,,Kenya,OMWAKA Mathias,56,Y  (5')
+AFCON-M-2025,Kenya,Nigeria,2025-10-18,Card,,Nigeria,IBRAHIM Benjamin,56,Y  (5')
+AFCON-M-2025,Kenya,Nigeria,2025-10-18,Card,,Nigeria,SAMAILA James,58,Y  (10')
+AFCON-W-2025,Kenya,Nigeria,2025-10-11,Goal,Field Goal,Kenya,OWITI Alice,50,
+AFCON-W-2025,Kenya,Nigeria,2025-10-11,Card,,Kenya,KEMUNTO Naom,43,G
+AFCON-W-2025,Egypt,Kenya,2025-10-14,Goal,Penalty Corner,Kenya,ANJAO Joan,15,
+AFCON-W-2025,Egypt,Kenya,2025-10-14,Goal,Penalty Corner,Kenya,CHEBET Eleanor,34,
+AFCON-W-2025,Egypt,Kenya,2025-10-14,Goal,Field Goal,Kenya,KEMUNTO Naom,48,
+AFCON-W-2025,Egypt,Kenya,2025-10-14,Goal,Field Goal,Kenya,OWITI Alice,58,
+AFCON-W-2025,Egypt,Kenya,2025-10-14,Card,,Egypt,MOUSTAFA Mariam,14,G
+AFCON-W-2025,Egypt,Kenya,2025-10-14,Card,,Kenya,BWIRE Grace,38,G
+AFCON-W-2025,Egypt,Kenya,2025-10-14,Card,,Egypt,AHMED Nadeen,50,G
+AFCON-W-2025,Egypt,Kenya,2025-10-14,Card,,Kenya,BWIRE Grace,59,Y  (5')
+AFCON-W-2025,No goals scored,South Africa,2025-10-15,Goal,No goals scored,No goals scored,No goals scored,No goals scored,
+AFCON-W-2025,No goals scored,South Africa,2025-10-15,Card,,South Africa,BOTHA Stephanie,54,G
+AFCON-W-2025,Kenya,Ghana,2025-10-17,Goal,Field Goal,Ghana,KONADU Jennifer,6,
+AFCON-W-2025,Kenya,Ghana,2025-10-17,Goal,Field Goal,Kenya,BWIRE Grace,8,
+AFCON-W-2025,Kenya,Ghana,2025-10-17,Goal,Field Goal,Kenya,CHEBET Eleanor,23,
+AFCON-W-2025,Kenya,Ghana,2025-10-17,Goal,Field Goal,Ghana,KONADU Jennifer,34,
+AFCON-W-2025,Kenya,Ghana,2025-10-17,Goal,Penalty Stroke,Ghana,AMOAH Adwoa,36,
+AFCON-W-2025,Kenya,Ghana,2025-10-17,Goal,Field Goal,Ghana,KONADU Jennifer,38,
+AFCON-W-2025,Kenya,Ghana,2025-10-17,Goal,Field Goal,Ghana,NARKUOR Vivian,48,
+AFCON-W-2025,Kenya,Ghana,2025-10-17,Card,,Kenya,AKUMU Grace,39,G
+AFCON-W-2025,Kenya,Ghana,2025-10-17,Card,,Ghana,ADDAE Abla,45,G
+AFCON-W-2025,Kenya,Ghana,2025-10-17,Card,,Ghana,SARFOA Martha,57,Y  (5')
+AFCON-W-2025,Kenya,Nigeria,2025-10-18,Goal,Field Goal,Kenya,BWIRE Grace,47,
+AFCON-W-2025,Kenya,Nigeria,2025-10-18,Card,,Nigeria,OBUKOWHO Faith,17,Y  (5')
+AFCON-W-2025,Kenya,Nigeria,2025-10-18,Card,,Kenya,ACHIENG Maurine,26,G
+AFCON-W-2025,Kenya,Nigeria,2025-10-18,Card,,Kenya,AKUMU Grace,37,Y  (5')
+JAC-W-2024,Kenya,Namibia,2025-04-18,Goal,Field Goal,Namibia,KRUGER Maryke,19,
+JAC-W-2024,Kenya,Namibia,2025-04-18,Goal,Field Goal,Namibia,SEMEDO Tisha,41,
+JAC-W-2024,Kenya,Namibia,2025-04-18,Goal,Penalty Corner,Namibia,SEMEDO Tisha,47,
+JAC-W-2024,Kenya,Namibia,2025-04-18,Card,,Namibia,KARSTEN Mia,38,G
+JAC-W-2024,Uganda,Kenya,2025-04-19,Goal,No goals scored,No goals scored,No goals scored,No goals scored,
+JAC-W-2024,Uganda,Kenya,2025-04-19,Card,,Kenya,AUMA Cynthia,37,G
+JAC-W-2024,Uganda,Kenya,2025-04-19,Card,,Uganda,ALIMO Jolly,37,G
+JAC-W-2024,Uganda,Kenya,2025-04-19,Card,,Uganda,NATABO Noeline,40,G
+JAC-W-2024,Uganda,Kenya,2025-04-19,Card,,Kenya,AUMA Cynthia,59,G
+JAC-W-2024,Kenya,South Africa,2025-04-21,Goal,Field Goal,South Africa,ISAACS Paris-Gail,2,
+JAC-W-2024,Kenya,South Africa,2025-04-21,Goal,Field Goal,South Africa,SALIS Paige,13,
+JAC-W-2024,Kenya,South Africa,2025-04-21,Goal,Field Goal,South Africa,MAREE Caylin,49,
+JAC-W-2024,Kenya,South Africa,2025-04-21,Goal,Penalty Corner,South Africa,SPERSHOTT Germarie,58,
+JAC-W-2024,Kenya,South Africa,2025-04-21,Card,,Kenya,ABUKUSE Millicent,13,G
+JAC-W-2024,Zambia,Kenya,2025-04-22,Goal,Field Goal,Kenya,MWAGANDI Brenda,26,
+JAC-W-2024,Zambia,Kenya,2025-04-22,Goal,Penalty Corner,Zambia,KALUBA Christine,59,
+JAC-W-2024,Zambia,Kenya,2025-04-22,Card,,Kenya,JEPTOO Joyline,11,G
+JAC-W-2024,Zambia,Kenya,2025-04-22,Card,,Zambia,KALUBA Christine,22,G
+JAC-W-2024,Zambia,Kenya,2025-04-22,Card,,Kenya,OTIENO Velma,28,G
+JAC-W-2024,Zambia,Kenya,2025-04-22,Card,,Zambia,MWALE Beatrice,43,G
+JAC-W-2024,Zambia,Kenya,2025-04-22,Card,,Zambia,MWALE Salome,47,Y  (5')
+JAC-W-2024,Zambia,Kenya,2025-04-22,Card,,Kenya,ABUKUSE Millicent,59,Y  (5')
+JAC-W-2024,Kenya,Zimbabwe,2025-04-24,Goal,Penalty Corner,Zimbabwe,ELIJAH Tinodiwanashe,9,
+JAC-W-2024,Kenya,Zimbabwe,2025-04-24,Goal,Penalty Corner,Kenya,NAMACHANJA Daina,18,
+JAC-W-2024,Kenya,Zimbabwe,2025-04-24,Goal,Penalty Stroke,Zimbabwe,ELIJAH Tinodiwanashe,52,
+JAC-W-2024,Kenya,Zimbabwe,2025-04-24,Goal,Field Goal,Zimbabwe,KAMBADZA Panaka,55,
+JAC-W-2024,Kenya,Zimbabwe,2025-04-24,Goal,Field Goal,Zimbabwe,ORFORD Jessica,60,
+JAC-W-2024,Kenya,Zimbabwe,2025-04-24,Card,,Kenya,WEKESA Marione,3,G
+JAC-W-2024,Kenya,Zimbabwe,2025-04-24,Card,,Kenya,AMONDI Faith,48,G
+JAC-W-2024,Kenya,Zimbabwe,2025-04-24,Card,,Zimbabwe,KAMBADZA Panaka,57,G

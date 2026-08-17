@@ -1,0 +1,9 @@
+Competition,Teams,AvgPoints,PointsStdDev,CompetitiveBalanceIndex,BalanceRating
+PLM,10,12.6,5.0,0.39,Moderately Competitive
+SLM,10,9.1,4.3,0.47,One-Sided
+NLM-CZ,4,2.2,1.3,0.58,One-Sided
+NLM-EZ,10,8.6,5.2,0.6,One-Sided
+PLW,10,7.2,5.1,0.7,One-Sided
+NLM-SZ,4,4.5,3.4,0.75,One-Sided
+SLW,9,6.2,5.1,0.81,One-Sided
+NLM-WZ,6,5.2,4.9,0.96,One-Sided

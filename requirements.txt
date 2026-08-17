@@ -1,0 +1,20 @@
+# Kenya Hockey Union analytics pipeline — dependencies
+# Pinned loosely (major-version floors only) since this pipeline scrapes
+# live third-party sites and needs security/bugfix updates over time;
+# CI installs fresh on every run rather than from a lockfile.
+
+pandas>=2.1
+numpy>=1.26
+matplotlib>=3.8
+beautifulsoup4>=4.12
+lxml>=5.0                 # required by pandas.read_html(flavor="lxml")
+selenium>=4.18
+webdriver-manager>=4.0
+pdfplumber>=0.11
+requests>=2.31
+
+# Notebook execution in CI (no Jupyter UI needed, just headless execution)
+jupyter>=1.0
+nbconvert>=7.16
+nbformat>=5.10
+ipykernel>=6.29
