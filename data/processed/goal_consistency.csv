@@ -3,7 +3,7 @@ NLM-CZ,Dukes of Gloucester,6.0,3,2.0,2.160246899469287,Inconsistent
 NLM-CZ,GHF Rift Pirates Men,9.0,1,9.0,0.0,Highly Consistent
 NLM-CZ,Nyari Hockey Club,0.0,1,0.0,0.0,Highly Consistent
 NLM-CZ,Thika Rovers,8.0,1,8.0,0.0,Highly Consistent
-NLM-EZ,Black Tigers,13.0,9,1.44,1.065740338513938,Moderately Consistent
+NLM-EZ,Black Tigers,13.0,9,1.44,1.0657403385139377,Moderately Consistent
 NLM-EZ,Daystar University Men,6.0,6,1.0,0.816496580927726,Moderately Consistent
 NLM-EZ,Gorillas,10.0,8,1.25,0.82915619758885,Moderately Consistent
 NLM-EZ,Mombasa Sports Club,7.0,5,1.4,0.4898979485566356,Highly Consistent
@@ -28,7 +28,7 @@ PLM,Greensharks,4.0,9,0.44,0.6849348892187752,Moderately Consistent
 PLM,Kenya Police,14.0,9,1.56,0.8314794192830981,Moderately Consistent
 PLM,Kisumu Youngsters,11.0,9,1.22,0.7856742013183862,Moderately Consistent
 PLM,Parklands Sports Club,13.0,9,1.44,0.4969039949999533,Highly Consistent
-PLM,Sikh Union Nairobi,20.0,9,2.22,1.6178021976178927,Inconsistent
+PLM,Sikh Union Nairobi,20.0,9,2.22,1.617802197617893,Inconsistent
 PLM,USIU – A,12.0,9,1.33,0.816496580927726,Moderately Consistent
 PLM,Warriors,22.0,9,2.44,1.2570787221094177,Inconsistent
 PLM,Wazalendo,17.0,9,1.89,0.8748897637790901,Moderately Consistent
@@ -37,9 +37,9 @@ PLW,Amira Sailors Hockey Club,3.0,7,0.43,0.49487165930539345,Highly Consistent
 PLW,Blazers Hockey Club,14.0,7,2.0,1.0690449676496976,Moderately Consistent
 PLW,JKUAT Ladies,0.0,1,0.0,0.0,Highly Consistent
 PLW,Kenyatta University Ladies,1.0,2,0.5,0.5,Highly Consistent
-PLW,Kisumu Queens,2.0,5,0.4,0.8000000000000002,Moderately Consistent
+PLW,Kisumu Queens,3.0,6,0.5,0.7637626158259734,Moderately Consistent
 PLW,Lakers Hockey Club,11.0,6,1.83,2.034425935955617,Inconsistent
-PLW,Sliders Hockey Club,2.0,7,0.29,0.45175395145262565,Highly Consistent
+PLW,Sliders Hockey Club,2.0,8,0.25,0.4330127018922193,Highly Consistent
 PLW,Strathmore University Ladies,6.0,7,0.86,0.6388765649999398,Moderately Consistent
 PLW,UON Ladies,4.0,6,0.67,0.7453559924999299,Moderately Consistent
 PLW,USIU – A Ladies,8.0,8,1.0,0.8660254037844386,Moderately Consistent

@@ -1,0 +1,103 @@
+name: Domestic pipeline (weekly)
+
+# Runs the full domestic pipeline: 01 (scrape) -> 02 (league analytics) ->
+# 03 (advanced analytics + dashboard) -> 04 (international). Matches the
+# notebooks' own stated cadence ("weekly automation") and the fact that
+# 01 is a 130+ page Selenium scrape not meant to run more than about once
+# a week. Commits refreshed data + the rebuilt dashboard, deploys the
+# dashboard to GitHub Pages, and posts a weekly digest to LinkedIn.
+#
+# One-time setup required before this workflow does anything useful —
+# see README.md "Go-live checklist":
+#   1. Repo Settings -> Pages -> Source = "GitHub Actions".
+#   2. Repo Settings -> Secrets and variables -> Actions, add (optional,
+#      the pipeline runs fine without these — only the LinkedIn step is
+#      skipped): LINKEDIN_ACCESS_TOKEN, LINKEDIN_AUTHOR_URN.
+#   3. Run this workflow once manually (Actions tab -> this workflow ->
+#      "Run workflow") to confirm the live scrape still matches the site
+#      structure these notebooks were written against — this could not
+#      be verified from the sandbox that assembled this repo (see
+#      AUDIT.md, "What could not be verified").
+
+on:
+  schedule:
+    - cron: "0 4 * * 1"   # Every Monday 04:00 UTC — adjust to your preference
+  workflow_dispatch: {}     # Manual "Run workflow" button in the Actions tab
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "domestic-pipeline"
+  cancel-in-progress: false
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Set up Chrome
+        uses: browser-actions/setup-chrome@v1
+        id: setup-chrome
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run 01_scraping.ipynb
+        working-directory: notebooks
+        env:
+          CHROME_BIN: ${{ steps.setup-chrome.outputs.chrome-path }}
+        run: jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=5400 01_scraping.ipynb
+
+      - name: Run 02_league_analytics.ipynb
+        working-directory: notebooks
+        run: jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=1200 02_league_analytics.ipynb
+
+      - name: Run 03_advanced_analytics.ipynb
+        working-directory: notebooks
+        run: jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=1800 03_advanced_analytics.ipynb
+
+      - name: Run 04_international.ipynb
+        working-directory: notebooks
+        env:
+          CHROME_BIN: ${{ steps.setup-chrome.outputs.chrome-path }}
+        run: jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=2400 04_international.ipynb
+
+      - name: Commit refreshed data + notebooks back to the repo
+        run: |
+          git config user.name "hockeyiq-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ notebooks/*.ipynb reports/
+          git diff --cached --quiet || git commit -m "Automated weekly domestic pipeline refresh [skip ci]"
+          git push
+
+      - name: Prepare Pages artifact
+        run: |
+          mkdir -p site
+          cp reports/dashboard.html site/index.html
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Post weekly digest to LinkedIn
+        env:
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          LINKEDIN_AUTHOR_URN: ${{ secrets.LINKEDIN_AUTHOR_URN }}
+          DIGEST_KIND: weekly
+        run: python scripts/post_to_linkedin.py
+        continue-on-error: true   # never fail the whole run over a social-post issue
