@@ -1,6 +1,6 @@
 Competition,Team,Played,GF,GA,Points,ExpectedPoints,LuckIndex,LuckLabel
 SLM,Parkroad Tigers,6,9,17,9,5.4,3.6,Overperforming
-PLW,Sliders Hockey Club,7,2,13,5,1.8,3.2,Overperforming
+PLW,Sliders Hockey Club,8,2,14,5,1.8,3.2,Overperforming
 PLM,Daikyo Heroes,9,17,19,15,12.6,2.4,As Expected
 NLM-SZ,Gorillas Hockey CLub – Migori,3,3,13,3,1.2,1.8,As Expected
 PLW,Amira Sailors Hockey Club,7,3,5,9,7.2,1.8,As Expected
@@ -8,52 +8,52 @@ NLM-WZ,Nandi Hawks,4,4,11,4,2.4,1.6,As Expected
 NLM-WZ,Kitale Hockey Club,5,15,3,15,13.5,1.5,As Expected
 PLM,Parklands Sports Club,9,13,16,13,11.7,1.3,As Expected
 NLM-CZ,Dukes of Gloucester,3,6,17,3,1.8,1.2,As Expected
-SLM,Mvita XI,5,12,7,11,9.9,1.1,As Expected
 PLM,Sikh Union Nairobi,9,20,15,17,15.9,1.1,As Expected
 NLM-EZ,Gorillas,8,10,9,14,12.9,1.1,As Expected
+SLM,Mvita XI,5,12,7,11,9.9,1.1,As Expected
 NLM-EZ,Ulinzi Patriots,8,14,8,17,16.2,0.8,As Expected
 NLM-EZ,UoN Cubs,5,6,5,9,8.4,0.6,As Expected
-NLM-SZ,Kisii Falcons,3,17,1,9,8.7,0.3,As Expected
 NLM-CZ,GHF Rift Pirates Men,1,9,1,3,2.7,0.3,As Expected
+NLM-SZ,Kisii Falcons,3,17,1,9,8.7,0.3,As Expected
 SLW,Lakers Hockey Club – B,6,7,5,11,10.8,0.2,As Expected
-SLM,UON Men,6,7,10,7,6.9,0.1,As Expected
 SLW,Wazalendo Pearls,6,10,5,13,12.9,0.1,As Expected
-PLM,Warriors,9,22,13,18,18.0,0.0,As Expected
-PLW,JKUAT Ladies,1,0,2,0,0.0,0.0,As Expected
-NLM-CZ,Thika Rovers,1,8,0,3,3.0,0.0,As Expected
-SLW,Daystar University Ladies,5,3,9,3,3.0,0.0,As Expected
-SLW,Black Tigresses,1,0,6,0,0.0,0.0,As Expected
+SLM,UON Men,6,7,10,7,6.9,0.1,As Expected
 NLM-WZ,Western Jaguars Dev,1,0,2,0,0.0,0.0,As Expected
 NLM-CZ,Nyari Hockey Club,1,0,5,0,0.0,0.0,As Expected
+SLW,Daystar University Ladies,5,3,9,3,3.0,0.0,As Expected
+SLW,Black Tigresses,1,0,6,0,0.0,0.0,As Expected
+PLW,JKUAT Ladies,1,0,2,0,0.0,0.0,As Expected
+PLM,Warriors,9,22,13,18,18.0,0.0,As Expected
 NLM-EZ,TUK Men,2,4,4,3,3.0,0.0,As Expected
-SLM,Strathmore University,6,16,6,14,14.1,-0.1,As Expected
+NLM-CZ,Thika Rovers,1,8,0,3,3.0,0.0,As Expected
 SLM,Impala,8,17,19,11,11.1,-0.1,As Expected
-SLM,GHF Blue Pirates,4,4,3,7,7.2,-0.2,As Expected
-PLW,Kenyatta University Ladies,2,1,3,1,1.2,-0.2,As Expected
-SLW,Twinkle Hockey Club,5,13,3,13,13.2,-0.2,As Expected
+SLM,Strathmore University,6,16,6,14,14.1,-0.1,As Expected
 NLM-WZ,Lakers Hockey Club Men,4,4,3,7,7.2,-0.2,As Expected
+SLM,GHF Blue Pirates,4,4,3,7,7.2,-0.2,As Expected
+SLW,Twinkle Hockey Club,5,13,3,13,13.2,-0.2,As Expected
+PLW,Kenyatta University Ladies,2,1,3,1,1.2,-0.2,As Expected
 NLM-SZ,Oyugis Hockey Club,3,1,15,0,0.3,-0.3,As Expected
 NLM-EZ,Parklands Sports Club – Legacy,8,11,10,12,12.6,-0.6,As Expected
 PLM,Wazalendo,9,17,15,14,14.7,-0.7,As Expected
 PLM,Western Jaguars,9,20,12,17,17.7,-0.7,As Expected
-SLM,KCA University,8,25,9,18,18.9,-0.9,As Expected
 SLW,GHF Rift Pirates Ladies,6,8,7,9,9.9,-0.9,As Expected
+SLM,KCA University,8,25,9,18,18.9,-0.9,As Expected
 NLM-EZ,Mombasa West,5,8,6,8,9.0,-1.0,As Expected
 SLW,Swans Hockey Club,4,4,4,5,6.0,-1.0,As Expected
 NLM-EZ,Black Tigers,9,13,12,13,14.1,-1.1,As Expected
 NLM-EZ,Mombasa Sports Club,5,7,6,7,8.1,-1.1,As Expected
 NLM-SZ,Bay Club,3,11,3,6,7.5,-1.5,As Expected
-PLM,Kisumu Youngsters,9,11,12,11,12.6,-1.6,As Expected
 PLW,Blazers Hockey Club,7,14,3,17,18.6,-1.6,As Expected
+PLM,Kisumu Youngsters,9,11,12,11,12.6,-1.6,As Expected
 PLW,UON Ladies,6,4,6,5,6.6,-1.6,As Expected
-PLM,USIU – A,9,12,15,10,11.7,-1.7,As Expected
-PLW,Kisumu Queens,5,2,3,4,5.7,-1.7,As Expected
 PLW,Strathmore University Ladies,7,6,8,7,8.7,-1.7,As Expected
+PLM,USIU – A,9,12,15,10,11.7,-1.7,As Expected
 SLW,Gorillas Hockey Club – Ladies,3,2,6,0,1.8,-1.8,As Expected
 PLM,Kenya Police,9,14,15,11,12.9,-1.9,As Expected
+PLW,Kisumu Queens,6,3,3,7,9.0,-2.0,As Expected
 NLM-WZ,Fire Flickers,4,5,5,4,6.0,-2.0,As Expected
-NLM-EZ,Snippers Hockey Club (Makueni),6,2,9,0,2.1,-2.1,As Expected
 NLM-EZ,Daystar University Men,6,6,12,3,5.1,-2.1,As Expected
+NLM-EZ,Snippers Hockey Club (Makueni),6,2,9,0,2.1,-2.1,As Expected
 SLW,Mombasa Sports Club Ladies,4,3,5,2,4.2,-2.2,As Expected
 SLM,Parkroad Badgers,7,13,17,6,8.7,-2.7,As Expected
 SLM,Wazalendo Masters,9,9,18,5,7.8,-2.8,As Expected
