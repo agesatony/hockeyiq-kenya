@@ -4,6 +4,6 @@ NLM-EZ,0.67,0.96,Pythagorean
 NLM-SZ,1.0,1.0,Tied
 NLM-WZ,0.83,0.94,Pythagorean
 PLM,0.95,0.92,Elo
-PLW,0.78,0.96,Pythagorean
-SLM,0.93,0.71,Elo
+PLW,0.87,0.98,Pythagorean
+SLM,0.93,0.65,Elo
 SLW,0.88,0.98,Pythagorean

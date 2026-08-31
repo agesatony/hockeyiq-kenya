@@ -23,26 +23,26 @@ NLM-WZ,Fire Flickers,5,4,1.25
 NLM-WZ,Western Jaguars Dev,2,1,2.0
 NLM-WZ,GHF Blue Pirates II,9,4,2.25
 NLM-WZ,Nandi Hawks,11,4,2.75
-PLM,Kisumu Youngsters,12,9,1.3333333333333333
-PLM,Western Jaguars,12,9,1.3333333333333333
-PLM,Warriors,13,9,1.4444444444444444
-PLM,Kenya Police,15,9,1.6666666666666667
-PLM,Sikh Union Nairobi,15,9,1.6666666666666667
+PLM,Western Jaguars,13,11,1.1818181818181819
+PLM,Kisumu Youngsters,14,11,1.2727272727272727
+PLM,Warriors,15,10,1.5
+PLM,Parklands Sports Club,16,10,1.6
+PLM,Sikh Union Nairobi,16,10,1.6
+PLM,Wazalendo,18,11,1.6363636363636365
 PLM,USIU – A,15,9,1.6666666666666667
-PLM,Wazalendo,15,9,1.6666666666666667
-PLM,Parklands Sports Club,16,9,1.7777777777777777
-PLM,Greensharks,18,9,2.0
-PLM,Daikyo Heroes,19,9,2.111111111111111
+PLM,Kenya Police,17,10,1.7
+PLM,Daikyo Heroes,21,11,1.9090909090909092
+PLM,Greensharks,23,11,2.090909090909091
 PLW,Blazers Hockey Club,3,7,0.42857142857142855
 PLW,Kisumu Queens,3,6,0.5
 PLW,USIU – A Ladies,4,8,0.5
 PLW,Lakers Hockey Club,4,6,0.6666666666666666
 PLW,Amira Sailors Hockey Club,5,7,0.7142857142857143
+PLW,Strathmore University Ladies,8,8,1.0
 PLW,UON Ladies,6,6,1.0
-PLW,Strathmore University Ladies,8,7,1.1428571428571428
 PLW,Kenyatta University Ladies,3,2,1.5
-PLW,Sliders Hockey Club,14,8,1.75
 PLW,JKUAT Ladies,2,1,2.0
+PLW,Sliders Hockey Club,19,9,2.111111111111111
 SLM,GHF Blue Pirates,3,4,0.75
 SLM,Strathmore University,6,6,1.0
 SLM,KCA University,9,8,1.125

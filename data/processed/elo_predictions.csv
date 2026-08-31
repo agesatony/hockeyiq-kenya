@@ -95,6 +95,13 @@ PLM,USIU – A,Daikyo Heroes,0.462,1.0,0.28944400000000003
 PLM,Greensharks,USIU – A,0.481,0.0,0.23136099999999998
 PLM,Warriors,Daikyo Heroes,0.569,1.0,0.18576100000000004
 PLM,Wazalendo,Parklands Sports Club,0.606,0.0,0.367236
+PLM,Daikyo Heroes,Sikh Union Nairobi,0.509,0.5,8.100000000000014e-05
+PLM,Kenya Police,Warriors,0.476,0.5,0.000576000000000001
+PLM,Kisumu Youngsters,Wazalendo,0.529,0.0,0.279841
+PLM,Western Jaguars,Greensharks,0.719,1.0,0.07896100000000002
+PLM,Daikyo Heroes,Parklands Sports Club,0.566,0.0,0.3203559999999999
+PLM,Kisumu Youngsters,Greensharks,0.663,1.0,0.11356899999999998
+PLM,Western Jaguars,Wazalendo,0.594,1.0,0.164836
 PLW,Blazers Hockey Club,Kenyatta University Ladies,0.55,1.0,0.20249999999999996
 PLW,Strathmore University Ladies,USIU – A Ladies,0.55,0.5,0.0025000000000000044
 PLW,UON Ladies,Amira Sailors Hockey Club,0.55,0.0,0.30250000000000005
@@ -124,6 +131,7 @@ PLW,Sliders Hockey Club,UON Ladies,0.481,1.0,0.269361
 PLW,Blazers Hockey Club,Kisumu Queens,0.631,1.0,0.136161
 PLW,USIU – A Ladies,Amira Sailors Hockey Club,0.617,0.0,0.380689
 PLW,Sliders Hockey Club,Kisumu Queens,0.496,0.0,0.24601599999999998
+PLW,Sliders Hockey Club,Strathmore University Ladies,0.491,0.0,0.241081
 SLM,Parkroad Badgers,Parkroad Tigers,0.55,0.0,0.30250000000000005
 SLM,UON Men,KCA University,0.55,0.0,0.30250000000000005
 SLM,Parkroad Badgers,KCA University,0.524,0.0,0.27457600000000004

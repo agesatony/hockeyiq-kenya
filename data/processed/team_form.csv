@@ -110,6 +110,8 @@ PLM,2026-06-20,Daikyo Heroes,Kenya Police,3,1,Home,1,0,0,3,9.0
 PLM,2026-06-21,Daikyo Heroes,Wazalendo,3,2,Home,1,0,0,3,12.0
 PLM,2026-07-04,Daikyo Heroes,USIU – A,0,1,Away,0,0,1,0,9.0
 PLM,2026-07-05,Daikyo Heroes,Warriors,0,4,Away,0,0,1,0,6.0
+PLM,2026-08-29,Daikyo Heroes,Sikh Union Nairobi,1,1,Home,0,1,0,1,7.0
+PLM,2026-08-30,Daikyo Heroes,Parklands Sports Club,0,1,Home,0,0,1,0,4.0
 PLM,2026-05-23,Greensharks,Parklands Sports Club,0,2,Home,0,0,1,0,
 PLM,2026-05-24,Greensharks,Sikh Union Nairobi,0,1,Away,0,0,1,0,
 PLM,2026-05-30,Greensharks,Kisumu Youngsters,0,1,Home,0,0,1,0,
@@ -119,6 +121,8 @@ PLM,2026-06-27,Greensharks,Kenya Police,0,1,Away,0,0,1,0,0.0
 PLM,2026-06-28,Greensharks,Warriors,2,3,Away,0,0,1,0,0.0
 PLM,2026-07-04,Greensharks,Wazalendo,1,2,Home,0,0,1,0,0.0
 PLM,2026-07-05,Greensharks,USIU – A,0,2,Home,0,0,1,0,0.0
+PLM,2026-08-29,Greensharks,Western Jaguars,0,3,Away,0,0,1,0,0.0
+PLM,2026-08-30,Greensharks,Kisumu Youngsters,1,2,Away,0,0,1,0,0.0
 PLM,2026-05-23,Kenya Police,USIU – A,2,2,Home,0,1,0,1,
 PLM,2026-05-24,Kenya Police,Warriors,1,1,Away,0,1,0,1,
 PLM,2026-05-31,Kenya Police,Parklands Sports Club,2,2,Away,0,1,0,1,
@@ -128,6 +132,7 @@ PLM,2026-06-14,Kenya Police,Kisumu Youngsters,3,3,Home,0,1,0,1,4.0
 PLM,2026-06-20,Kenya Police,Daikyo Heroes,1,3,Away,0,0,1,0,3.0
 PLM,2026-06-27,Kenya Police,Greensharks,1,0,Home,1,0,0,3,5.0
 PLM,2026-06-28,Kenya Police,Wazalendo,2,1,Home,1,0,0,3,8.0
+PLM,2026-08-29,Kenya Police,Warriors,2,2,Home,0,1,0,1,8.0
 PLM,2026-05-23,Kisumu Youngsters,Western Jaguars,1,2,Away,0,0,1,0,
 PLM,2026-05-30,Kisumu Youngsters,Greensharks,1,0,Away,1,0,0,3,
 PLM,2026-05-31,Kisumu Youngsters,Wazalendo,1,3,Away,0,0,1,0,
@@ -137,6 +142,8 @@ PLM,2026-06-13,Kisumu Youngsters,Daikyo Heroes,0,1,Home,0,0,1,0,6.0
 PLM,2026-06-14,Kisumu Youngsters,Kenya Police,3,3,Away,0,1,0,1,4.0
 PLM,2026-06-20,Kisumu Youngsters,Sikh Union Nairobi,1,1,Home,0,1,0,1,5.0
 PLM,2026-06-21,Kisumu Youngsters,Warriors,1,0,Home,1,0,0,3,8.0
+PLM,2026-08-29,Kisumu Youngsters,Wazalendo,0,1,Home,0,0,1,0,5.0
+PLM,2026-08-30,Kisumu Youngsters,Greensharks,2,1,Home,1,0,0,3,8.0
 PLM,2026-05-23,Parklands Sports Club,Greensharks,2,0,Away,1,0,0,3,
 PLM,2026-05-30,Parklands Sports Club,Daikyo Heroes,1,3,Home,0,0,1,0,
 PLM,2026-05-31,Parklands Sports Club,Kenya Police,2,2,Home,0,1,0,1,
@@ -146,6 +153,7 @@ PLM,2026-06-13,Parklands Sports Club,Warriors,1,4,Home,0,0,1,0,7.0
 PLM,2026-06-14,Parklands Sports Club,USIU – A,1,2,Away,0,0,1,0,7.0
 PLM,2026-06-27,Parklands Sports Club,Sikh Union Nairobi,1,3,Away,0,0,1,0,6.0
 PLM,2026-07-05,Parklands Sports Club,Wazalendo,2,1,Away,1,0,0,3,6.0
+PLM,2026-08-30,Parklands Sports Club,Daikyo Heroes,1,0,Away,1,0,0,3,6.0
 PLM,2026-05-24,Sikh Union Nairobi,Greensharks,1,0,Home,1,0,0,3,
 PLM,2026-05-30,Sikh Union Nairobi,USIU – A,3,2,Away,1,0,0,3,
 PLM,2026-05-31,Sikh Union Nairobi,Daikyo Heroes,6,3,Home,1,0,0,3,
@@ -155,6 +163,7 @@ PLM,2026-06-14,Sikh Union Nairobi,Warriors,1,2,Home,0,0,1,0,10.0
 PLM,2026-06-20,Sikh Union Nairobi,Kisumu Youngsters,1,1,Away,0,1,0,1,8.0
 PLM,2026-06-21,Sikh Union Nairobi,Western Jaguars,1,3,Away,0,0,1,0,5.0
 PLM,2026-06-27,Sikh Union Nairobi,Parklands Sports Club,3,1,Home,1,0,0,3,5.0
+PLM,2026-08-29,Sikh Union Nairobi,Daikyo Heroes,1,1,Away,0,1,0,1,5.0
 PLM,2026-05-23,USIU – A,Kenya Police,2,2,Away,0,1,0,1,
 PLM,2026-05-24,USIU – A,Wazalendo,0,1,Home,0,0,1,0,
 PLM,2026-05-30,USIU – A,Sikh Union Nairobi,2,3,Home,0,0,1,0,
@@ -173,6 +182,7 @@ PLM,2026-06-20,Warriors,Western Jaguars,3,3,Away,0,1,0,1,11.0
 PLM,2026-06-21,Warriors,Kisumu Youngsters,0,1,Away,0,0,1,0,10.0
 PLM,2026-06-28,Warriors,Greensharks,3,2,Home,1,0,0,3,10.0
 PLM,2026-07-05,Warriors,Daikyo Heroes,4,0,Home,1,0,0,3,10.0
+PLM,2026-08-29,Warriors,Kenya Police,2,2,Away,0,1,0,1,8.0
 PLM,2026-05-23,Wazalendo,Warriors,3,3,Away,0,1,0,1,
 PLM,2026-05-24,Wazalendo,USIU – A,1,0,Away,1,0,0,3,
 PLM,2026-05-30,Wazalendo,Western Jaguars,3,2,Home,1,0,0,3,
@@ -182,6 +192,8 @@ PLM,2026-06-21,Wazalendo,Daikyo Heroes,2,3,Away,0,0,1,0,10.0
 PLM,2026-06-28,Wazalendo,Kenya Police,1,2,Away,0,0,1,0,7.0
 PLM,2026-07-04,Wazalendo,Greensharks,2,1,Away,1,0,0,3,7.0
 PLM,2026-07-05,Wazalendo,Parklands Sports Club,1,2,Home,0,0,1,0,4.0
+PLM,2026-08-29,Wazalendo,Kisumu Youngsters,1,0,Away,1,0,0,3,6.0
+PLM,2026-08-30,Wazalendo,Western Jaguars,1,3,Away,0,0,1,0,6.0
 PLM,2026-05-23,Western Jaguars,Kisumu Youngsters,2,1,Home,1,0,0,3,
 PLM,2026-05-30,Western Jaguars,Wazalendo,2,3,Away,0,0,1,0,
 PLM,2026-05-31,Western Jaguars,Greensharks,3,0,Away,1,0,0,3,
@@ -191,6 +203,8 @@ PLM,2026-06-13,Western Jaguars,Kenya Police,0,0,Away,0,1,0,1,7.0
 PLM,2026-06-14,Western Jaguars,Daikyo Heroes,3,1,Home,1,0,0,3,10.0
 PLM,2026-06-20,Western Jaguars,Warriors,3,3,Home,0,1,0,1,8.0
 PLM,2026-06-21,Western Jaguars,Sikh Union Nairobi,3,1,Home,1,0,0,3,8.0
+PLM,2026-08-29,Western Jaguars,Greensharks,3,0,Home,1,0,0,3,11.0
+PLM,2026-08-30,Western Jaguars,Wazalendo,3,1,Home,1,0,0,3,13.0
 PLW,2026-05-23,Amira Sailors Hockey Club,UON Ladies,1,0,Away,1,0,0,3,
 PLW,2026-05-24,Amira Sailors Hockey Club,Blazers Hockey Club,0,3,Home,0,0,1,0,
 PLW,2026-06-01,Amira Sailors Hockey Club,Sliders Hockey Club,0,0,Home,0,1,0,1,
@@ -228,6 +242,7 @@ PLW,2026-06-21,Sliders Hockey Club,Lakers Hockey Club,0,6,Home,0,0,1,0,2.0
 PLW,2026-06-27,Sliders Hockey Club,Strathmore University Ladies,0,1,Away,0,0,1,0,1.0
 PLW,2026-06-28,Sliders Hockey Club,UON Ladies,1,0,Home,1,0,0,3,3.0
 PLW,2026-07-05,Sliders Hockey Club,Kisumu Queens,0,1,Home,0,0,1,0,3.0
+PLW,2026-08-30,Sliders Hockey Club,Strathmore University Ladies,0,5,Home,0,0,1,0,3.0
 PLW,2026-05-23,Strathmore University Ladies,USIU – A Ladies,0,0,Home,0,1,0,1,
 PLW,2026-05-24,Strathmore University Ladies,UON Ladies,1,2,Home,0,0,1,0,
 PLW,2026-06-01,Strathmore University Ladies,Blazers Hockey Club,1,3,Home,0,0,1,0,
@@ -235,6 +250,7 @@ PLW,2026-06-06,Strathmore University Ladies,Lakers Hockey Club,1,1,Away,0,1,0,1,
 PLW,2026-06-07,Strathmore University Ladies,Kisumu Queens,2,2,Away,0,1,0,1,3.0
 PLW,2026-06-20,Strathmore University Ladies,Amira Sailors Hockey Club,0,0,Home,0,1,0,1,3.0
 PLW,2026-06-27,Strathmore University Ladies,Sliders Hockey Club,1,0,Home,1,0,0,3,6.0
+PLW,2026-08-30,Strathmore University Ladies,Sliders Hockey Club,5,0,Away,1,0,0,3,9.0
 PLW,2026-05-23,UON Ladies,Amira Sailors Hockey Club,0,1,Home,0,0,1,0,
 PLW,2026-05-24,UON Ladies,Strathmore University Ladies,2,1,Away,1,0,0,3,
 PLW,2026-06-01,UON Ladies,USIU – A Ladies,1,1,Away,0,1,0,1,
