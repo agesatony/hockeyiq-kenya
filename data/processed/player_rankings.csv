@@ -1,66 +1,77 @@
 Competition,Team,Player,Goals,PPM,DominanceIndex,TeamGoals,GoalContribution,PlayerInfluenceIndex
-PLM,Sikh Union Nairobi,Mathias Gularire,6,1.8,73.48,13,0.46153846153846156,4.74
-PLM,Kisumu Youngsters,Malack Masese,4,1.27,58.82,6,0.6666666666666666,4.25
-PLM,Kenya Police,Robert Masibo,4,1.2,51.42,7,0.5714285714285714,3.95
+PLM,Sikh Union Nairobi,Mathias Gularire,6,1.8,73.48,15,0.4,4.56
 PLW,Lakers Hockey Club,Maurine Owiti,1,1.83,78.9,1,1.0,3.87
 PLW,Amira Sailors Hockey Club,Yvette Kanyadong,1,1.29,44.68,1,1.0,3.76
 PLW,Sliders Hockey Club,Margaret Mawombe,1,0.56,9.71,1,1.0,3.61
 PLW,Kenyatta University Ladies,Jochebed Cherono,1,0.5,21.83,1,1.0,3.6
-PLM,Wazalendo,Job Wandera,4,1.55,60.99,10,0.4,3.51
+PLM,Kisumu Youngsters,Malack Masese,4,1.27,58.82,9,0.4444444444444444,3.59
 PLM,Greensharks,Daniel Solomon Obunyasi,1,0.0,0.0,1,1.0,3.5
+PLM,Wazalendo,Job Wandera,4,1.55,60.99,11,0.36363636363636365,3.4
+PLM,Warriors,Calvins Kanu Omondi,4,1.9,84.65,12,0.3333333333333333,3.38
+PLM,Kenya Police,Robert Masibo,4,1.2,51.42,11,0.36363636363636365,3.33
 PLW,USIU – A Ladies,Lynn Mwangi,2,1.62,67.55,3,0.6666666666666666,3.32
 PLW,Strathmore University Ladies,Grace Bwire,2,1.25,55.3,3,0.6666666666666666,3.25
-PLM,Parklands Sports Club,Eudgas Lirhu,3,1.6,55.6,9,0.3333333333333333,2.82
-PLM,Warriors,Calvins Kanu Omondi,3,1.9,84.65,10,0.3,2.78
-PLM,Western Jaguars,Sheldone Kimtai,3,2.09,99.67,11,0.2727272727272727,2.74
-PLM,Sikh Union Nairobi,Cliff Omari,3,1.8,73.48,13,0.23076923076923078,2.55
-PLW,Blazers Hockey Club,Joan Ajao,2,2.43,100.0,8,0.25,2.24
+PLM,Parklands Sports Club,Eudgas Lirhu,3,1.6,55.6,10,0.3,2.72
+PLM,Wazalendo,Michael Mboya,3,1.55,60.99,11,0.2727272727272727,2.63
+PLM,Western Jaguars,Sheldone Kimtai,3,2.09,99.67,14,0.21428571428571427,2.56
+PLM,Sikh Union Nairobi,Cliff Omari,3,1.8,73.48,15,0.2,2.46
+PLW,Blazers Hockey Club,Carol Guchu,2,2.43,100.0,8,0.25,2.24
 PLW,Blazers Hockey Club,Audrey Omaido,2,2.43,100.0,8,0.25,2.24
-PLW,Blazers Hockey Club,Caroline Guchu,2,2.43,100.0,8,0.25,2.24
-PLM,USIU – A,Lawrence Makhatsa,2,1.11,45.3,7,0.2857142857142857,2.08
-PLM,USIU – A,Danstone Wabwire,2,1.11,45.3,7,0.2857142857142857,2.08
-PLM,Parklands Sports Club,William Kirwa,2,1.6,55.6,9,0.2222222222222222,1.99
-PLM,Warriors,Festus Onyango,2,1.9,84.65,10,0.2,1.98
-PLM,Daikyo Heroes,Bonny Ndombi,2,1.45,49.94,9,0.2222222222222222,1.96
-PLM,Western Jaguars,Emmanuel Wiswa,2,2.09,99.67,11,0.18181818181818182,1.96
-PLM,Western Jaguars,Godfrey Fedha,2,2.09,99.67,11,0.18181818181818182,1.96
-PLM,Daikyo Heroes,Farhan Khan,2,1.45,49.94,9,0.2222222222222222,1.96
-PLM,Daikyo Heroes,Esbon Ombui,2,1.45,49.94,9,0.2222222222222222,1.96
-PLM,Wazalendo,Michael Mboya,2,1.55,60.99,10,0.2,1.91
-PLM,Wazalendo,Mathew Momanyi,2,1.55,60.99,10,0.2,1.91
+PLW,Blazers Hockey Club,Joan Anjao,2,2.43,100.0,8,0.25,2.24
+PLM,Parklands Sports Club,Kennedy Wanyonyi,2,1.6,55.6,10,0.2,1.92
+PLM,Parklands Sports Club,William Kirwa,2,1.6,55.6,10,0.2,1.92
+PLM,USIU – A,Lawrence Makhatsa,2,1.11,45.3,9,0.2222222222222222,1.89
+PLM,USIU – A,Danstone Wabwire,2,1.11,45.3,9,0.2222222222222222,1.89
+PLM,Warriors,Edson Ndombi,2,1.9,84.65,12,0.16666666666666666,1.88
+PLM,Warriors,Festus Onyango,2,1.9,84.65,12,0.16666666666666666,1.88
+PLM,Wazalendo,Mathew Momanyi,2,1.55,60.99,11,0.18181818181818182,1.86
+PLM,Western Jaguars,Bethuel Masambu,2,2.09,99.67,14,0.14285714285714285,1.85
+PLM,Western Jaguars,Alex Taiswa,2,2.09,99.67,14,0.14285714285714285,1.85
+PLM,Western Jaguars,Emmanuel Wiswa,2,2.09,99.67,14,0.14285714285714285,1.85
+PLM,Western Jaguars,Godfrey Fedha,2,2.09,99.67,14,0.14285714285714285,1.85
+PLM,Daikyo Heroes,Esbon Ombui,2,1.45,49.94,11,0.18181818181818182,1.84
+PLM,Daikyo Heroes,Bonny Ndombi,2,1.45,49.94,11,0.18181818181818182,1.84
+PLM,Daikyo Heroes,Farhan Khan,2,1.45,49.94,11,0.18181818181818182,1.84
+PLM,Daikyo Heroes,Khizar Akhtar,2,1.45,49.94,11,0.18181818181818182,1.84
 PLW,USIU – A Ladies,Grace Makoha,1,1.62,67.55,3,0.3333333333333333,1.82
-PLM,Sikh Union Nairobi,Kabir Bhamra,2,1.8,73.48,13,0.15384615384615385,1.82
+PLM,Kenya Police,Kennedy Sibweche,2,1.2,51.42,11,0.18181818181818182,1.79
+PLM,Kenya Police,Willis Okeyo,2,1.2,51.42,11,0.18181818181818182,1.79
+PLM,Sikh Union Nairobi,Kabir Bhamra,2,1.8,73.48,15,0.13333333333333333,1.76
 PLW,Strathmore University Ladies,Nichole Joy,1,1.25,55.3,3,0.3333333333333333,1.75
-PLW,UON Ladies,Mitchell Akoth,1,0.83,36.97,3,0.3333333333333333,1.67
-PLW,UON Ladies,Noela Kimathi,1,0.83,36.97,3,0.3333333333333333,1.67
 PLW,UON Ladies,Clementine Sims,1,0.83,36.97,3,0.3333333333333333,1.67
+PLW,UON Ladies,Noela Kimathi,1,0.83,36.97,3,0.3333333333333333,1.67
+PLW,UON Ladies,Mitchelle Akoth,1,0.83,36.97,3,0.3333333333333333,1.67
 PLW,Blazers Hockey Club,Amanda Ijai,1,2.43,100.0,8,0.125,1.36
 PLW,Blazers Hockey Club,Vivian Onyango,1,2.43,100.0,8,0.125,1.36
-PLM,Kisumu Youngsters,Duncan Kachisa,1,1.27,58.82,6,0.16666666666666666,1.25
-PLM,Kisumu Youngsters,Ketane Okoth,1,1.27,58.82,6,0.16666666666666666,1.25
-PLM,Western Jaguars,Charles Otieno,1,2.09,99.67,11,0.09090909090909091,1.19
-PLM,Western Jaguars,Alex Taiswa,1,2.09,99.67,11,0.09090909090909091,1.19
-PLM,Western Jaguars,Bethuel Masambu,1,2.09,99.67,11,0.09090909090909091,1.19
-PLM,Western Jaguars,Ivan Ludiali,1,2.09,99.67,11,0.09090909090909091,1.19
-PLM,Warriors,Paul Omariba,1,1.9,84.65,10,0.1,1.18
-PLM,Warriors,Francis Kariuki,1,1.9,84.65,10,0.1,1.18
-PLM,Warriors,Frankline Wakhongo,1,1.9,84.65,10,0.1,1.18
-PLM,Warriors,George Mutira,1,1.9,84.65,10,0.1,1.18
-PLM,Warriors,Edson Ndombi,1,1.9,84.65,10,0.1,1.18
-PLM,Kenya Police,Brian Saina,1,1.2,51.42,7,0.14285714285714285,1.17
-PLM,Kenya Police,Kennedy Sibweche,1,1.2,51.42,7,0.14285714285714285,1.17
-PLM,Kenya Police,Willis Okeyo,1,1.2,51.42,7,0.14285714285714285,1.17
-PLM,USIU – A,Borris Lukurito,1,1.11,45.3,7,0.14285714285714285,1.15
-PLM,Parklands Sports Club,Kennedy Wanyonyi,1,1.6,55.6,9,0.1111111111111111,1.15
-PLM,Parklands Sports Club,Erick Kidwaro,1,1.6,55.6,9,0.1111111111111111,1.15
-PLM,Parklands Sports Club,Moses Omamu,1,1.6,55.6,9,0.1111111111111111,1.15
-PLM,USIU – A,Wayne Kipkorir Chongwony,1,1.11,45.3,7,0.14285714285714285,1.15
-PLM,USIU – A,Robinson Omutekete,1,1.11,45.3,7,0.14285714285714285,1.15
-PLM,Parklands Sports Club,Valentine Keya,1,1.6,55.6,9,0.1111111111111111,1.15
-PLM,Daikyo Heroes,Lawrence Okongo,1,1.45,49.94,9,0.1111111111111111,1.12
-PLM,Daikyo Heroes,Joseph Kasua,1,1.45,49.94,9,0.1111111111111111,1.12
-PLM,Daikyo Heroes,Khizar Akhtar,1,1.45,49.94,9,0.1111111111111111,1.12
-PLM,Wazalendo,Isaac Nandukele,1,1.55,60.99,10,0.1,1.11
-PLM,Wazalendo,Austin Mutua,1,1.55,60.99,10,0.1,1.11
-PLM,Sikh Union Nairobi,Fofana Mohammed,1,1.8,73.48,13,0.07692307692307693,1.09
-PLM,Sikh Union Nairobi,Kit Garner,1,1.8,73.48,13,0.07692307692307693,1.09
+PLM,Western Jaguars,Charles Otieno,1,2.09,99.67,14,0.07142857142857142,1.13
+PLM,Warriors,Frankline Wakhongo,1,1.9,84.65,12,0.08333333333333333,1.13
+PLM,Western Jaguars,Derrick Juma,1,2.09,99.67,14,0.07142857142857142,1.13
+PLM,Warriors,Francis Kariuki,1,1.9,84.65,12,0.08333333333333333,1.13
+PLM,Warriors,Paul Omariba,1,1.9,84.65,12,0.08333333333333333,1.13
+PLM,Warriors,George Mutira,1,1.9,84.65,12,0.08333333333333333,1.13
+PLM,Western Jaguars,Ivan Ludiali,1,2.09,99.67,14,0.07142857142857142,1.13
+PLM,Parklands Sports Club,Moses Omamu,1,1.6,55.6,10,0.1,1.12
+PLM,Parklands Sports Club,Valentine Keya,1,1.6,55.6,10,0.1,1.12
+PLM,Parklands Sports Club,Erick Kidwaro,1,1.6,55.6,10,0.1,1.12
+PLM,Kisumu Youngsters,Daniel Lopikasha,1,1.27,58.82,9,0.1111111111111111,1.09
+PLM,Kisumu Youngsters,Duncan Kachisa,1,1.27,58.82,9,0.1111111111111111,1.09
+PLM,Kisumu Youngsters,Asher Ochieng,1,1.27,58.82,9,0.1111111111111111,1.09
+PLM,Kisumu Youngsters,Ketane Okoth,1,1.27,58.82,9,0.1111111111111111,1.09
+PLM,Kisumu Youngsters,Moses Isigi Ooga,1,1.27,58.82,9,0.1111111111111111,1.09
+PLM,Wazalendo,Austin Mutua,1,1.55,60.99,11,0.09090909090909091,1.08
+PLM,Wazalendo,Isaac Nandukele,1,1.55,60.99,11,0.09090909090909091,1.08
+PLM,Daikyo Heroes,Austin Otieno,1,1.45,49.94,11,0.09090909090909091,1.06
+PLM,Daikyo Heroes,Joseph Kasua,1,1.45,49.94,11,0.09090909090909091,1.06
+PLM,Daikyo Heroes,Lawrence Okongo,1,1.45,49.94,11,0.09090909090909091,1.06
+PLM,Sikh Union Nairobi,James Muthii Mwangi,1,1.8,73.48,15,0.06666666666666667,1.06
+PLM,Sikh Union Nairobi,Fofana Mohammed,1,1.8,73.48,15,0.06666666666666667,1.06
+PLM,USIU – A,Brian Ogeche,1,1.11,45.3,9,0.1111111111111111,1.06
+PLM,USIU – A,Borris Lukurito,1,1.11,45.3,9,0.1111111111111111,1.06
+PLM,USIU – A,Robinson Omutekete,1,1.11,45.3,9,0.1111111111111111,1.06
+PLM,Sikh Union Nairobi,Havrir Chataurhae Singh,1,1.8,73.48,15,0.06666666666666667,1.06
+PLM,Sikh Union Nairobi,Kit Garner,1,1.8,73.48,15,0.06666666666666667,1.06
+PLM,USIU – A,Newton Mwangaza,1,1.11,45.3,9,0.1111111111111111,1.06
+PLM,USIU – A,Wayne Kipkorir Chongwony,1,1.11,45.3,9,0.1111111111111111,1.06
+PLM,Kenya Police,Brian Saina,1,1.2,51.42,11,0.09090909090909091,1.01
+PLM,Kenya Police,Vincent Odindo,1,1.2,51.42,11,0.09090909090909091,1.01
+PLM,Kenya Police,Joe Oburu,1,1.2,51.42,11,0.09090909090909091,1.01

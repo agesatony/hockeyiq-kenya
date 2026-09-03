@@ -1,13 +1,13 @@
 Competition,Season,MatchNo,Date,HomeTeam,AwayTeam,Minute,Event,Player,Team
 PLW,2026,14.0,24-05-2026,Amira Sailors Hockey Club,Blazers Hockey Club,16',Goal,Audrey Omaido,Blazers Hockey Club
-PLW,2026,14.0,24-05-2026,Amira Sailors Hockey Club,Blazers Hockey Club,42',Goal,Joan Ajao,Blazers Hockey Club
+PLW,2026,14.0,24-05-2026,Amira Sailors Hockey Club,Blazers Hockey Club,42',Goal,Joan Anjao,Blazers Hockey Club
 PLW,2026,14.0,24-05-2026,Amira Sailors Hockey Club,Blazers Hockey Club,44',Goal,Amanda Ijai,Blazers Hockey Club
-PLW,2026,1.0,23-05-2026,Blazers Hockey Club,Kenyatta University Ladies,27',Green Card,Joan Ajao,Blazers Hockey Club
-PLW,2026,1.0,23-05-2026,Blazers Hockey Club,Kenyatta University Ladies,36',Goal,Joan Ajao,Blazers Hockey Club
+PLW,2026,1.0,23-05-2026,Blazers Hockey Club,Kenyatta University Ladies,27',Green Card,Joan Anjao,Blazers Hockey Club
+PLW,2026,1.0,23-05-2026,Blazers Hockey Club,Kenyatta University Ladies,36',Goal,Joan Anjao,Blazers Hockey Club
 PLW,2026,1.0,23-05-2026,Blazers Hockey Club,Kenyatta University Ladies,53',Goal,Vivian Onyango,Blazers Hockey Club
 PLW,2026,10.0,24-05-2026,Kenyatta University Ladies,Sliders Hockey Club,25',Goal,Jochebed Cherono,Kenyatta University Ladies
 PLW,2026,10.0,24-05-2026,Kenyatta University Ladies,Sliders Hockey Club,30',Goal,Margaret Mawombe,Sliders Hockey Club
-PLW,2026,10.0,24-05-2026,Kenyatta University Ladies,Sliders Hockey Club,44',Yellow card,Esperanza Gitu,Kenyatta University Ladies
+PLW,2026,10.0,24-05-2026,Kenyatta University Ladies,Sliders Hockey Club,44',Yellow card,Espirancer Gitu,Kenyatta University Ladies
 PLW,2026,10.0,24-05-2026,Kenyatta University Ladies,Sliders Hockey Club,35',Green Card,Chamchui Esther,Sliders Hockey Club
 PLW,2026,12.0,24-05-2026,Lakers Hockey Club,Kisumu Queens,12',Green Card,Beryl Achieng,Kisumu Queens
 PLW,2026,12.0,24-05-2026,Lakers Hockey Club,Kisumu Queens,29',Green Card,Faith Amondi,Lakers Hockey Club
@@ -15,9 +15,9 @@ PLW,2026,12.0,24-05-2026,Lakers Hockey Club,Kisumu Queens,37',Green Card,Vivian 
 PLW,2026,33.0,06-06-2026,Lakers Hockey Club,Strathmore University Ladies,29',Goal,Maurine Owiti,Lakers Hockey Club
 PLW,2026,33.0,06-06-2026,Lakers Hockey Club,Strathmore University Ladies,29',Green Card,Racheal Khamala,Strathmore University Ladies
 PLW,2026,33.0,06-06-2026,Lakers Hockey Club,Strathmore University Ladies,34',Goal,Grace Bwire,Strathmore University Ladies
-PLW,2026,,01-06-2026,Strathmore University Ladies,Blazers Hockey Club,6',Goal,Caroline Guchu,Blazers Hockey Club
-PLW,2026,,01-06-2026,Strathmore University Ladies,Blazers Hockey Club,13',Green Card,Joan Ajao,Blazers Hockey Club
-PLW,2026,,01-06-2026,Strathmore University Ladies,Blazers Hockey Club,24',Goal,Caroline Guchu,Blazers Hockey Club
+PLW,2026,,01-06-2026,Strathmore University Ladies,Blazers Hockey Club,6',Goal,Carol Guchu,Blazers Hockey Club
+PLW,2026,,01-06-2026,Strathmore University Ladies,Blazers Hockey Club,13',Green Card,Joan Anjao,Blazers Hockey Club
+PLW,2026,,01-06-2026,Strathmore University Ladies,Blazers Hockey Club,24',Goal,Carol Guchu,Blazers Hockey Club
 PLW,2026,,01-06-2026,Strathmore University Ladies,Blazers Hockey Club,29',Yellow card,Beryl Achieng,Blazers Hockey Club
 PLW,2026,,01-06-2026,Strathmore University Ladies,Blazers Hockey Club,52',Goal,Audrey Omaido,Blazers Hockey Club
 PLW,2026,,01-06-2026,Strathmore University Ladies,Blazers Hockey Club,58',Goal,Grace Bwire,Strathmore University Ladies
@@ -35,7 +35,7 @@ PLW,2026,28.0,01-06-2026,USIU – A Ladies,UON Ladies,19',Green Card,Harriet Omi
 PLW,2026,28.0,01-06-2026,USIU – A Ladies,UON Ladies,26',Yellow card,Naom Kemunto,USIU – A Ladies
 PLW,2026,28.0,01-06-2026,USIU – A Ladies,UON Ladies,60',Yellow card,Harriet Omindi,USIU – A Ladies
 PLW,2026,28.0,01-06-2026,USIU – A Ladies,UON Ladies,47',Green Card,Irene Senoi,USIU – A Ladies
-PLW,2026,28.0,01-06-2026,USIU – A Ladies,UON Ladies,60+',Goal,Mitchell Akoth,UON Ladies
+PLW,2026,28.0,01-06-2026,USIU – A Ladies,UON Ladies,60+',Goal,Mitchelle Akoth,UON Ladies
 PLM,2026,41.0,07-06-2026,Daikyo Heroes,Greensharks,12',Goal,Lawrence Okongo,Daikyo Heroes
 PLM,2026,41.0,07-06-2026,Daikyo Heroes,Greensharks,36',Goal,Daniel Solomon Obunyasi,Greensharks
 PLM,2026,41.0,07-06-2026,Daikyo Heroes,Greensharks,16',Green Card,Bonny Ndombi,Daikyo Heroes
@@ -63,6 +63,23 @@ PLM,2026,23.0,31-05-2026,Greensharks,Western Jaguars,47',Goal,Emmanuel Wiswa,Wes
 PLM,2026,23.0,31-05-2026,Greensharks,Western Jaguars,50',Goal,Sheldone Kimtai,Western Jaguars
 PLM,2026,23.0,31-05-2026,Greensharks,Western Jaguars,56',Yellow card,Benson Mawich,Greensharks
 PLM,2026,23.0,31-05-2026,Greensharks,Western Jaguars,59',Yellow card,Daniel Solomon Obunyasi,Greensharks
+PLM,2026,,27-06-2026,Kenya Police,Greensharks,13',Green Card,Vincent Odindo,Kenya Police
+PLM,2026,,27-06-2026,Kenya Police,Greensharks,21',Green Card,Titus Kimutai,Kenya Police
+PLM,2026,,27-06-2026,Kenya Police,Greensharks,26',Green Card,Robert Masibo,Kenya Police
+PLM,2026,,27-06-2026,Kenya Police,Greensharks,32',Green Card,Chris Wokila,Greensharks
+PLM,2026,,27-06-2026,Kenya Police,Greensharks,38',Green Card,Kennedy Sakong,Kenya Police
+PLM,2026,,27-06-2026,Kenya Police,Greensharks,46',Goal,Joe Oburu,Kenya Police
+PLM,2026,,27-06-2026,Kenya Police,Greensharks,42',Yellow card,Kennedy Sibweche,Kenya Police
+PLM,2026,,27-06-2026,Kenya Police,Greensharks,56',Yellow card,Elvis Young Adala,Greensharks
+PLM,2026,53.0,14-06-2026,Kenya Police,Kisumu Youngsters,1',Green Card,Robert Masibo,Kenya Police
+PLM,2026,53.0,14-06-2026,Kenya Police,Kisumu Youngsters,1',Green Card,Mathew Onialo,Kisumu Youngsters
+PLM,2026,53.0,14-06-2026,Kenya Police,Kisumu Youngsters,42',Green Card,Shadrack Shikuku,Kenya Police
+PLM,2026,53.0,14-06-2026,Kenya Police,Kisumu Youngsters,12',Goal,Vincent Odindo,Kenya Police
+PLM,2026,53.0,14-06-2026,Kenya Police,Kisumu Youngsters,43',Goal,Daniel Lopikasha,Kisumu Youngsters
+PLM,2026,53.0,14-06-2026,Kenya Police,Kisumu Youngsters,46',Goal,Asher Ochieng,Kisumu Youngsters
+PLM,2026,53.0,14-06-2026,Kenya Police,Kisumu Youngsters,53',Goal,Willis Okeyo,Kenya Police
+PLM,2026,53.0,14-06-2026,Kenya Police,Kisumu Youngsters,59',Goal,Moses Isigi Ooga,Kisumu Youngsters
+PLM,2026,53.0,14-06-2026,Kenya Police,Kisumu Youngsters,60',Goal,Kennedy Sibweche,Kenya Police
 PLM,2026,29.0,06-06-2026,Kenya Police,Sikh Union Nairobi,22',Goal,Kit Garner,Sikh Union Nairobi
 PLM,2026,29.0,06-06-2026,Kenya Police,Sikh Union Nairobi,30',Goal,Willis Okeyo,Kenya Police
 PLM,2026,29.0,06-06-2026,Kenya Police,Sikh Union Nairobi,35',Goal,Robert Masibo,Kenya Police
@@ -72,6 +89,13 @@ PLM,2026,6.0,23-05-2026,Kenya Police,USIU – A,2',Goal,Wayne Kipkorir Chongwony
 PLM,2026,6.0,23-05-2026,Kenya Police,USIU – A,6',Goal,Robert Masibo,Kenya Police
 PLM,2026,6.0,23-05-2026,Kenya Police,USIU – A,36',Goal,Robert Masibo,Kenya Police
 PLM,2026,6.0,23-05-2026,Kenya Police,USIU – A,48',Goal,Danstone Wabwire,USIU – A
+PLM,2026,50.0,13-06-2026,Kenya Police,Western Jaguars,24',Green Card,Charles Ashiundu,Western Jaguars
+PLM,2026,50.0,13-06-2026,Kenya Police,Western Jaguars,31',Green Card,Fortuna Madaga,Kenya Police
+PLM,2026,51.0,13-06-2026,Kisumu Youngsters,Daikyo Heroes,12',Goal,Khizar Akhtar,Daikyo Heroes
+PLM,2026,51.0,13-06-2026,Kisumu Youngsters,Daikyo Heroes,22',Green Card,Peter Apanacho,Daikyo Heroes
+PLM,2026,51.0,13-06-2026,Kisumu Youngsters,Daikyo Heroes,54',Green Card,Malack Masese,Kisumu Youngsters
+PLM,2026,51.0,13-06-2026,Kisumu Youngsters,Daikyo Heroes,20',Yellow card,Peter Apanacho,Daikyo Heroes
+PLM,2026,51.0,13-06-2026,Kisumu Youngsters,Daikyo Heroes,41',Yellow card,Willis Wanjala,Kisumu Youngsters
 PLM,2026,37.0,06-06-2026,Kisumu Youngsters,Parklands Sports Club,1',Goal,Eudgas Lirhu,Parklands Sports Club
 PLM,2026,37.0,06-06-2026,Kisumu Youngsters,Parklands Sports Club,20',Goal,Kennedy Wanyonyi,Parklands Sports Club
 PLM,2026,37.0,06-06-2026,Kisumu Youngsters,Parklands Sports Club,27',Goal,Duncan Kachisa,Kisumu Youngsters
@@ -116,7 +140,7 @@ PLM,2026,21.0,31-05-2026,Sikh Union Nairobi,Daikyo Heroes,28',Goal,Cliff Omari,S
 PLM,2026,21.0,31-05-2026,Sikh Union Nairobi,Daikyo Heroes,42',Goal,Mathias Gularire,Sikh Union Nairobi
 PLM,2026,21.0,31-05-2026,Sikh Union Nairobi,Daikyo Heroes,45',Goal,Fofana Mohammed,Sikh Union Nairobi
 PLM,2026,21.0,31-05-2026,Sikh Union Nairobi,Daikyo Heroes,48',Green Card,Obare Joseph Otora,Sikh Union Nairobi
-PLM,2026,21.0,31-05-2026,Sikh Union Nairobi,Daikyo Heroes,39',Yellow card,Arjun Uupta,Sikh Union Nairobi
+PLM,2026,21.0,31-05-2026,Sikh Union Nairobi,Daikyo Heroes,39',Yellow card,Arjun Gupta,Sikh Union Nairobi
 PLM,2026,21.0,31-05-2026,Sikh Union Nairobi,Daikyo Heroes,48',Goal,Bonny Ndombi,Daikyo Heroes
 PLM,2026,21.0,31-05-2026,Sikh Union Nairobi,Daikyo Heroes,49',Green Card,Kim Webi,Sikh Union Nairobi
 PLM,2026,21.0,31-05-2026,Sikh Union Nairobi,Daikyo Heroes,49',Yellow card,Bonny Ndombi,Daikyo Heroes
@@ -130,13 +154,27 @@ PLM,2026,13.0,24-05-2026,Sikh Union Nairobi,Greensharks,35',Yellow card,Mathias 
 PLM,2026,13.0,24-05-2026,Sikh Union Nairobi,Greensharks,36',Yellow card,Samuel Namonyo,Greensharks
 PLM,2026,13.0,24-05-2026,Sikh Union Nairobi,Greensharks,45',Green Card,Ian Oyale,Greensharks
 PLM,2026,13.0,24-05-2026,Sikh Union Nairobi,Greensharks,55',Yellow card,Cyprian Mukhokho,Greensharks
+PLM,2026,,27-06-2026,Sikh Union Nairobi,Parklands Sports Club,22',Green Card,Arjun Gupta,Sikh Union Nairobi
+PLM,2026,54.0,14-06-2026,Sikh Union Nairobi,Warriors,32',Goal,Havrir Chataurhae Singh,Sikh Union Nairobi
+PLM,2026,54.0,14-06-2026,Sikh Union Nairobi,Warriors,38',Goal,Calvins Kanu Omondi,Warriors
+PLM,2026,54.0,14-06-2026,Sikh Union Nairobi,Warriors,44',Goal,Edson Ndombi,Warriors
+PLM,2026,54.0,14-06-2026,Sikh Union Nairobi,Warriors,29',Green Card,Francis Kariuki,Warriors
+PLM,2026,54.0,14-06-2026,Sikh Union Nairobi,Warriors,34',Green Card,George Mutira,Warriors
+PLM,2026,54.0,14-06-2026,Sikh Union Nairobi,Warriors,50',Green Card,Fofana Mohammed,Sikh Union Nairobi
+PLM,2026,54.0,14-06-2026,Sikh Union Nairobi,Warriors,41',Green Card,Edson Ndombi,Warriors
+PLM,2026,54.0,14-06-2026,Sikh Union Nairobi,Warriors,46',Yellow card,Frankline Wakhongo,Warriors
+PLM,2026,31.0,14-06-2026,USIU – A,Parklands Sports Club,29',Goal,Kennedy Wanyonyi,Parklands Sports Club
+PLM,2026,31.0,14-06-2026,USIU – A,Parklands Sports Club,49',Goal,Newton Mwangaza,USIU – A
+PLM,2026,31.0,14-06-2026,USIU – A,Parklands Sports Club,56',Goal,Brian Ogeche,USIU – A
+PLM,2026,31.0,14-06-2026,USIU – A,Parklands Sports Club,50',Green Card,Wycliffe Wanyonyi,Parklands Sports Club
+PLM,2026,31.0,14-06-2026,USIU – A,Parklands Sports Club,56',Yellow card,Hillary Otieno,Parklands Sports Club
 PLM,2026,18.0,30-05-2026,USIU – A,Sikh Union Nairobi,10',Goal,Mathias Gularire,Sikh Union Nairobi
 PLM,2026,18.0,30-05-2026,USIU – A,Sikh Union Nairobi,18',Goal,Robinson Omutekete,USIU – A
 PLM,2026,18.0,30-05-2026,USIU – A,Sikh Union Nairobi,23',Goal,Kabir Bhamra,Sikh Union Nairobi
 PLM,2026,18.0,30-05-2026,USIU – A,Sikh Union Nairobi,35',Goal,Mathias Gularire,Sikh Union Nairobi
 PLM,2026,18.0,30-05-2026,USIU – A,Sikh Union Nairobi,44',Yellow card,Arnold Abedie,Sikh Union Nairobi
 PLM,2026,18.0,30-05-2026,USIU – A,Sikh Union Nairobi,45',Goal,Borris Lukurito,USIU – A
-PLM,2026,18.0,30-05-2026,USIU – A,Sikh Union Nairobi,50',Green Card,Arjun Uupta,Sikh Union Nairobi
+PLM,2026,18.0,30-05-2026,USIU – A,Sikh Union Nairobi,50',Green Card,Arjun Gupta,Sikh Union Nairobi
 PLM,2026,11.0,24-05-2026,USIU – A,Wazalendo,7',Goal,Isaac Nandukele,Wazalendo
 PLM,2026,11.0,24-05-2026,USIU – A,Wazalendo,27',Green Card,Griffin Bosire,Wazalendo
 PLM,2026,11.0,24-05-2026,USIU – A,Wazalendo,36',Green Card,Michael Mboya,Wazalendo
@@ -170,6 +208,15 @@ PLM,2026,22.0,31-05-2026,Wazalendo,Kisumu Youngsters,43',Green Card,Malack Mases
 PLM,2026,22.0,31-05-2026,Wazalendo,Kisumu Youngsters,45',Green Card,Duncan Opanda,Kisumu Youngsters
 PLM,2026,22.0,31-05-2026,Wazalendo,Kisumu Youngsters,48',Goal,Job Wandera,Wazalendo
 PLM,2026,22.0,31-05-2026,Wazalendo,Kisumu Youngsters,51',Goal,Mathew Momanyi,Wazalendo
+PLM,2026,48.0,13-06-2026,Wazalendo,Sikh Union Nairobi,19',Goal,James Muthii Mwangi,Sikh Union Nairobi
+PLM,2026,48.0,13-06-2026,Wazalendo,Sikh Union Nairobi,19',Green Card,Isaac Nandukele,Wazalendo
+PLM,2026,48.0,13-06-2026,Wazalendo,Sikh Union Nairobi,40',Yellow card,TaranKabir Singh,Sikh Union Nairobi
+PLM,2026,48.0,13-06-2026,Wazalendo,Sikh Union Nairobi,48',Green Card,Mathias Gularire,Sikh Union Nairobi
+PLM,2026,48.0,13-06-2026,Wazalendo,Sikh Union Nairobi,46',Yellow card,Isaac Nandukele,Wazalendo
+PLM,2026,48.0,13-06-2026,Wazalendo,Sikh Union Nairobi,44',Yellow card,Mathew Momanyi,Wazalendo
+PLM,2026,48.0,13-06-2026,Wazalendo,Sikh Union Nairobi,58',Goal,Michael Mboya,Wazalendo
+PLM,2026,48.0,13-06-2026,Wazalendo,Sikh Union Nairobi,59',Yellow card,NIRMAN SINGH MUDHER,Sikh Union Nairobi
+PLM,2026,48.0,13-06-2026,Wazalendo,Sikh Union Nairobi,59',Yellow card,James Muthii Mwangi,Sikh Union Nairobi
 PLM,2026,17.0,30-05-2026,Wazalendo,Western Jaguars,2',Goal,Michael Mboya,Wazalendo
 PLM,2026,17.0,30-05-2026,Wazalendo,Western Jaguars,13',Goal,Godfrey Fedha,Western Jaguars
 PLM,2026,17.0,30-05-2026,Wazalendo,Western Jaguars,18',Green Card,Willis Malesi,Western Jaguars
@@ -182,8 +229,13 @@ PLM,2026,17.0,30-05-2026,Wazalendo,Western Jaguars,47',Goal,Job Wandera,Wazalend
 PLM,2026,17.0,30-05-2026,Wazalendo,Western Jaguars,49',Green Card,Job Wandera,Wazalendo
 PLM,2026,17.0,30-05-2026,Wazalendo,Western Jaguars,55',Yellow card,Allan Munene,Wazalendo
 PLM,2026,17.0,30-05-2026,Wazalendo,Western Jaguars,59',Yellow card,Brian Anzeze,Western Jaguars
+PLM,2026,52.0,14-06-2026,Western Jaguars,Daikyo Heroes,33',Green Card,Joseph Kasua,Daikyo Heroes
+PLM,2026,52.0,14-06-2026,Western Jaguars,Daikyo Heroes,38',Goal,Derrick Juma,Western Jaguars
+PLM,2026,52.0,14-06-2026,Western Jaguars,Daikyo Heroes,45',Goal,Bethuel Masambu,Western Jaguars
+PLM,2026,52.0,14-06-2026,Western Jaguars,Daikyo Heroes,51',Goal,Alex Taiswa,Western Jaguars
+PLM,2026,52.0,14-06-2026,Western Jaguars,Daikyo Heroes,56',Goal,Austin Otieno,Daikyo Heroes
 PLM,2026,4.0,23-05-2026,Western Jaguars,Kisumu Youngsters,10',Goal,Ketane Okoth,Kisumu Youngsters
-PLM,2026,4.0,23-05-2026,Western Jaguars,Kisumu Youngsters,18',Green Card,Moses Ooga,Kisumu Youngsters
+PLM,2026,4.0,23-05-2026,Western Jaguars,Kisumu Youngsters,18',Green Card,Moses Isigi Ooga,Kisumu Youngsters
 PLM,2026,4.0,23-05-2026,Western Jaguars,Kisumu Youngsters,21',Goal,Ivan Ludiali,Western Jaguars
 PLM,2026,4.0,23-05-2026,Western Jaguars,Kisumu Youngsters,55',Goal,Godfrey Fedha,Western Jaguars
 PLM,2026,4.0,23-05-2026,Western Jaguars,Kisumu Youngsters,15',Green Card,Duncan Kachisa,Kisumu Youngsters
