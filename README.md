@@ -1,14 +1,10 @@
 # HockeyIQ Kenya
 
-An automated data pipeline and dashboard for Kenya Hockey Union's 2026
-domestic season, Kenya's national-team international record, and FIH
-Hockey World Cup 2026 context — scraped, analysed, and published as a
-self-contained HTML dashboard, kept current by GitHub Actions.
+🔗 [View the live dashboard](https://agesatony.github.io/hockeyiq-kenya/)
 
-This README is the operational guide. For a full findings/limitations
-audit, see **[AUDIT.md](AUDIT.md)** — read that before treating anything
-here as "verified working," since several claims below could not be
-tested end-to-end in the environment that assembled this repo.
+HockeyIQ Kenya turns Kenya Hockey Union's raw match results into a real, working intelligence report — league tables, team and player analytics, Elo-based ratings, and Kenya's international hockey record — rebuilt automatically every week straight from KHU's own published results. No manual spreadsheets, no stale numbers: every table and chart updates itself as new matches are played.
+
+This README is the operational guide for how the pipeline works. For a full findings/limitations audit, see **[AUDIT.md](AUDIT.md)** — read that before treating anything here as "verified working," since several claims below could not be tested end-to-end in the environment that assembled this repo.
 
 ## Project structure
 
