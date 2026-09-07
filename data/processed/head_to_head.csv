@@ -2,7 +2,7 @@ Competition,TeamA,TeamB,Played,TeamA_Wins,Draws,TeamB_Wins
 PLW,Amira Sailors Hockey Club,Blazers Hockey Club,1,0,0,1
 PLW,Amira Sailors Hockey Club,Kisumu Queens,1,0,1,0
 PLW,Amira Sailors Hockey Club,Lakers Hockey Club,1,0,0,1
-PLW,Amira Sailors Hockey Club,Sliders Hockey Club,1,0,1,0
+PLW,Amira Sailors Hockey Club,Sliders Hockey Club,2,1,1,0
 PLW,Amira Sailors Hockey Club,Strathmore University Ladies,1,0,1,0
 PLW,Amira Sailors Hockey Club,UON Ladies,1,1,0,0
 PLW,Amira Sailors Hockey Club,USIU – A Ladies,1,1,0,0
@@ -14,7 +14,8 @@ PLW,Blazers Hockey Club,UON Ladies,1,0,1,0
 PLW,Blazers Hockey Club,USIU – A Ladies,1,0,1,0
 PLW,JKUAT Ladies,USIU – A Ladies,1,0,0,1
 PLW,Kenyatta University Ladies,Sliders Hockey Club,1,0,1,0
-PLW,Kisumu Queens,Lakers Hockey Club,1,0,1,0
+PLW,Kenyatta University Ladies,Strathmore University Ladies,1,0,0,1
+PLW,Kisumu Queens,Lakers Hockey Club,2,0,2,0
 PLW,Kisumu Queens,Sliders Hockey Club,1,1,0,0
 PLW,Kisumu Queens,Strathmore University Ladies,1,0,1,0
 PLW,Kisumu Queens,USIU – A Ladies,1,0,1,0
@@ -28,6 +29,15 @@ PLW,Sliders Hockey Club,USIU – A Ladies,1,0,0,1
 PLW,Strathmore University Ladies,UON Ladies,1,0,0,1
 PLW,Strathmore University Ladies,USIU – A Ladies,1,0,1,0
 PLW,UON Ladies,USIU – A Ladies,1,0,1,0
+PLM,Butali Warriors,Daikyo Heroes,1,1,0,0
+PLM,Butali Warriors,Greensharks,1,1,0,0
+PLM,Butali Warriors,Kenya Police,2,0,2,0
+PLM,Butali Warriors,Kisumu Youngsters,2,1,0,1
+PLM,Butali Warriors,Parklands Sports Club,1,1,0,0
+PLM,Butali Warriors,Sikh Union Nairobi,1,1,0,0
+PLM,Butali Warriors,USIU – A,1,1,0,0
+PLM,Butali Warriors,Wazalendo,1,0,1,0
+PLM,Butali Warriors,Western Jaguars,1,0,1,0
 PLM,Daikyo Heroes,Greensharks,1,1,0,0
 PLM,Daikyo Heroes,Kenya Police,1,1,0,0
 PLM,Daikyo Heroes,Kisumu Youngsters,1,1,0,0
@@ -50,9 +60,9 @@ PLM,Kenya Police,Parklands Sports Club,1,0,1,0
 PLM,Kenya Police,Sikh Union Nairobi,1,0,0,1
 PLM,Kenya Police,USIU – A,1,0,1,0
 PLM,Kenya Police,Warriors,2,0,2,0
-PLM,Kenya Police,Wazalendo,1,1,0,0
+PLM,Kenya Police,Wazalendo,2,1,0,1
 PLM,Kenya Police,Western Jaguars,1,0,1,0
-PLM,Kisumu Youngsters,Parklands Sports Club,1,0,0,1
+PLM,Kisumu Youngsters,Parklands Sports Club,2,0,0,2
 PLM,Kisumu Youngsters,Sikh Union Nairobi,1,0,1,0
 PLM,Kisumu Youngsters,USIU – A,1,1,0,0
 PLM,Kisumu Youngsters,Warriors,1,1,0,0
@@ -62,11 +72,11 @@ PLM,Parklands Sports Club,Sikh Union Nairobi,1,0,0,1
 PLM,Parklands Sports Club,USIU – A,1,0,0,1
 PLM,Parklands Sports Club,Warriors,1,0,0,1
 PLM,Parklands Sports Club,Wazalendo,1,1,0,0
-PLM,Parklands Sports Club,Western Jaguars,1,1,0,0
+PLM,Parklands Sports Club,Western Jaguars,2,1,0,1
 PLM,Sikh Union Nairobi,USIU – A,1,1,0,0
 PLM,Sikh Union Nairobi,Warriors,1,0,0,1
 PLM,Sikh Union Nairobi,Wazalendo,1,0,1,0
-PLM,Sikh Union Nairobi,Western Jaguars,1,0,0,1
+PLM,Sikh Union Nairobi,Western Jaguars,2,1,0,1
 PLM,USIU – A,Warriors,1,0,0,1
 PLM,USIU – A,Wazalendo,1,0,0,1
 PLM,USIU – A,Western Jaguars,1,0,0,1
