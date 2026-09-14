@@ -203,6 +203,14 @@ PLM,Sikh Union Nairobi,Butali Warriors,Home,1,2,0,0,1,0,0,0
 PLM,Sikh Union Nairobi,Western Jaguars,Home,3,1,1,0,0,3,0,0
 PLM,Wazalendo,Kenya Police,Home,1,0,1,0,0,3,1,0
 PLM,Western Jaguars,Butali Warriors,Home,3,3,0,1,0,1,0,0
+PLW,Blazers Hockey Club,Lakers Hockey Club,Home,2,0,1,0,0,3,1,0
+PLW,JKUAT Ladies,Kenyatta University Ladies,Home,0,1,0,0,1,0,0,1
+PLW,JKUAT Ladies,Sliders Hockey Club,Home,0,3,0,0,1,0,0,1
+PLW,Kenyatta University Ladies,Lakers Hockey Club,Home,1,3,0,0,1,0,0,0
+PLM,Greensharks,Kenya Police,Home,1,2,0,0,1,0,0,0
+PLM,Greensharks,Sikh Union Nairobi,Home,2,5,0,0,1,0,0,0
+PLM,Kisumu Youngsters,Western Jaguars,Home,0,3,0,0,1,0,0,1
+PLM,Wazalendo,Butali Warriors,Home,0,0,0,1,0,1,1,1
 PLW,Blazers Hockey Club,Amira Sailors Hockey Club,Away,3,0,1,0,0,3,1,0
 PLW,Sliders Hockey Club,Amira Sailors Hockey Club,Away,0,0,0,1,0,1,1,1
 PLW,Kenyatta University Ladies,Blazers Hockey Club,Away,0,2,0,0,1,0,0,1
@@ -407,3 +415,11 @@ PLM,Butali Warriors,Sikh Union Nairobi,Away,2,1,1,0,0,3,0,0
 PLM,Western Jaguars,Sikh Union Nairobi,Away,1,3,0,0,1,0,0,0
 PLM,Kenya Police,Wazalendo,Away,0,1,0,0,1,0,0,1
 PLM,Butali Warriors,Western Jaguars,Away,3,3,0,1,0,1,0,0
+PLW,Lakers Hockey Club,Blazers Hockey Club,Away,0,2,0,0,1,0,0,1
+PLW,Kenyatta University Ladies,JKUAT Ladies,Away,1,0,1,0,0,3,1,0
+PLW,Sliders Hockey Club,JKUAT Ladies,Away,3,0,1,0,0,3,1,0
+PLW,Lakers Hockey Club,Kenyatta University Ladies,Away,3,1,1,0,0,3,0,0
+PLM,Kenya Police,Greensharks,Away,2,1,1,0,0,3,0,0
+PLM,Sikh Union Nairobi,Greensharks,Away,5,2,1,0,0,3,0,0
+PLM,Western Jaguars,Kisumu Youngsters,Away,3,0,1,0,0,3,1,0
+PLM,Butali Warriors,Wazalendo,Away,0,0,0,1,0,1,1,1

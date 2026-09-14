@@ -8,11 +8,15 @@ PLW,Amira Sailors Hockey Club,UON Ladies,1,1,0,0
 PLW,Amira Sailors Hockey Club,USIU – A Ladies,1,1,0,0
 PLW,Blazers Hockey Club,Kenyatta University Ladies,1,1,0,0
 PLW,Blazers Hockey Club,Kisumu Queens,1,1,0,0
+PLW,Blazers Hockey Club,Lakers Hockey Club,1,1,0,0
 PLW,Blazers Hockey Club,Sliders Hockey Club,1,1,0,0
 PLW,Blazers Hockey Club,Strathmore University Ladies,1,1,0,0
 PLW,Blazers Hockey Club,UON Ladies,1,0,1,0
 PLW,Blazers Hockey Club,USIU – A Ladies,1,0,1,0
+PLW,JKUAT Ladies,Kenyatta University Ladies,1,0,0,1
+PLW,JKUAT Ladies,Sliders Hockey Club,1,0,0,1
 PLW,JKUAT Ladies,USIU – A Ladies,1,0,0,1
+PLW,Kenyatta University Ladies,Lakers Hockey Club,1,0,0,1
 PLW,Kenyatta University Ladies,Sliders Hockey Club,1,0,1,0
 PLW,Kenyatta University Ladies,Strathmore University Ladies,1,0,0,1
 PLW,Kisumu Queens,Lakers Hockey Club,2,0,2,0
@@ -36,7 +40,7 @@ PLM,Butali Warriors,Kisumu Youngsters,2,1,0,1
 PLM,Butali Warriors,Parklands Sports Club,1,1,0,0
 PLM,Butali Warriors,Sikh Union Nairobi,1,1,0,0
 PLM,Butali Warriors,USIU – A,1,1,0,0
-PLM,Butali Warriors,Wazalendo,1,0,1,0
+PLM,Butali Warriors,Wazalendo,2,0,2,0
 PLM,Butali Warriors,Western Jaguars,1,0,1,0
 PLM,Daikyo Heroes,Greensharks,1,1,0,0
 PLM,Daikyo Heroes,Kenya Police,1,1,0,0
@@ -47,10 +51,10 @@ PLM,Daikyo Heroes,USIU – A,1,0,0,1
 PLM,Daikyo Heroes,Warriors,1,0,0,1
 PLM,Daikyo Heroes,Wazalendo,1,1,0,0
 PLM,Daikyo Heroes,Western Jaguars,1,0,0,1
-PLM,Greensharks,Kenya Police,1,0,0,1
+PLM,Greensharks,Kenya Police,2,0,0,2
 PLM,Greensharks,Kisumu Youngsters,2,0,0,2
 PLM,Greensharks,Parklands Sports Club,1,0,0,1
-PLM,Greensharks,Sikh Union Nairobi,1,0,0,1
+PLM,Greensharks,Sikh Union Nairobi,2,0,0,2
 PLM,Greensharks,USIU – A,1,0,0,1
 PLM,Greensharks,Warriors,1,0,0,1
 PLM,Greensharks,Wazalendo,1,0,0,1
@@ -67,7 +71,7 @@ PLM,Kisumu Youngsters,Sikh Union Nairobi,1,0,1,0
 PLM,Kisumu Youngsters,USIU – A,1,1,0,0
 PLM,Kisumu Youngsters,Warriors,1,1,0,0
 PLM,Kisumu Youngsters,Wazalendo,2,0,0,2
-PLM,Kisumu Youngsters,Western Jaguars,1,0,0,1
+PLM,Kisumu Youngsters,Western Jaguars,2,0,0,2
 PLM,Parklands Sports Club,Sikh Union Nairobi,1,0,0,1
 PLM,Parklands Sports Club,USIU – A,1,0,0,1
 PLM,Parklands Sports Club,Warriors,1,0,0,1
