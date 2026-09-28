@@ -1,7 +1,10 @@
 Competition,Team,Form
-NLM-CZ,GHF Rift Pirates Men,W
-NLM-CZ,Thika Rovers,W
-NLM-CZ,Dukes of Gloucester,WLL
+NLM-CZ,GHF Rift Pirates Men,WW
+NLM-CZ,JKUAT,WD
+NLM-CZ,Thika Rovers,WD
+NLM-CZ,Multimedia University,W
+NLM-CZ,Dukes of Gloucester,WLLLL
+NLM-CZ,Egerton Uni Sharks,L
 NLM-CZ,Nyari Hockey Club,L
 NLM-EZ,Ulinzi Patriots,WDDWW
 NLM-EZ,Gorillas,DDLWW
@@ -13,37 +16,41 @@ NLM-EZ,Mombasa Sports Club,WDDDD
 NLM-EZ,TUK Men,LW
 NLM-EZ,Daystar University Men,LLLWL
 NLM-EZ,Snippers Hockey Club (Makueni),LLLLL
-NLM-SZ,Kisii Falcons,WWW
+NLM-SZ,Kisii Falcons,WWWDW
 NLM-SZ,Bay Club,LWW
-NLM-SZ,Gorillas Hockey CLub – Migori,LWL
-NLM-SZ,Oyugis Hockey Club,LLL
-NLM-WZ,Kitale Hockey Club,WWWWW
-NLM-WZ,Lakers Hockey Club Men,DWWL
-NLM-WZ,Fire Flickers,DLWL
-NLM-WZ,Nandi Hawks,WDLL
-NLM-WZ,GHF Blue Pirates II,LLLD
-NLM-WZ,Western Jaguars Dev,L
+NLM-SZ,Gorillas Hockey CLub – Migori,LWLLD
+NLM-SZ,Oyugis Hockey Club,LLLW
+NLM-SZ,Rongo University,DD
+NLM-SZ,Kisii University,D
+NLM-SZ,Kabianga University,DL
+NLM-WZ,Kitale Hockey Club,WWWWD
+NLM-WZ,Lakers Hockey Club Men,WWLLW
+NLM-WZ,Fire Flickers,LWLLD
+NLM-WZ,Western Jaguars Dev,LWLDW
+NLM-WZ,GHF Blue Pirates II,LDWDD
+NLM-WZ,Kaimosi Uni,WLDD
+NLM-WZ,Nandi Hawks,LLLDL
 PLM,Western Jaguars,WWWLW
-PLM,Sikh Union Nairobi,LWDWW
-PLM,Butali Warriors,WWDWD
-PLM,Wazalendo,LWLWD
+PLM,Butali Warriors,DWDWW
+PLM,Sikh Union Nairobi,WDWWD
+PLM,Wazalendo,WLWDD
+PLM,Kenya Police,DDLWW
 PLM,Warriors,DLWWD
-PLM,Parklands Sports Club,LWWLW
-PLM,Kenya Police,WDDLW
-PLM,Kisumu Youngsters,LWLLL
-PLM,Daikyo Heroes,LLLDL
-PLM,USIU – A,LLWWW
+PLM,Parklands Sports Club,WWLWL
+PLM,Kisumu Youngsters,WLLLL
+PLM,Daikyo Heroes,LLDLL
+PLM,USIU – A,LWWWW
 PLM,Greensharks,LLLLL
-PLW,Blazers Hockey Club,WDDWW
-PLW,Lakers Hockey Club,WWDWL
-PLW,Strathmore University Ladies,DDWWW
+PLW,Blazers Hockey Club,DWWWW
+PLW,Lakers Hockey Club,DWLWW
+PLW,Strathmore University Ladies,WWWDW
+PLW,Kisumu Queens,DWWWL
+PLW,Amira Sailors Hockey Club,WLWLL
 PLW,USIU – A Ladies,DWWDL
-PLW,Amira Sailors Hockey Club,DDLWW
-PLW,Kisumu Queens,DDLWD
-PLW,Sliders Hockey Club,WLLLW
-PLW,UON Ladies,WDDLL
-PLW,Kenyatta University Ladies,LDLLW
-PLW,JKUAT Ladies,LLL
+PLW,UON Ladies,LLDDW
+PLW,Sliders Hockey Club,WLLLL
+PLW,Kenyatta University Ladies,WLLWL
+PLW,JKUAT Ladies,LDLLW
 SLM,KCA University,WLWWL
 SLM,Strathmore University,WWDWW
 SLM,Mvita XI,WDWWD

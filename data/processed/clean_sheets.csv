@@ -1,7 +1,10 @@
 Competition,Team,CleanSheets,FailedToScore
 NLM-CZ,GHF Rift Pirates Men,0,0
+NLM-CZ,JKUAT,1,0
 NLM-CZ,Thika Rovers,1,0
-NLM-CZ,Dukes of Gloucester,1,1
+NLM-CZ,Multimedia University,0,0
+NLM-CZ,Dukes of Gloucester,1,2
+NLM-CZ,Egerton Uni Sharks,0,0
 NLM-CZ,Nyari Hockey Club,0,1
 NLM-EZ,Ulinzi Patriots,2,1
 NLM-EZ,Gorillas,2,1
@@ -13,37 +16,41 @@ NLM-EZ,Mombasa Sports Club,0,0
 NLM-EZ,TUK Men,0,0
 NLM-EZ,Daystar University Men,0,2
 NLM-EZ,Snippers Hockey Club (Makueni),0,4
-NLM-SZ,Kisii Falcons,2,0
+NLM-SZ,Kisii Falcons,3,0
 NLM-SZ,Bay Club,2,0
 NLM-SZ,Gorillas Hockey CLub – Migori,0,2
 NLM-SZ,Oyugis Hockey Club,0,2
-NLM-WZ,Kitale Hockey Club,3,0
-NLM-WZ,Lakers Hockey Club Men,1,1
-NLM-WZ,Fire Flickers,0,1
-NLM-WZ,Nandi Hawks,1,1
-NLM-WZ,GHF Blue Pirates II,0,1
-NLM-WZ,Western Jaguars Dev,0,1
+NLM-SZ,Rongo University,1,1
+NLM-SZ,Kisii University,0,0
+NLM-SZ,Kabianga University,1,2
+NLM-WZ,Kitale Hockey Club,5,0
+NLM-WZ,Lakers Hockey Club Men,2,1
+NLM-WZ,Fire Flickers,1,3
+NLM-WZ,Western Jaguars Dev,1,3
+NLM-WZ,GHF Blue Pirates II,1,1
+NLM-WZ,Kaimosi Uni,1,1
+NLM-WZ,Nandi Hawks,1,3
 PLM,Western Jaguars,4,2
-PLM,Sikh Union Nairobi,1,0
-PLM,Butali Warriors,2,2
-PLM,Wazalendo,4,1
+PLM,Butali Warriors,3,2
+PLM,Sikh Union Nairobi,2,1
+PLM,Wazalendo,5,2
+PLM,Kenya Police,3,2
 PLM,Warriors,1,1
 PLM,Parklands Sports Club,3,0
-PLM,Kenya Police,2,2
-PLM,Kisumu Youngsters,4,3
-PLM,Daikyo Heroes,1,4
-PLM,USIU – A,2,2
-PLM,Greensharks,0,7
-PLW,Blazers Hockey Club,6,1
-PLW,Lakers Hockey Club,3,4
-PLW,Strathmore University Ladies,5,2
+PLM,Kisumu Youngsters,4,4
+PLM,Daikyo Heroes,1,5
+PLM,USIU – A,3,2
+PLM,Greensharks,0,8
+PLW,Blazers Hockey Club,8,1
+PLW,Lakers Hockey Club,4,4
+PLW,Strathmore University Ladies,7,2
+PLW,Kisumu Queens,7,6
+PLW,Amira Sailors Hockey Club,7,6
 PLW,USIU – A Ladies,5,3
-PLW,Amira Sailors Hockey Club,6,4
-PLW,Kisumu Queens,5,5
-PLW,Sliders Hockey Club,3,8
 PLW,UON Ladies,1,3
-PLW,Kenyatta University Ladies,1,2
-PLW,JKUAT Ladies,0,3
+PLW,Sliders Hockey Club,3,11
+PLW,Kenyatta University Ladies,2,4
+PLW,JKUAT Ladies,0,4
 SLM,KCA University,3,0
 SLM,Strathmore University,2,0
 SLM,Mvita XI,2,0

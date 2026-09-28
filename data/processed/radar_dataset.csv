@@ -1,8 +1,11 @@
 Competition,Team,AttackStrength,DefenceStrength,PPM,EfficiencyRating,CompositeRating
-NLM-CZ,GHF Rift Pirates Men,1.89,2.92,3.0,5.5,10.31
-NLM-CZ,Thika Rovers,1.68,8.08,3.0,5.5,15.26
-NLM-CZ,Dukes of Gloucester,0.42,0.51,1.0,-1.34,-0.41
-NLM-CZ,Nyari Hockey Club,0.0,0.58,0.0,-2.5,-1.92
+NLM-CZ,GHF Rift Pirates Men,1.89,2.26,3.0,3.75,7.9
+NLM-CZ,JKUAT,1.72,4.51,2.0,3.25,9.48
+NLM-CZ,Thika Rovers,1.54,4.51,2.0,3.0,9.05
+NLM-CZ,Multimedia University,1.03,2.26,3.0,2.5,5.79
+NLM-CZ,Dukes of Gloucester,0.48,0.39,0.6,-1.9,-1.03
+NLM-CZ,Egerton Uni Sharks,0.34,1.13,0.0,-0.5,0.97
+NLM-CZ,Nyari Hockey Club,0.0,0.45,0.0,-2.5,-2.05
 NLM-EZ,Ulinzi Patriots,1.31,1.36,2.12,1.44,4.11
 NLM-EZ,Gorillas,0.94,1.21,1.75,0.94,3.09
 NLM-EZ,Black Tigers,1.08,1.02,1.44,0.78,2.88
@@ -13,37 +16,41 @@ NLM-EZ,Mombasa Sports Club,1.05,1.13,1.4,0.8,2.98
 NLM-EZ,TUK Men,1.5,0.68,1.5,0.75,2.93
 NLM-EZ,Daystar University Men,0.75,0.68,0.5,-0.25,1.18
 NLM-EZ,Snippers Hockey Club (Makueni),0.25,0.91,0.0,-0.58,0.58
-NLM-SZ,Kisii Falcons,2.13,8.08,3.0,4.17,14.38
-NLM-SZ,Bay Club,1.38,2.66,2.0,2.34,6.38
-NLM-SZ,Gorillas Hockey CLub – Migori,0.37,0.62,1.0,-1.16,-0.17
-NLM-SZ,Oyugis Hockey Club,0.12,0.53,0.0,-2.34,-1.69
-NLM-WZ,Kitale Hockey Club,2.4,2.67,3.0,2.7,7.77
-NLM-WZ,Lakers Hockey Club Men,0.8,2.13,1.75,1.0,3.93
-NLM-WZ,Fire Flickers,1.0,1.28,1.0,0.5,2.78
-NLM-WZ,Nandi Hawks,0.8,0.58,1.0,-0.38,1.0
-NLM-WZ,GHF Blue Pirates II,1.0,0.71,0.25,-0.38,1.33
-NLM-WZ,Western Jaguars Dev,0.0,0.8,0.0,-1.0,-0.2
-PLM,Western Jaguars,1.38,1.26,2.0,1.5,4.14
-PLM,Sikh Union Nairobi,1.37,1.04,1.85,1.27,3.68
-PLM,Butali Warriors,1.38,1.18,1.92,1.42,3.98
-PLM,Wazalendo,0.97,1.12,1.57,0.86,2.95
-PLM,Warriors,1.42,1.12,1.9,1.4,3.94
-PLM,Parklands Sports Club,0.86,0.95,1.46,0.57,2.38
-PLM,Kenya Police,0.89,1.07,1.21,0.57,2.53
-PLM,Kisumu Youngsters,0.67,1.05,1.13,0.33,2.05
-PLM,Daikyo Heroes,0.89,0.81,1.33,0.38,2.08
-PLM,USIU – A,0.77,0.99,1.0,0.3,2.06
-PLM,Greensharks,0.42,0.71,0.0,-0.82,0.31
-PLW,Blazers Hockey Club,2.11,2.95,2.5,2.06,7.12
-PLW,Lakers Hockey Club,1.65,1.44,1.67,1.23,4.32
-PLW,Strathmore University Ladies,2.11,1.26,1.44,1.27,4.64
-PLW,USIU – A Ladies,1.06,2.24,1.62,1.06,4.36
-PLW,Amira Sailors Hockey Club,0.79,1.81,1.5,0.82,3.42
-PLW,Kisumu Queens,0.45,2.6,1.14,0.57,3.62
-PLW,Sliders Hockey Club,0.48,0.56,0.73,-0.41,0.63
-PLW,UON Ladies,0.71,1.12,0.83,0.25,2.08
-PLW,Kenyatta University Ladies,0.63,0.43,0.8,-0.6,0.46
-PLW,JKUAT Ladies,0.0,0.56,0.0,-1.0,-0.44
+NLM-SZ,Kisii Falcons,2.43,2.93,2.6,3.1,8.46
+NLM-SZ,Bay Club,2.12,1.76,2.0,2.34,6.22
+NLM-SZ,Gorillas Hockey CLub – Migori,0.58,0.55,0.8,-0.7,0.43
+NLM-SZ,Oyugis Hockey Club,0.43,0.44,0.75,-1.25,-0.38
+NLM-SZ,Rongo University,0.29,3.51,1.0,0.5,4.3
+NLM-SZ,Kisii University,1.16,0.88,1.0,0.5,2.54
+NLM-SZ,Kabianga University,0.0,1.76,0.5,-0.25,1.51
+NLM-WZ,Kitale Hockey Club,1.98,2.59,2.75,2.38,6.95
+NLM-WZ,Lakers Hockey Club Men,0.79,1.56,1.67,0.92,3.27
+NLM-WZ,Fire Flickers,0.79,0.94,1.0,0.31,2.04
+NLM-WZ,Western Jaguars Dev,0.66,0.86,1.17,0.25,1.77
+NLM-WZ,GHF Blue Pirates II,1.24,0.83,0.86,0.43,2.5
+NLM-WZ,Kaimosi Uni,0.99,1.3,1.25,0.75,3.04
+NLM-WZ,Nandi Hawks,0.56,0.57,0.71,-0.44,0.69
+PLM,Western Jaguars,1.39,1.24,2.0,1.5,4.13
+PLM,Butali Warriors,1.57,1.28,2.07,1.71,4.56
+PLM,Sikh Union Nairobi,1.28,1.1,1.79,1.22,3.6
+PLM,Wazalendo,0.91,1.18,1.53,0.83,2.92
+PLM,Kenya Police,0.95,1.12,1.33,0.73,2.8
+PLM,Warriors,1.43,1.1,1.9,1.4,3.93
+PLM,Parklands Sports Club,0.85,0.86,1.36,0.43,2.14
+PLM,Kisumu Youngsters,0.63,0.98,1.06,0.22,1.83
+PLM,Daikyo Heroes,0.82,0.83,1.23,0.3,1.95
+PLM,USIU – A,0.76,1.07,1.18,0.45,2.28
+PLM,Greensharks,0.4,0.65,0.0,-0.93,0.12
+PLW,Blazers Hockey Club,1.83,3.86,2.6,2.2,7.89
+PLW,Lakers Hockey Club,1.43,1.59,1.91,1.41,4.43
+PLW,Strathmore University Ladies,1.52,1.55,1.67,1.34,4.41
+PLW,Kisumu Queens,0.87,2.58,1.55,1.05,4.5
+PLW,Amira Sailors Hockey Club,0.87,1.16,1.25,0.62,2.65
+PLW,USIU – A Ladies,0.87,2.32,1.62,1.06,4.25
+PLW,UON Ladies,0.97,0.95,1.11,0.5,2.42
+PLW,Sliders Hockey Club,0.35,0.56,0.53,-0.57,0.34
+PLW,Kenyatta University Ladies,0.68,0.58,0.78,-0.22,1.04
+PLW,JKUAT Ladies,0.62,0.45,0.57,-0.64,0.43
 SLM,KCA University,1.74,1.57,2.25,2.12,5.43
 SLM,Strathmore University,1.48,1.76,2.33,2.0,5.24
 SLM,Mvita XI,1.33,1.26,2.2,1.6,4.19
