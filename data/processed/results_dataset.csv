@@ -252,6 +252,21 @@ NLM-SZ,Kisii Falcons,Kabianga University,Home,2,0,1,0,0,3,1,0
 NLM-SZ,Kisii University,Kisii Falcons,Home,2,2,0,1,0,1,0,0
 NLM-SZ,Rongo University,Gorillas Hockey CLub – Migori,Home,1,1,0,1,0,1,0,0
 NLM-SZ,Rongo University,Kabianga University,Home,0,0,0,1,0,1,1,1
+PLW,Blazers Hockey Club,JKUAT Ladies,Home,9,0,1,0,0,3,1,0
+PLW,JKUAT Ladies,Strathmore University Ladies,Home,0,4,0,0,1,0,0,1
+PLW,Kenyatta University Ladies,Kisumu Queens,Home,1,1,0,1,0,1,0,0
+PLW,UON Ladies,Kisumu Queens,Home,1,2,0,0,1,0,0,0
+PLW,UON Ladies,USIU – A Ladies,Home,1,2,0,0,1,0,0,0
+PLM,Butali Warriors,Western Jaguars,Home,2,0,1,0,0,3,1,0
+PLM,Daikyo Heroes,Kisumu Youngsters,Home,4,1,1,0,0,3,0,0
+PLM,Parklands Sports Club,Sikh Union Nairobi,Home,2,1,1,0,0,3,0,0
+PLM,Sikh Union Nairobi,Kisumu Youngsters,Home,2,0,1,0,0,3,1,0
+PLM,Wazalendo,Daikyo Heroes,Home,4,1,1,0,0,3,0,0
+SLM,GHF Blue Pirates,UOE Men,Home,2,0,1,0,0,3,1,0
+SLM,KCA University,Kenyatta University Men,Home,3,3,0,1,0,1,0,0
+SLM,Kenyatta University Men,Strathmore University,Home,1,1,0,1,0,1,0,0
+SLW,Gorillas Hockey Club – Ladies,Twinkle Hockey Club,Home,0,5,0,0,1,0,0,1
+SLW,Kisii Uni Ladies,Twinkle Hockey Club,Home,0,8,0,0,1,0,0,1
 PLW,Blazers Hockey Club,Amira Sailors Hockey Club,Away,3,0,1,0,0,3,1,0
 PLW,Sliders Hockey Club,Amira Sailors Hockey Club,Away,0,0,0,1,0,1,1,1
 PLW,Kenyatta University Ladies,Blazers Hockey Club,Away,0,2,0,0,1,0,0,1
@@ -505,3 +520,18 @@ NLM-SZ,Kabianga University,Kisii Falcons,Away,0,2,0,0,1,0,0,1
 NLM-SZ,Kisii Falcons,Kisii University,Away,2,2,0,1,0,1,0,0
 NLM-SZ,Gorillas Hockey CLub – Migori,Rongo University,Away,1,1,0,1,0,1,0,0
 NLM-SZ,Kabianga University,Rongo University,Away,0,0,0,1,0,1,1,1
+PLW,JKUAT Ladies,Blazers Hockey Club,Away,0,9,0,0,1,0,0,1
+PLW,Strathmore University Ladies,JKUAT Ladies,Away,4,0,1,0,0,3,1,0
+PLW,Kisumu Queens,Kenyatta University Ladies,Away,1,1,0,1,0,1,0,0
+PLW,Kisumu Queens,UON Ladies,Away,2,1,1,0,0,3,0,0
+PLW,USIU – A Ladies,UON Ladies,Away,2,1,1,0,0,3,0,0
+PLM,Western Jaguars,Butali Warriors,Away,0,2,0,0,1,0,0,1
+PLM,Kisumu Youngsters,Daikyo Heroes,Away,1,4,0,0,1,0,0,0
+PLM,Sikh Union Nairobi,Parklands Sports Club,Away,1,2,0,0,1,0,0,0
+PLM,Kisumu Youngsters,Sikh Union Nairobi,Away,0,2,0,0,1,0,0,1
+PLM,Daikyo Heroes,Wazalendo,Away,1,4,0,0,1,0,0,0
+SLM,UOE Men,GHF Blue Pirates,Away,0,2,0,0,1,0,0,1
+SLM,Kenyatta University Men,KCA University,Away,3,3,0,1,0,1,0,0
+SLM,Strathmore University,Kenyatta University Men,Away,1,1,0,1,0,1,0,0
+SLW,Twinkle Hockey Club,Gorillas Hockey Club – Ladies,Away,5,0,1,0,0,3,1,0
+SLW,Twinkle Hockey Club,Kisii Uni Ladies,Away,8,0,1,0,0,3,1,0

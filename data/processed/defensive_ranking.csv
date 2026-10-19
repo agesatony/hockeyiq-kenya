@@ -30,43 +30,46 @@ NLM-WZ,Fire Flickers,11,8,1.375
 NLM-WZ,Western Jaguars Dev,9,6,1.5
 NLM-WZ,GHF Blue Pirates II,11,7,1.5714285714285714
 NLM-WZ,Nandi Hawks,16,7,2.2857142857142856
-PLM,Butali Warriors,18,14,1.2857142857142858
-PLM,Western Jaguars,20,15,1.3333333333333333
-PLM,Wazalendo,21,15,1.4
+PLM,Butali Warriors,18,15,1.2
+PLM,Wazalendo,22,16,1.375
+PLM,Western Jaguars,22,16,1.375
+PLM,Sikh Union Nairobi,23,16,1.4375
 PLM,Kenya Police,22,15,1.4666666666666666
-PLM,Sikh Union Nairobi,21,14,1.5
 PLM,Warriors,15,10,1.5
 PLM,USIU – A,17,11,1.5454545454545454
-PLM,Kisumu Youngsters,27,16,1.6875
-PLM,Parklands Sports Club,27,14,1.9285714285714286
-PLM,Daikyo Heroes,26,13,2.0
+PLM,Kisumu Youngsters,33,18,1.8333333333333333
+PLM,Parklands Sports Club,28,15,1.8666666666666667
+PLM,Daikyo Heroes,31,15,2.066666666666667
 PLM,Greensharks,38,15,2.533333333333333
-PLW,Blazers Hockey Club,3,10,0.3
-PLW,Kisumu Queens,5,11,0.45454545454545453
-PLW,USIU – A Ladies,4,8,0.5
+PLW,Blazers Hockey Club,3,11,0.2727272727272727
+PLW,Kisumu Queens,7,13,0.5384615384615384
+PLW,USIU – A Ladies,5,9,0.5555555555555556
+PLW,Strathmore University Ladies,9,13,0.6923076923076923
 PLW,Lakers Hockey Club,8,11,0.7272727272727273
-PLW,Strathmore University Ladies,9,12,0.75
 PLW,Amira Sailors Hockey Club,12,12,1.0
-PLW,UON Ladies,11,9,1.2222222222222223
-PLW,Kenyatta University Ladies,18,9,2.0
+PLW,UON Ladies,15,11,1.3636363636363635
+PLW,Kenyatta University Ladies,19,10,1.9
 PLW,Sliders Hockey Club,31,15,2.066666666666667
-PLW,JKUAT Ladies,18,7,2.5714285714285716
-SLM,GHF Blue Pirates,3,4,0.75
-SLM,Strathmore University,6,6,1.0
-SLM,KCA University,9,8,1.125
+PLW,JKUAT Ladies,31,9,3.4444444444444446
+SLM,GHF Blue Pirates,3,5,0.6
+SLM,Strathmore University,7,7,1.0
+SLM,KCA University,12,9,1.3333333333333333
 SLM,Mvita XI,7,5,1.4
 SLM,UON Men,10,6,1.6666666666666667
+SLM,Kenyatta University Men,4,2,2.0
 SLM,Nakuru Hockey Club,14,7,2.0
+SLM,UOE Men,2,1,2.0
 SLM,Wazalendo Masters,18,9,2.0
 SLM,Impala,19,8,2.375
 SLM,Parkroad Badgers,17,7,2.4285714285714284
 SLM,Parkroad Tigers,17,6,2.8333333333333335
-SLW,Twinkle Hockey Club,3,5,0.6
+SLW,Twinkle Hockey Club,3,7,0.42857142857142855
 SLW,Lakers Hockey Club – B,5,6,0.8333333333333334
 SLW,Wazalendo Pearls,5,6,0.8333333333333334
 SLW,Swans Hockey Club,4,4,1.0
 SLW,GHF Rift Pirates Ladies,7,6,1.1666666666666667
 SLW,Mombasa Sports Club Ladies,5,4,1.25
 SLW,Daystar University Ladies,9,5,1.8
-SLW,Gorillas Hockey Club – Ladies,6,3,2.0
+SLW,Gorillas Hockey Club – Ladies,11,4,2.75
 SLW,Black Tigresses,6,1,6.0
+SLW,Kisii Uni Ladies,8,1,8.0

@@ -30,43 +30,46 @@ NLM-WZ,Western Jaguars Dev,5,9,-4
 NLM-WZ,GHF Blue Pirates II,11,11,0
 NLM-WZ,Kaimosi Uni,5,4,1
 NLM-WZ,Nandi Hawks,5,16,-11
-PLM,Western Jaguars,35,20,15
-PLM,Butali Warriors,37,18,19
-PLM,Sikh Union Nairobi,30,21,9
-PLM,Wazalendo,23,21,2
+PLM,Butali Warriors,39,18,21
+PLM,Western Jaguars,35,22,13
+PLM,Sikh Union Nairobi,33,23,10
+PLM,Wazalendo,27,22,5
+PLM,Parklands Sports Club,22,28,-6
 PLM,Kenya Police,24,22,2
 PLM,Warriors,24,15,9
-PLM,Parklands Sports Club,20,27,-7
-PLM,Kisumu Youngsters,17,27,-10
-PLM,Daikyo Heroes,18,26,-8
+PLM,Daikyo Heroes,23,31,-8
+PLM,Kisumu Youngsters,18,33,-15
 PLM,USIU – A,14,17,-3
 PLM,Greensharks,10,38,-28
-PLW,Blazers Hockey Club,21,3,18
+PLW,Blazers Hockey Club,30,3,27
+PLW,Strathmore University Ladies,25,9,16
 PLW,Lakers Hockey Club,18,8,10
-PLW,Strathmore University Ladies,21,9,12
-PLW,Kisumu Queens,11,5,6
+PLW,Kisumu Queens,14,7,7
+PLW,USIU – A Ladies,10,5,5
 PLW,Amira Sailors Hockey Club,12,12,0
-PLW,USIU – A Ladies,8,4,4
-PLW,UON Ladies,10,11,-1
+PLW,UON Ladies,12,15,-3
+PLW,Kenyatta University Ladies,8,19,-11
 PLW,Sliders Hockey Club,6,31,-25
-PLW,Kenyatta University Ladies,7,18,-11
-PLW,JKUAT Ladies,5,18,-13
-SLM,KCA University,25,9,16
-SLM,Strathmore University,16,6,10
+PLW,JKUAT Ladies,5,31,-26
+SLM,KCA University,28,12,16
+SLM,Strathmore University,17,7,10
 SLM,Mvita XI,12,7,5
 SLM,Impala,17,19,-2
+SLM,GHF Blue Pirates,6,3,3
 SLM,Parkroad Tigers,9,17,-8
-SLM,GHF Blue Pirates,4,3,1
 SLM,UON Men,7,10,-3
 SLM,Parkroad Badgers,13,17,-4
 SLM,Wazalendo Masters,9,18,-9
 SLM,Nakuru Hockey Club,8,14,-6
-SLW,Twinkle Hockey Club,13,3,10
+SLM,Kenyatta University Men,4,4,0
+SLM,UOE Men,0,2,-2
+SLW,Twinkle Hockey Club,26,3,23
 SLW,Wazalendo Pearls,10,5,5
 SLW,Lakers Hockey Club – B,7,5,2
 SLW,GHF Rift Pirates Ladies,8,7,1
 SLW,Swans Hockey Club,4,4,0
 SLW,Daystar University Ladies,3,9,-6
 SLW,Mombasa Sports Club Ladies,3,5,-2
-SLW,Gorillas Hockey Club – Ladies,2,6,-4
 SLW,Black Tigresses,0,6,-6
+SLW,Kisii Uni Ladies,0,8,-8
+SLW,Gorillas Hockey Club – Ladies,2,11,-9

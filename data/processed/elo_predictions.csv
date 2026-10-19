@@ -147,6 +147,11 @@ PLM,Greensharks,Butali Warriors,0.305,0.0,0.093025
 PLM,Sikh Union Nairobi,Wazalendo,0.592,0.5,0.008463999999999994
 PLM,Butali Warriors,Parklands Sports Club,0.659,1.0,0.11628099999999998
 PLM,Kisumu Youngsters,Kenya Police,0.501,0.0,0.251001
+PLM,Daikyo Heroes,Kisumu Youngsters,0.581,1.0,0.17556100000000002
+PLM,Parklands Sports Club,Sikh Union Nairobi,0.454,1.0,0.29811600000000005
+PLM,Butali Warriors,Western Jaguars,0.566,1.0,0.18835600000000005
+PLM,Sikh Union Nairobi,Kisumu Youngsters,0.687,1.0,0.09796899999999996
+PLM,Wazalendo,Daikyo Heroes,0.602,1.0,0.15840400000000002
 PLW,Blazers Hockey Club,Kenyatta University Ladies,0.55,1.0,0.20249999999999996
 PLW,Strathmore University Ladies,USIU – A Ladies,0.55,0.5,0.0025000000000000044
 PLW,UON Ladies,Amira Sailors Hockey Club,0.55,0.0,0.30250000000000005
@@ -199,6 +204,11 @@ PLW,Amira Sailors Hockey Club,UON Ladies,0.568,0.0,0.32262399999999997
 PLW,Kenyatta University Ladies,Blazers Hockey Club,0.385,0.0,0.148225
 PLW,Sliders Hockey Club,JKUAT Ladies,0.518,0.0,0.268324
 PLW,Strathmore University Ladies,Kisumu Queens,0.565,1.0,0.18922500000000006
+PLW,Blazers Hockey Club,JKUAT Ladies,0.751,1.0,0.062001
+PLW,Kenyatta University Ladies,Kisumu Queens,0.453,0.5,0.0022089999999999987
+PLW,UON Ladies,USIU – A Ladies,0.509,0.0,0.259081
+PLW,JKUAT Ladies,Strathmore University Ladies,0.372,0.0,0.138384
+PLW,UON Ladies,Kisumu Queens,0.498,0.0,0.248004
 SLM,Parkroad Badgers,Parkroad Tigers,0.55,0.0,0.30250000000000005
 SLM,UON Men,KCA University,0.55,0.0,0.30250000000000005
 SLM,Parkroad Badgers,KCA University,0.524,0.0,0.27457600000000004
@@ -232,6 +242,9 @@ SLM,Impala,GHF Blue Pirates,0.544,0.5,0.0019360000000000035
 SLM,KCA University,Strathmore University,0.591,0.0,0.34928099999999995
 SLM,Mvita XI,Nakuru Hockey Club,0.651,0.5,0.022801000000000005
 SLM,Parkroad Badgers,Wazalendo Masters,0.615,0.0,0.378225
+SLM,GHF Blue Pirates,UOE Men,0.561,1.0,0.19272099999999995
+SLM,KCA University,Kenyatta University Men,0.639,0.5,0.019321000000000005
+SLM,Kenyatta University Men,Strathmore University,0.477,0.5,0.0005290000000000009
 SLW,Black Tigresses,Twinkle Hockey Club,0.55,0.0,0.30250000000000005
 SLW,Swans Hockey Club,Mombasa Sports Club Ladies,0.55,0.5,0.0025000000000000044
 SLW,Wazalendo Pearls,Twinkle Hockey Club,0.514,0.0,0.264196
@@ -252,3 +265,5 @@ SLW,Lakers Hockey Club – B,Gorillas Hockey Club – Ladies,0.58,1.0,0.17640000
 SLW,Swans Hockey Club,Lakers Hockey Club – B,0.535,0.0,0.286225
 SLW,Lakers Hockey Club – B,Mombasa Sports Club Ladies,0.595,0.5,0.009024999999999995
 SLW,Swans Hockey Club,GHF Rift Pirates Ladies,0.516,1.0,0.234256
+SLW,Kisii Uni Ladies,Twinkle Hockey Club,0.477,0.0,0.22752899999999998
+SLW,Gorillas Hockey Club – Ladies,Twinkle Hockey Club,0.404,0.0,0.16321600000000003

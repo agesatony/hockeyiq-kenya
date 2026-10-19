@@ -30,43 +30,46 @@ NLM-WZ,Western Jaguars Dev,6,7,1.17
 NLM-WZ,Fire Flickers,8,8,1.0
 NLM-WZ,GHF Blue Pirates II,7,6,0.86
 NLM-WZ,Nandi Hawks,7,5,0.71
-PLM,Butali Warriors,14,29,2.07
-PLM,Western Jaguars,15,30,2.0
+PLM,Butali Warriors,15,32,2.13
 PLM,Warriors,10,19,1.9
-PLM,Sikh Union Nairobi,14,25,1.79
-PLM,Wazalendo,15,23,1.53
-PLM,Parklands Sports Club,14,19,1.36
+PLM,Western Jaguars,16,30,1.88
+PLM,Sikh Union Nairobi,16,28,1.75
+PLM,Wazalendo,16,26,1.62
+PLM,Parklands Sports Club,15,22,1.47
 PLM,Kenya Police,15,20,1.33
-PLM,Daikyo Heroes,13,16,1.23
+PLM,Daikyo Heroes,15,19,1.27
 PLM,USIU – A,11,13,1.18
-PLM,Kisumu Youngsters,16,17,1.06
+PLM,Kisumu Youngsters,18,17,0.94
 PLM,Greensharks,15,0,0.0
-PLW,Blazers Hockey Club,10,26,2.6
+PLW,Blazers Hockey Club,11,29,2.64
 PLW,Lakers Hockey Club,11,21,1.91
-PLW,Strathmore University Ladies,12,20,1.67
-PLW,USIU – A Ladies,8,13,1.62
-PLW,Kisumu Queens,11,17,1.55
+PLW,USIU – A Ladies,9,16,1.78
+PLW,Strathmore University Ladies,13,23,1.77
+PLW,Kisumu Queens,13,21,1.62
 PLW,Amira Sailors Hockey Club,12,15,1.25
-PLW,UON Ladies,9,10,1.11
-PLW,Kenyatta University Ladies,9,7,0.78
-PLW,JKUAT Ladies,7,4,0.57
+PLW,UON Ladies,11,10,0.91
+PLW,Kenyatta University Ladies,10,8,0.8
 PLW,Sliders Hockey Club,15,8,0.53
-SLM,Strathmore University,6,14,2.33
-SLM,KCA University,8,18,2.25
+PLW,JKUAT Ladies,9,4,0.44
 SLM,Mvita XI,5,11,2.2
-SLM,GHF Blue Pirates,4,7,1.75
+SLM,Strathmore University,7,15,2.14
+SLM,KCA University,9,19,2.11
+SLM,GHF Blue Pirates,5,10,2.0
 SLM,Parkroad Tigers,6,9,1.5
 SLM,Impala,8,11,1.38
 SLM,UON Men,6,7,1.17
+SLM,Kenyatta University Men,2,2,1.0
 SLM,Parkroad Badgers,7,6,0.86
 SLM,Wazalendo Masters,9,5,0.56
 SLM,Nakuru Hockey Club,7,3,0.43
-SLW,Twinkle Hockey Club,5,13,2.6
+SLM,UOE Men,1,0,0.0
+SLW,Twinkle Hockey Club,7,19,2.71
 SLW,Wazalendo Pearls,6,13,2.17
 SLW,Lakers Hockey Club – B,6,11,1.83
 SLW,GHF Rift Pirates Ladies,6,9,1.5
 SLW,Swans Hockey Club,4,5,1.25
 SLW,Daystar University Ladies,5,3,0.6
 SLW,Mombasa Sports Club Ladies,4,2,0.5
-SLW,Gorillas Hockey Club – Ladies,3,0,0.0
 SLW,Black Tigresses,1,0,0.0
+SLW,Kisii Uni Ladies,1,0,0.0
+SLW,Gorillas Hockey Club – Ladies,4,0,0.0

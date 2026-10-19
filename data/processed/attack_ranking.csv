@@ -30,43 +30,46 @@
 26,NLM-WZ,Kaimosi Uni,5
 29,NLM-WZ,Nandi Hawks,5
 30,NLM-WZ,Western Jaguars Dev,5
-31,PLM,Butali Warriors,37
+31,PLM,Butali Warriors,39
 41,PLM,Western Jaguars,35
-37,PLM,Sikh Union Nairobi,30
+37,PLM,Sikh Union Nairobi,33
+40,PLM,Wazalendo,27
 34,PLM,Kenya Police,24
 39,PLM,Warriors,24
-40,PLM,Wazalendo,23
-36,PLM,Parklands Sports Club,20
-32,PLM,Daikyo Heroes,18
-35,PLM,Kisumu Youngsters,17
+32,PLM,Daikyo Heroes,23
+36,PLM,Parklands Sports Club,22
+35,PLM,Kisumu Youngsters,18
 38,PLM,USIU – A,14
 33,PLM,Greensharks,10
-43,PLW,Blazers Hockey Club,21
-49,PLW,Strathmore University Ladies,21
+43,PLW,Blazers Hockey Club,30
+49,PLW,Strathmore University Ladies,25
 47,PLW,Lakers Hockey Club,18
+46,PLW,Kisumu Queens,14
 42,PLW,Amira Sailors Hockey Club,12
-46,PLW,Kisumu Queens,11
-50,PLW,UON Ladies,10
-51,PLW,USIU – A Ladies,8
-45,PLW,Kenyatta University Ladies,7
+50,PLW,UON Ladies,12
+51,PLW,USIU – A Ladies,10
+45,PLW,Kenyatta University Ladies,8
 48,PLW,Sliders Hockey Club,6
 44,PLW,JKUAT Ladies,5
-54,SLM,KCA University,25
+54,SLM,KCA University,28
 53,SLM,Impala,17
-59,SLM,Strathmore University,16
-57,SLM,Parkroad Badgers,13
-55,SLM,Mvita XI,12
-58,SLM,Parkroad Tigers,9
-61,SLM,Wazalendo Masters,9
-56,SLM,Nakuru Hockey Club,8
-60,SLM,UON Men,7
-52,SLM,GHF Blue Pirates,4
-69,SLW,Twinkle Hockey Club,13
-70,SLW,Wazalendo Pearls,10
-64,SLW,GHF Rift Pirates Ladies,8
-66,SLW,Lakers Hockey Club – B,7
-68,SLW,Swans Hockey Club,4
-63,SLW,Daystar University Ladies,3
-67,SLW,Mombasa Sports Club Ladies,3
-65,SLW,Gorillas Hockey Club – Ladies,2
-62,SLW,Black Tigresses,0
+60,SLM,Strathmore University,17
+58,SLM,Parkroad Badgers,13
+56,SLM,Mvita XI,12
+59,SLM,Parkroad Tigers,9
+63,SLM,Wazalendo Masters,9
+57,SLM,Nakuru Hockey Club,8
+62,SLM,UON Men,7
+52,SLM,GHF Blue Pirates,6
+55,SLM,Kenyatta University Men,4
+61,SLM,UOE Men,0
+72,SLW,Twinkle Hockey Club,26
+73,SLW,Wazalendo Pearls,10
+66,SLW,GHF Rift Pirates Ladies,8
+69,SLW,Lakers Hockey Club – B,7
+71,SLW,Swans Hockey Club,4
+65,SLW,Daystar University Ladies,3
+70,SLW,Mombasa Sports Club Ladies,3
+67,SLW,Gorillas Hockey Club – Ladies,2
+64,SLW,Black Tigresses,0
+68,SLW,Kisii Uni Ladies,0
