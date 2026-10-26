@@ -1,11 +1,17 @@
 Team,Competition,Trend,Category
-Gorillas,NLM-EZ,Gorillas has scored in every one of their last 6 matches.,Free-Scoring
-Parklands Sports Club – Legacy,NLM-EZ,Parklands Sports Club – Legacy has scored in every one of their last 8 matches.,Free-Scoring
+JKUAT,NLM-CZ,JKUAT has failed to score in 2 consecutive matches.,Goal Drought
+GHF Rift Pirates Men,NLM-CZ,GHF Rift Pirates Men has scored in every one of their last 5 matches.,Free-Scoring
+Egerton Uni Sharks,NLM-CZ,Egerton Uni Sharks has failed to score in 2 consecutive matches.,Goal Drought
+Thika Rovers,NLM-CZ,Thika Rovers has failed to score in 2 consecutive matches.,Goal Drought
+Multimedia University,NLM-CZ,Multimedia University has failed to score in 2 consecutive matches.,Goal Drought
+Gorillas,NLM-EZ,Gorillas has scored in every one of their last 8 matches.,Free-Scoring
+Parklands Sports Club – Legacy,NLM-EZ,Parklands Sports Club – Legacy has scored in every one of their last 10 matches.,Free-Scoring
+UoN Cubs,NLM-EZ,UoN Cubs has scored in every one of their last 6 matches.,Free-Scoring
 Mombasa Sports Club,NLM-EZ,Mombasa Sports Club has scored in every one of their last 5 matches.,Free-Scoring
-Kisii Falcons,NLM-SZ,Kisii Falcons has scored in every one of their last 5 matches.,Free-Scoring
-Kabianga University,NLM-SZ,Kabianga University has failed to score in 2 consecutive matches.,Goal Drought
-Kitale Hockey Club,NLM-WZ,Kitale Hockey Club has scored in every one of their last 8 matches.,Free-Scoring
-GHF Blue Pirates II,NLM-WZ,GHF Blue Pirates II has scored in every one of their last 5 matches.,Free-Scoring
+Bay Club,NLM-SZ,Bay Club has scored in every one of their last 7 matches.,Free-Scoring
+Oyugis Hockey Club,NLM-SZ,Oyugis Hockey Club has failed to score in 2 consecutive matches.,Goal Drought
+Fire Flickers,NLM-WZ,Fire Flickers has scored in every one of their last 5 matches.,Free-Scoring
+Nandi Hawks,NLM-WZ,Nandi Hawks has failed to score in 3 consecutive matches.,Goal Drought
 Parklands Sports Club,PLM,Parklands Sports Club has scored in every one of their last 15 matches.,Free-Scoring
 Blazers Hockey Club,PLW,Blazers Hockey Club has scored in every one of their last 6 matches.,Free-Scoring
 Strathmore University Ladies,PLW,Strathmore University Ladies has scored in every one of their last 7 matches.,Free-Scoring
@@ -19,10 +25,15 @@ Parkroad Badgers,SLM,Parkroad Badgers has scored in every one of their last 7 ma
 Twinkle Hockey Club,SLW,Twinkle Hockey Club has scored in every one of their last 7 matches.,Free-Scoring
 Wazalendo Pearls,SLW,Wazalendo Pearls has scored in every one of their last 5 matches.,Free-Scoring
 Gorillas Hockey Club – Ladies,SLW,Gorillas Hockey Club – Ladies has failed to score in 2 consecutive matches.,Goal Drought
+Kisii Uni Ladies,SLW,Kisii Uni Ladies has failed to score in 2 consecutive matches.,Goal Drought
+Ulinzi Patriots,NLM-EZ,Ulinzi Patriots is unbeaten in 6 consecutive matches this season.,Extended Unbeaten Run
 Parklands Sports Club – Legacy,NLM-EZ,Parklands Sports Club – Legacy is unbeaten in 6 consecutive matches this season.,Extended Unbeaten Run
-Kitale Hockey Club,NLM-WZ,Kitale Hockey Club is unbeaten in 8 consecutive matches this season.,Extended Unbeaten Run
-Butali Warriors,PLM,Butali Warriors is unbeaten in 8 consecutive matches this season.,Extended Unbeaten Run
+Kisii Falcons,NLM-SZ,Kisii Falcons is unbeaten in 7 consecutive matches this season.,Extended Unbeaten Run
+Bay Club,NLM-SZ,Bay Club is unbeaten in 6 consecutive matches this season.,Extended Unbeaten Run
+Kitale Hockey Club,NLM-WZ,Kitale Hockey Club is unbeaten in 9 consecutive matches this season.,Extended Unbeaten Run
+Western Jaguars Dev,NLM-WZ,Western Jaguars Dev is unbeaten in 7 consecutive matches this season.,Extended Unbeaten Run
 Western Jaguars,PLM,Western Jaguars is unbeaten in 8 consecutive matches this season.,Extended Unbeaten Run
+Butali Warriors,PLM,Butali Warriors is unbeaten in 8 consecutive matches this season.,Extended Unbeaten Run
 Wazalendo,PLM,Wazalendo is unbeaten in 6 consecutive matches this season.,Extended Unbeaten Run
 Warriors,PLM,Warriors is unbeaten in 6 consecutive matches this season.,Extended Unbeaten Run
 Blazers Hockey Club,PLW,Blazers Hockey Club is unbeaten in 11 consecutive matches this season.,Extended Unbeaten Run

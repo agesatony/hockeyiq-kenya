@@ -1,45 +1,47 @@
 Competition,Team,Elo,EloRank,StrengthOfSchedule
-NLM-CZ,GHF Rift Pirates Men,1529.6,1,1463.5
-NLM-CZ,JKUAT,1526.7,2,1480.0
-NLM-CZ,Thika Rovers,1526.3,3,1480.3
-NLM-CZ,Multimedia University,1509.4,4,1433.8
-NLM-CZ,Egerton Uni Sharks,1493.2,5,1529.6
-NLM-CZ,Nyari Hockey Club,1481.0,6,1433.8
-NLM-CZ,Dukes of Gloucester,1433.8,7,1514.6
-NLM-EZ,Ulinzi Patriots,1535.8,1,1495.7
-NLM-EZ,Mombasa West,1513.3,2,1513.3
-NLM-EZ,Parklands Sports Club – Legacy,1510.2,3,1498.9
-NLM-EZ,UoN Cubs,1509.3,4,1492.3
-NLM-EZ,Mombasa Sports Club,1508.8,5,1514.2
-NLM-EZ,Gorillas,1508.3,6,1497.8
-NLM-EZ,Black Tigers,1503.7,7,1499.6
-NLM-EZ,TUK Men,1498.8,8,1506.0
-NLM-EZ,Daystar University Men,1462.2,9,1502.8
-NLM-EZ,Snippers Hockey Club (Makueni),1449.7,10,1504.9
-NLM-SZ,Kisii Falcons,1567.5,1,1487.2
-NLM-SZ,Bay Club,1527.6,2,1494.5
-NLM-SZ,Kisii University,1500.8,3,1567.5
-NLM-SZ,Rongo University,1496.3,4,1477.8
-NLM-SZ,Kabianga University,1491.8,5,1531.9
-NLM-SZ,Gorillas Hockey CLub – Migori,1463.7,6,1499.2
-NLM-SZ,Oyugis Hockey Club,1452.2,7,1505.6
-NLM-WZ,Kitale Hockey Club,1573.2,1,1488.4
-NLM-WZ,Lakers Hockey Club Men,1506.6,2,1495.9
-NLM-WZ,Kaimosi Uni,1502.8,3,1491.9
-NLM-WZ,GHF Blue Pirates II,1495.3,4,1508.2
-NLM-WZ,Fire Flickers,1484.9,5,1511.9
-NLM-WZ,Western Jaguars Dev,1482.5,6,1501.7
-NLM-WZ,Nandi Hawks,1454.7,7,1506.9
-PLM,Butali Warriors,1588.1,1,1482.4
-PLM,Western Jaguars,1554.6,2,1492.3
-PLM,Warriors,1545.8,3,1487.9
-PLM,Sikh Union Nairobi,1541.2,4,1486.4
+NLM-CZ,JKUAT,1544.0,1,1495.9
+NLM-CZ,GHF Rift Pirates Men,1540.0,2,1497.9
+NLM-CZ,Egerton Uni Sharks,1523.5,3,1506.2
+NLM-CZ,Maasai Mara Hockey Team,1510.2,4,1523.5
+NLM-CZ,Chuka University,1503.9,5,1525.9
+NLM-CZ,Multimedia University,1485.7,6,1502.2
+NLM-CZ,Nyari Hockey Club,1481.0,7,1433.8
+NLM-CZ,Thika Rovers,1478.0,8,1511.8
+NLM-CZ,Dukes of Gloucester,1433.8,9,1505.7
+NLM-EZ,Ulinzi Patriots,1535.9,1,1497.7
+NLM-EZ,Gorillas,1526.9,2,1490.1
+NLM-EZ,Black Tigers,1518.3,3,1498.4
+NLM-EZ,Mombasa West,1513.3,4,1518.5
+NLM-EZ,Mombasa Sports Club,1508.8,5,1519.4
+NLM-EZ,Parklands Sports Club – Legacy,1502.7,6,1504.7
+NLM-EZ,UoN Cubs,1502.0,7,1497.5
+NLM-EZ,TUK Men,1487.8,8,1524.0
+NLM-EZ,Daystar University Men,1462.2,9,1504.6
+NLM-EZ,Snippers Hockey Club (Makueni),1442.0,10,1510.7
+NLM-SZ,Kisii Falcons,1601.7,1,1492.3
+NLM-SZ,Bay Club,1577.7,2,1488.3
+NLM-SZ,Kisii University,1512.0,3,1521.5
+NLM-SZ,Kabianga University,1501.0,4,1527.2
+NLM-SZ,Rongo University,1476.8,5,1500.6
+NLM-SZ,Oyugis Hockey Club,1425.1,6,1515.6
+NLM-SZ,Gorillas Hockey CLub – Migori,1405.7,7,1508.2
+NLM-WZ,Kitale Hockey Club,1581.6,1,1486.4
+NLM-WZ,Fire Flickers,1518.4,2,1496.9
+NLM-WZ,Lakers Hockey Club Men,1508.5,3,1498.6
+NLM-WZ,Western Jaguars Dev,1504.5,4,1499.3
+NLM-WZ,Kaimosi Uni,1498.3,5,1502.4
+NLM-WZ,GHF Blue Pirates II,1471.2,6,1514.2
+NLM-WZ,Nandi Hawks,1417.6,7,1517.6
+PLM,Butali Warriors,1588.7,1,1482.3
+PLM,Western Jaguars,1568.5,2,1491.9
+PLM,Warriors,1545.8,3,1486.4
+PLM,Sikh Union Nairobi,1541.2,4,1487.3
 PLM,Wazalendo,1530.2,5,1503.6
-PLM,Kenya Police,1512.6,6,1495.9
+PLM,Kenya Police,1498.6,6,1501.3
 PLM,USIU – A,1488.0,7,1498.1
-PLM,Parklands Sports Club,1484.6,8,1506.0
+PLM,Parklands Sports Club,1484.6,8,1507.0
 PLM,Daikyo Heroes,1467.5,9,1500.0
-PLM,Kisumu Youngsters,1423.8,10,1506.6
+PLM,Kisumu Youngsters,1423.3,10,1506.6
 PLM,Greensharks,1363.5,11,1517.1
 PLW,Blazers Hockey Club,1604.6,1,1477.0
 PLW,Strathmore University Ladies,1562.0,2,1487.0
@@ -65,11 +67,11 @@ SLM,Nakuru Hockey Club,1463.9,11,1500.9
 SLM,Wazalendo Masters,1453.1,12,1506.0
 SLW,Twinkle Hockey Club,1593.0,1,1489.0
 SLW,Wazalendo Pearls,1532.7,2,1500.5
-SLW,Lakers Hockey Club – B,1514.4,3,1500.5
-SLW,GHF Rift Pirates Ladies,1504.8,4,1514.8
-SLW,Swans Hockey Club,1496.8,5,1509.9
-SLW,Mombasa Sports Club Ladies,1487.4,6,1512.2
-SLW,Kisii Uni Ladies,1475.1,7,1593.0
-SLW,Black Tigresses,1474.7,8,1593.0
-SLW,Daystar University Ladies,1464.3,9,1520.3
-SLW,Gorillas Hockey Club – Ladies,1456.6,10,1526.1
+SLW,Lakers Hockey Club – B,1530.9,3,1494.5
+SLW,GHF Rift Pirates Ladies,1504.8,4,1517.5
+SLW,Swans Hockey Club,1496.8,5,1514.0
+SLW,Mombasa Sports Club Ladies,1487.4,6,1516.3
+SLW,Black Tigresses,1474.7,7,1593.0
+SLW,Daystar University Ladies,1464.3,8,1523.6
+SLW,Kisii Uni Ladies,1458.6,9,1562.0
+SLW,Gorillas Hockey Club – Ladies,1456.6,10,1530.2

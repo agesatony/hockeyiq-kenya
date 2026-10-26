@@ -73,7 +73,7 @@ PLM,Kenya Police,Sikh Union Nairobi,1,0,0,1
 PLM,Kenya Police,USIU – A,1,0,1,0
 PLM,Kenya Police,Warriors,2,0,2,0
 PLM,Kenya Police,Wazalendo,2,1,0,1
-PLM,Kenya Police,Western Jaguars,1,0,1,0
+PLM,Kenya Police,Western Jaguars,2,0,1,1
 PLM,Kisumu Youngsters,Parklands Sports Club,2,0,0,2
 PLM,Kisumu Youngsters,Sikh Union Nairobi,2,0,1,1
 PLM,Kisumu Youngsters,USIU – A,1,1,0,0
@@ -145,6 +145,7 @@ SLW,GHF Rift Pirates Ladies,Wazalendo Pearls,1,0,0,1
 SLW,Gorillas Hockey Club – Ladies,Lakers Hockey Club – B,1,0,0,1
 SLW,Gorillas Hockey Club – Ladies,Twinkle Hockey Club,1,0,0,1
 SLW,Gorillas Hockey Club – Ladies,Wazalendo Pearls,1,0,0,1
+SLW,Kisii Uni Ladies,Lakers Hockey Club – B,1,0,0,1
 SLW,Kisii Uni Ladies,Twinkle Hockey Club,1,0,0,1
 SLW,Lakers Hockey Club – B,Mombasa Sports Club Ladies,1,0,1,0
 SLW,Lakers Hockey Club – B,Swans Hockey Club,1,1,0,0
@@ -161,7 +162,7 @@ NLM-EZ,Black Tigers,Parklands Sports Club – Legacy,1,1,0,0
 NLM-EZ,Black Tigers,Snippers Hockey Club (Makueni),1,1,0,0
 NLM-EZ,Black Tigers,TUK Men,1,0,0,1
 NLM-EZ,Black Tigers,Ulinzi Patriots,1,0,0,1
-NLM-EZ,Black Tigers,UoN Cubs,1,1,0,0
+NLM-EZ,Black Tigers,UoN Cubs,2,2,0,0
 NLM-EZ,Daystar University Men,Gorillas,1,0,0,1
 NLM-EZ,Daystar University Men,Parklands Sports Club – Legacy,1,0,0,1
 NLM-EZ,Daystar University Men,Snippers Hockey Club (Makueni),1,1,0,0
@@ -170,8 +171,8 @@ NLM-EZ,Daystar University Men,UoN Cubs,1,0,0,1
 NLM-EZ,Gorillas,Mombasa Sports Club,1,0,1,0
 NLM-EZ,Gorillas,Mombasa West,1,0,0,1
 NLM-EZ,Gorillas,Parklands Sports Club – Legacy,1,0,1,0
-NLM-EZ,Gorillas,Snippers Hockey Club (Makueni),1,1,0,0
-NLM-EZ,Gorillas,TUK Men,1,1,0,0
+NLM-EZ,Gorillas,Snippers Hockey Club (Makueni),2,2,0,0
+NLM-EZ,Gorillas,TUK Men,2,2,0,0
 NLM-EZ,Gorillas,Ulinzi Patriots,1,0,0,1
 NLM-EZ,Mombasa Sports Club,Mombasa West,1,1,0,0
 NLM-EZ,Mombasa Sports Club,Parklands Sports Club – Legacy,1,0,1,0
@@ -179,43 +180,66 @@ NLM-EZ,Mombasa Sports Club,Ulinzi Patriots,1,0,1,0
 NLM-EZ,Mombasa West,Parklands Sports Club – Legacy,1,0,1,0
 NLM-EZ,Mombasa West,Ulinzi Patriots,1,0,1,0
 NLM-EZ,Parklands Sports Club – Legacy,Snippers Hockey Club (Makueni),1,1,0,0
-NLM-EZ,Parklands Sports Club – Legacy,Ulinzi Patriots,1,1,0,0
-NLM-EZ,Parklands Sports Club – Legacy,UoN Cubs,1,0,0,1
+NLM-EZ,Parklands Sports Club – Legacy,Ulinzi Patriots,2,1,1,0
+NLM-EZ,Parklands Sports Club – Legacy,UoN Cubs,2,0,0,2
 NLM-EZ,Snippers Hockey Club (Makueni),Ulinzi Patriots,1,0,0,1
 NLM-EZ,Snippers Hockey Club (Makueni),UoN Cubs,1,0,0,1
 NLM-EZ,Ulinzi Patriots,UoN Cubs,1,1,0,0
+NLM-CZ,Chuka University,Egerton Uni Sharks,1,0,1,0
+NLM-CZ,Chuka University,JKUAT,1,1,0,0
+NLM-CZ,Chuka University,Maasai Mara Hockey Team,1,0,0,1
 NLM-CZ,Dukes of Gloucester,GHF Rift Pirates Men,1,0,0,1
 NLM-CZ,Dukes of Gloucester,JKUAT,1,0,0,1
 NLM-CZ,Dukes of Gloucester,Multimedia University,1,0,0,1
 NLM-CZ,Dukes of Gloucester,Nyari Hockey Club,1,1,0,0
 NLM-CZ,Dukes of Gloucester,Thika Rovers,1,0,0,1
 NLM-CZ,Egerton Uni Sharks,GHF Rift Pirates Men,1,0,0,1
-NLM-CZ,JKUAT,Thika Rovers,1,0,1,0
-NLM-WZ,Fire Flickers,GHF Blue Pirates II,1,1,0,0
-NLM-WZ,Fire Flickers,Kaimosi Uni,1,0,1,0
+NLM-CZ,Egerton Uni Sharks,JKUAT,1,1,0,0
+NLM-CZ,Egerton Uni Sharks,Multimedia University,2,0,2,0
+NLM-CZ,Egerton Uni Sharks,Thika Rovers,1,1,0,0
+NLM-CZ,GHF Rift Pirates Men,JKUAT,1,0,1,0
+NLM-CZ,GHF Rift Pirates Men,Maasai Mara Hockey Team,1,0,1,0
+NLM-CZ,GHF Rift Pirates Men,Thika Rovers,1,1,0,0
+NLM-CZ,JKUAT,Maasai Mara Hockey Team,2,1,1,0
+NLM-CZ,JKUAT,Multimedia University,1,1,0,0
+NLM-CZ,JKUAT,Thika Rovers,2,1,1,0
+NLM-CZ,Maasai Mara Hockey Team,Multimedia University,1,1,0,0
+NLM-CZ,Multimedia University,Thika Rovers,1,0,0,1
+NLM-WZ,Fire Flickers,GHF Blue Pirates II,2,2,0,0
+NLM-WZ,Fire Flickers,Kaimosi Uni,2,1,1,0
 NLM-WZ,Fire Flickers,Kitale Hockey Club,2,0,0,2
 NLM-WZ,Fire Flickers,Lakers Hockey Club Men,2,0,1,1
-NLM-WZ,Fire Flickers,Nandi Hawks,1,0,0,1
-NLM-WZ,Fire Flickers,Western Jaguars Dev,1,1,0,0
+NLM-WZ,Fire Flickers,Nandi Hawks,2,1,0,1
+NLM-WZ,Fire Flickers,Western Jaguars Dev,2,1,1,0
+NLM-WZ,GHF Blue Pirates II,Kaimosi Uni,1,0,0,1
 NLM-WZ,GHF Blue Pirates II,Kitale Hockey Club,2,0,1,1
-NLM-WZ,GHF Blue Pirates II,Lakers Hockey Club Men,1,0,0,1
+NLM-WZ,GHF Blue Pirates II,Lakers Hockey Club Men,2,0,1,1
 NLM-WZ,GHF Blue Pirates II,Nandi Hawks,1,0,1,0
 NLM-WZ,GHF Blue Pirates II,Western Jaguars Dev,2,1,1,0
-NLM-WZ,Kaimosi Uni,Kitale Hockey Club,1,0,0,1
+NLM-WZ,Kaimosi Uni,Kitale Hockey Club,2,1,0,1
+NLM-WZ,Kaimosi Uni,Lakers Hockey Club Men,1,0,1,0
 NLM-WZ,Kaimosi Uni,Nandi Hawks,2,1,1,0
-NLM-WZ,Kitale Hockey Club,Lakers Hockey Club Men,1,1,0,0
-NLM-WZ,Kitale Hockey Club,Nandi Hawks,1,1,0,0
-NLM-WZ,Kitale Hockey Club,Western Jaguars Dev,1,1,0,0
-NLM-WZ,Lakers Hockey Club Men,Nandi Hawks,1,1,0,0
-NLM-WZ,Lakers Hockey Club Men,Western Jaguars Dev,1,0,0,1
-NLM-WZ,Nandi Hawks,Western Jaguars Dev,1,0,0,1
-NLM-SZ,Bay Club,Gorillas Hockey CLub – Migori,1,1,0,0
-NLM-SZ,Bay Club,Kisii Falcons,1,0,0,1
+NLM-WZ,Kaimosi Uni,Western Jaguars Dev,2,0,0,2
+NLM-WZ,Kitale Hockey Club,Lakers Hockey Club Men,2,2,0,0
+NLM-WZ,Kitale Hockey Club,Nandi Hawks,2,2,0,0
+NLM-WZ,Kitale Hockey Club,Western Jaguars Dev,2,2,0,0
+NLM-WZ,Lakers Hockey Club Men,Nandi Hawks,2,2,0,0
+NLM-WZ,Lakers Hockey Club Men,Western Jaguars Dev,2,0,0,2
+NLM-WZ,Nandi Hawks,Western Jaguars Dev,2,0,1,1
+NLM-SZ,Bay Club,Gorillas Hockey CLub – Migori,2,2,0,0
+NLM-SZ,Bay Club,Kabianga University,1,1,0,0
+NLM-SZ,Bay Club,Kisii Falcons,2,1,0,1
 NLM-SZ,Bay Club,Oyugis Hockey Club,1,1,0,0
+NLM-SZ,Bay Club,Rongo University,1,1,0,0
+NLM-SZ,Gorillas Hockey CLub – Migori,Kabianga University,1,0,0,1
 NLM-SZ,Gorillas Hockey CLub – Migori,Kisii Falcons,1,0,0,1
+NLM-SZ,Gorillas Hockey CLub – Migori,Kisii University,1,0,0,1
 NLM-SZ,Gorillas Hockey CLub – Migori,Oyugis Hockey Club,2,1,0,1
-NLM-SZ,Gorillas Hockey CLub – Migori,Rongo University,1,0,1,0
-NLM-SZ,Kabianga University,Kisii Falcons,1,0,0,1
+NLM-SZ,Gorillas Hockey CLub – Migori,Rongo University,2,0,1,1
+NLM-SZ,Kabianga University,Kisii Falcons,3,0,1,2
+NLM-SZ,Kabianga University,Oyugis Hockey Club,1,1,0,0
 NLM-SZ,Kabianga University,Rongo University,1,0,1,0
-NLM-SZ,Kisii Falcons,Kisii University,1,0,1,0
-NLM-SZ,Kisii Falcons,Oyugis Hockey Club,1,1,0,0
+NLM-SZ,Kisii Falcons,Kisii University,2,1,1,0
+NLM-SZ,Kisii Falcons,Oyugis Hockey Club,2,2,0,0
+NLM-SZ,Kisii Falcons,Rongo University,1,1,0,0
+NLM-SZ,Kisii University,Rongo University,1,1,0,0
