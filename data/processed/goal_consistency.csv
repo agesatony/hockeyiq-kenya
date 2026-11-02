@@ -1,77 +1,77 @@
 Competition,Team,Goals,Played,GoalsPerMatch,GoalStd,Consistency
-NLM-CZ,Chuka University,5.0,3,1.67,0.4714045207910317,Highly Consistent
+NLM-CZ,Chuka University,10.0,4,2.5,1.5,Inconsistent
 NLM-CZ,Dukes of Gloucester,7.0,5,1.4,1.8547236990991407,Inconsistent
-NLM-CZ,Egerton Uni Sharks,8.0,6,1.33,1.699673171197595,Inconsistent
-NLM-CZ,GHF Rift Pirates Men,17.0,5,3.4,2.8705400188814645,Inconsistent
-NLM-CZ,JKUAT,23.0,9,2.56,2.793290019994785,Inconsistent
-NLM-CZ,Maasai Mara Hockey Team,8.0,5,1.6,1.3564659966250536,Inconsistent
-NLM-CZ,Multimedia University,4.0,6,0.67,1.1055415967851334,Moderately Consistent
+NLM-CZ,Egerton Uni Sharks,9.0,8,1.12,1.5360257159305635,Inconsistent
+NLM-CZ,GHF Rift Pirates Men,25.0,8,3.12,2.521780125229002,Inconsistent
+NLM-CZ,JKUAT,25.0,11,2.27,2.5968830649246724,Inconsistent
+NLM-CZ,Maasai Mara Hockey Team,10.0,7,1.43,1.2936264483053452,Inconsistent
+NLM-CZ,Multimedia University,5.0,8,0.62,0.9921567416492215,Moderately Consistent
 NLM-CZ,Nyari Hockey Club,0.0,1,0.0,0.0,Highly Consistent
 NLM-CZ,Thika Rovers,11.0,6,1.83,2.7938424357067015,Inconsistent
 NLM-EZ,Black Tigers,16.0,10,1.6,1.1135528725660042,Moderately Consistent
 NLM-EZ,Daystar University Men,6.0,6,1.0,0.816496580927726,Moderately Consistent
 NLM-EZ,Gorillas,13.0,10,1.3,0.7810249675906655,Moderately Consistent
-NLM-EZ,Mombasa Sports Club,7.0,5,1.4,0.4898979485566356,Highly Consistent
+NLM-EZ,Mombasa Sports Club,17.0,9,1.89,0.9938079899999066,Moderately Consistent
 NLM-EZ,Mombasa West,8.0,5,1.6,1.019803902718557,Moderately Consistent
 NLM-EZ,Parklands Sports Club – Legacy,16.0,10,1.6,0.66332495807108,Moderately Consistent
-NLM-EZ,Snippers Hockey Club (Makueni),2.0,7,0.29,0.45175395145262565,Highly Consistent
+NLM-EZ,Snippers Hockey Club (Makueni),5.0,9,0.56,0.6849348892187752,Moderately Consistent
 NLM-EZ,TUK Men,4.0,3,1.33,1.247219128924647,Inconsistent
 NLM-EZ,Ulinzi Patriots,17.0,9,1.89,0.8748897637790901,Moderately Consistent
-NLM-EZ,UoN Cubs,10.0,7,1.43,1.049781318335648,Moderately Consistent
-NLM-SZ,Bay Club,22.0,7,3.14,2.2946254863155735,Inconsistent
-NLM-SZ,Gorillas Hockey CLub – Migori,6.0,9,0.67,0.9428090415820634,Moderately Consistent
-NLM-SZ,Kabianga University,11.0,7,1.57,2.1946130708196026,Inconsistent
-NLM-SZ,Kisii Falcons,40.0,11,3.64,2.739367122421702,Inconsistent
-NLM-SZ,Kisii University,7.0,4,1.75,0.4330127018922193,Highly Consistent
-NLM-SZ,Oyugis Hockey Club,3.0,6,0.5,0.7637626158259734,Moderately Consistent
-NLM-SZ,Rongo University,8.0,6,1.33,1.699673171197595,Inconsistent
+NLM-EZ,UoN Cubs,10.0,9,1.11,1.0999438818457405,Moderately Consistent
+NLM-SZ,Bay Club,26.0,9,2.89,2.1314806770278754,Inconsistent
+NLM-SZ,Gorillas Hockey CLub – Migori,7.0,10,0.7,0.9,Moderately Consistent
+NLM-SZ,Kabianga University,15.0,9,1.67,2.0,Inconsistent
+NLM-SZ,Kisii Falcons,46.0,13,3.54,2.649103901188087,Inconsistent
+NLM-SZ,Kisii University,22.0,6,3.67,3.091206165165235,Inconsistent
+NLM-SZ,Oyugis Hockey Club,6.0,7,0.86,1.1248582677159729,Moderately Consistent
+NLM-SZ,Rongo University,8.0,8,1.0,1.5811388300841898,Inconsistent
 NLM-WZ,Fire Flickers,17.0,12,1.42,1.3819269959814164,Inconsistent
-NLM-WZ,GHF Blue Pirates II,13.0,10,1.3,1.1874342087037917,Moderately Consistent
-NLM-WZ,Kaimosi Uni,10.0,10,1.0,0.7745966692414834,Moderately Consistent
+NLM-WZ,GHF Blue Pirates II,15.0,12,1.25,1.0897247358851685,Moderately Consistent
+NLM-WZ,Kaimosi Uni,13.0,11,1.18,0.9359663764533637,Moderately Consistent
 NLM-WZ,Kitale Hockey Club,23.0,12,1.92,1.7539637649874324,Inconsistent
 NLM-WZ,Lakers Hockey Club Men,15.0,11,1.36,1.2984415324623364,Inconsistent
-NLM-WZ,Nandi Hawks,6.0,11,0.55,0.6555547773570889,Moderately Consistent
+NLM-WZ,Nandi Hawks,6.0,12,0.5,0.6454972243679028,Moderately Consistent
 NLM-WZ,Western Jaguars Dev,14.0,12,1.17,0.8975274678557508,Moderately Consistent
 PLM,Butali Warriors,39.0,15,2.6,1.451436070471816,Inconsistent
-PLM,Daikyo Heroes,23.0,15,1.53,1.4079141387961918,Inconsistent
-PLM,Greensharks,10.0,15,0.67,0.7888106377466155,Moderately Consistent
-PLM,Kenya Police,24.0,16,1.5,0.9354143466934853,Moderately Consistent
+PLM,Daikyo Heroes,27.0,17,1.59,1.3310245292923248,Inconsistent
+PLM,Greensharks,13.0,17,0.76,0.8065476000471816,Moderately Consistent
+PLM,Kenya Police,25.0,18,1.39,0.950957931590205,Moderately Consistent
 PLM,Kisumu Youngsters,18.0,18,1.0,0.816496580927726,Moderately Consistent
-PLM,Parklands Sports Club,22.0,15,1.47,0.618241233033047,Moderately Consistent
+PLM,Parklands Sports Club,23.0,17,1.35,0.6809315825170721,Moderately Consistent
 PLM,Sikh Union Nairobi,33.0,16,2.06,1.5995604865087159,Inconsistent
-PLM,USIU – A,14.0,11,1.27,0.7496555682941201,Moderately Consistent
+PLM,USIU – A,18.0,12,1.5,1.0408329997330663,Moderately Consistent
 PLM,Warriors,24.0,10,2.4,1.2,Moderately Consistent
-PLM,Wazalendo,27.0,16,1.69,1.1575161985907585,Moderately Consistent
+PLM,Wazalendo,28.0,17,1.65,1.1345471483521123,Moderately Consistent
 PLM,Western Jaguars,40.0,17,2.35,1.3694643208026842,Inconsistent
-PLW,Amira Sailors Hockey Club,12.0,12,1.0,1.2909944487358056,Inconsistent
-PLW,Blazers Hockey Club,30.0,11,2.73,2.178027009220171,Inconsistent
-PLW,JKUAT Ladies,5.0,9,0.56,0.8314794192830981,Moderately Consistent
-PLW,Kenyatta University Ladies,8.0,10,0.8,0.8717797887081347,Moderately Consistent
-PLW,Kisumu Queens,14.0,13,1.08,1.3846153846153848,Inconsistent
-PLW,Lakers Hockey Club,18.0,11,1.64,1.7200807207658637,Inconsistent
-PLW,Sliders Hockey Club,6.0,15,0.4,0.8,Moderately Consistent
-PLW,Strathmore University Ladies,25.0,13,1.92,2.0176733920929233,Inconsistent
-PLW,UON Ladies,12.0,11,1.09,0.899954085146515,Moderately Consistent
-PLW,USIU – A Ladies,10.0,9,1.11,0.8748897637790901,Moderately Consistent
+PLW,Amira Sailors Hockey Club,13.0,13,1.0,1.2403473458920846,Inconsistent
+PLW,Blazers Hockey Club,34.0,13,2.62,2.058321255424562,Inconsistent
+PLW,JKUAT Ladies,6.0,11,0.55,0.7820295697311479,Moderately Consistent
+PLW,Kenyatta University Ladies,10.0,12,0.83,0.7993052538854533,Moderately Consistent
+PLW,Kisumu Queens,18.0,15,1.2,1.514375558880073,Inconsistent
+PLW,Lakers Hockey Club,22.0,13,1.69,1.6354070481130232,Inconsistent
+PLW,Sliders Hockey Club,6.0,16,0.38,0.7806247497997998,Moderately Consistent
+PLW,Strathmore University Ladies,26.0,14,1.86,1.9587584572574412,Inconsistent
+PLW,UON Ladies,12.0,12,1.0,0.9128709291752769,Moderately Consistent
+PLW,USIU – A Ladies,12.0,11,1.09,0.899954085146515,Moderately Consistent
 SLM,GHF Blue Pirates,6.0,5,1.2,0.7483314773547883,Moderately Consistent
-SLM,Impala,17.0,8,2.12,1.165922381636102,Moderately Consistent
+SLM,Impala,18.0,9,2.0,1.1547005383792515,Moderately Consistent
 SLM,KCA University,28.0,9,3.11,1.852592444503674,Inconsistent
 SLM,Kenyatta University Men,4.0,2,2.0,1.0,Moderately Consistent
-SLM,Mvita XI,12.0,5,2.4,0.8000000000000002,Moderately Consistent
-SLM,Nakuru Hockey Club,8.0,7,1.14,0.8329931278350429,Moderately Consistent
-SLM,Parkroad Badgers,13.0,7,1.86,1.124858267715973,Moderately Consistent
-SLM,Parkroad Tigers,9.0,6,1.5,0.9574271077563381,Moderately Consistent
+SLM,Mvita XI,14.0,7,2.0,1.0690449676496976,Moderately Consistent
+SLM,Nakuru Hockey Club,10.0,8,1.25,0.82915619758885,Moderately Consistent
+SLM,Parkroad Badgers,16.0,8,2.0,1.118033988749895,Moderately Consistent
+SLM,Parkroad Tigers,10.0,7,1.43,0.9035079029052513,Moderately Consistent
 SLM,Strathmore University,17.0,7,2.43,1.178030178747903,Moderately Consistent
 SLM,UOE Men,0.0,1,0.0,0.0,Highly Consistent
 SLM,UON Men,7.0,6,1.17,0.8975274678557507,Moderately Consistent
 SLM,Wazalendo Masters,9.0,9,1.0,1.247219128924647,Inconsistent
 SLW,Black Tigresses,0.0,1,0.0,0.0,Highly Consistent
-SLW,Daystar University Ladies,3.0,5,0.6,1.2000000000000002,Inconsistent
-SLW,GHF Rift Pirates Ladies,8.0,6,1.33,0.74535599249993,Moderately Consistent
+SLW,Daystar University Ladies,3.0,6,0.5,1.118033988749895,Moderately Consistent
+SLW,GHF Rift Pirates Ladies,11.0,7,1.57,0.9035079029052512,Moderately Consistent
 SLW,Gorillas Hockey Club – Ladies,2.0,4,0.5,0.5,Highly Consistent
-SLW,Kisii Uni Ladies,0.0,2,0.0,0.0,Highly Consistent
+SLW,Kisii Uni Ladies,0.0,3,0.0,0.0,Highly Consistent
 SLW,Lakers Hockey Club – B,12.0,7,1.71,1.5779087167410373,Inconsistent
-SLW,Mombasa Sports Club Ladies,3.0,4,0.75,0.4330127018922193,Highly Consistent
-SLW,Swans Hockey Club,4.0,4,1.0,0.7071067811865476,Moderately Consistent
-SLW,Twinkle Hockey Club,26.0,7,3.71,2.4907993963089563,Inconsistent
-SLW,Wazalendo Pearls,10.0,6,1.67,0.9428090415820634,Moderately Consistent
+SLW,Mombasa Sports Club Ladies,5.0,6,0.83,0.372677996249965,Highly Consistent
+SLW,Swans Hockey Club,4.0,6,0.67,0.74535599249993,Moderately Consistent
+SLW,Twinkle Hockey Club,34.0,9,3.78,2.249828525701843,Inconsistent
+SLW,Wazalendo Pearls,15.0,7,2.14,1.4568627181693672,Inconsistent

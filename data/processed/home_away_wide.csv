@@ -1,73 +1,74 @@
 Competition,Team,HomePlayed,HomeGF,HomeGA,HomeWins,HomeDraws,HomeLosses,HomePoints,AwayPlayed,AwayGF,AwayGA,AwayWins,AwayDraws,AwayLosses,AwayPoints
-NLM-CZ,Chuka University,1,2,0,1,0,0,3,2,3,5,0,1,1,1
+NLM-CZ,Chuka University,2,7,0,2,0,0,6,2,3,5,0,1,1,1
 NLM-CZ,Dukes of Gloucester,2,5,9,1,0,1,3,3,2,20,0,0,3,0
-NLM-CZ,Egerton Uni Sharks,2,1,1,0,2,0,2,4,7,2,2,1,1,7
-NLM-CZ,GHF Rift Pirates Men,2,11,2,2,0,0,6,3,6,5,1,2,0,5
-NLM-CZ,JKUAT,5,9,6,2,2,1,8,4,14,2,2,1,1,7
-NLM-CZ,Maasai Mara Hockey Team,3,5,3,1,2,0,5,2,3,4,1,0,1,3
-NLM-CZ,Multimedia University,3,4,3,1,1,1,4,3,0,3,0,1,2,1
+NLM-CZ,Egerton Uni Sharks,4,2,2,0,4,0,4,4,7,2,2,1,1,7
+NLM-CZ,GHF Rift Pirates Men,4,17,5,3,1,0,10,4,8,6,2,2,0,8
+NLM-CZ,JKUAT,5,9,6,2,2,1,8,6,16,4,2,3,1,9
+NLM-CZ,Maasai Mara Hockey Team,3,5,3,1,2,0,5,4,5,9,1,1,2,4
+NLM-CZ,Multimedia University,4,5,5,1,1,2,4,4,0,8,0,1,3,1
 NLM-CZ,Thika Rovers,5,10,12,2,0,3,6,1,1,1,0,1,0,1
 NLM-EZ,Black Tigers,4,7,3,3,0,1,9,6,9,10,2,1,3,7
 NLM-EZ,Daystar University Men,3,3,6,0,0,3,0,3,3,6,1,0,2,3
 NLM-EZ,Gorillas,6,6,6,2,2,2,8,4,7,3,4,0,0,12
-NLM-EZ,Mombasa Sports Club,2,2,2,0,2,0,2,3,5,4,1,2,0,5
+NLM-EZ,Mombasa Sports Club,2,2,2,0,2,0,2,7,15,7,5,2,0,17
 NLM-EZ,Mombasa West,3,6,5,1,1,1,4,2,2,1,1,1,0,4
 NLM-EZ,Parklands Sports Club – Legacy,3,6,6,1,1,1,4,7,10,10,2,3,2,9
-NLM-EZ,Snippers Hockey Club (Makueni),4,2,6,0,0,4,0,3,0,4,0,0,3,0
+NLM-EZ,Snippers Hockey Club (Makueni),6,5,13,0,0,6,0,3,0,4,0,0,3,0
 NLM-EZ,TUK Men,2,4,4,1,0,1,3,1,0,2,0,0,1,0
 NLM-EZ,Ulinzi Patriots,5,8,6,2,2,1,8,4,9,5,3,1,0,10
-NLM-EZ,UoN Cubs,4,6,5,3,0,1,9,3,4,5,1,0,2,3
-NLM-SZ,Bay Club,2,5,3,1,0,1,3,5,17,1,5,0,0,15
-NLM-SZ,Gorillas Hockey CLub – Migori,3,2,15,0,0,3,0,6,4,17,1,1,4,4
-NLM-SZ,Kabianga University,4,11,6,2,0,2,6,3,0,2,0,2,1,2
-NLM-SZ,Kisii Falcons,7,20,4,5,1,1,16,4,20,4,3,1,0,10
-NLM-SZ,Kisii University,3,6,2,2,1,0,7,1,1,3,0,0,1,0
-NLM-SZ,Oyugis Hockey Club,3,1,15,0,0,3,0,3,2,11,1,0,2,3
-NLM-SZ,Rongo University,3,2,5,0,2,1,2,3,6,9,1,0,2,3
+NLM-EZ,UoN Cubs,6,6,8,3,0,3,9,3,4,5,1,0,2,3
+NLM-SZ,Bay Club,3,6,4,1,1,1,4,6,20,2,6,0,0,18
+NLM-SZ,Gorillas Hockey CLub – Migori,4,3,25,0,0,4,0,6,4,17,1,1,4,4
+NLM-SZ,Kabianga University,4,11,6,2,0,2,6,5,4,6,0,4,1,4
+NLM-SZ,Kisii Falcons,8,21,7,5,1,2,16,5,25,4,4,1,0,13
+NLM-SZ,Kisii University,3,6,2,2,1,0,7,3,16,4,2,0,1,6
+NLM-SZ,Oyugis Hockey Club,4,4,18,0,1,3,1,3,2,11,1,0,2,3
+NLM-SZ,Rongo University,5,2,15,0,2,3,2,3,6,9,1,0,2,3
 NLM-WZ,Fire Flickers,6,12,4,4,1,1,13,6,5,9,1,2,3,5
-NLM-WZ,GHF Blue Pirates II,6,10,10,1,2,3,5,4,3,6,0,2,2,2
-NLM-WZ,Kaimosi Uni,4,5,5,1,2,1,5,6,5,5,2,1,3,7
+NLM-WZ,GHF Blue Pirates II,6,10,10,1,2,3,5,6,5,9,1,2,3,5
+NLM-WZ,Kaimosi Uni,5,8,6,2,2,1,8,6,5,5,2,1,3,7
 NLM-WZ,Kitale Hockey Club,6,14,1,5,1,0,16,6,9,4,5,0,1,15
 NLM-WZ,Lakers Hockey Club Men,6,9,4,3,1,2,10,5,6,7,1,2,2,5
-NLM-WZ,Nandi Hawks,5,3,6,1,1,3,4,6,3,22,0,2,4,2
+NLM-WZ,Nandi Hawks,6,3,7,1,1,4,4,6,3,22,0,2,4,2
 NLM-WZ,Western Jaguars Dev,6,9,6,3,2,1,11,6,5,9,2,1,3,7
 PLM,Butali Warriors,8,23,10,6,2,0,20,7,16,8,3,3,1,12
-PLM,Daikyo Heroes,7,14,8,4,1,2,13,8,9,23,2,0,6,6
-PLM,Greensharks,8,4,22,0,0,8,0,7,6,16,0,0,7,0
-PLM,Kenya Police,8,14,13,2,5,1,11,8,10,14,2,3,3,9
+PLM,Daikyo Heroes,7,14,8,4,1,2,13,10,13,25,3,1,6,10
+PLM,Greensharks,9,6,24,0,1,8,1,8,7,20,0,0,8,0
+PLM,Kenya Police,10,15,15,3,5,2,14,8,10,14,2,3,3,9
 PLM,Kisumu Youngsters,10,8,12,4,1,5,13,8,10,21,1,1,6,4
-PLM,Parklands Sports Club,7,11,17,2,1,4,7,8,11,11,5,0,3,15
+PLM,Parklands Sports Club,8,12,18,2,2,4,8,9,11,12,5,0,4,15
 PLM,Sikh Union Nairobi,8,17,9,5,1,2,16,8,16,14,3,3,2,12
-PLM,USIU – A,4,5,5,2,0,2,6,7,9,12,2,1,4,7
+PLM,USIU – A,5,9,6,3,0,2,9,7,9,12,2,1,4,7
 PLM,Warriors,5,13,7,3,2,0,11,5,11,8,2,2,1,8
-PLM,Wazalendo,7,13,7,4,2,1,14,9,14,15,3,3,3,12
+PLM,Wazalendo,7,13,7,4,2,1,14,10,15,16,3,4,3,13
 PLM,Western Jaguars,10,29,13,7,2,1,23,7,11,9,3,1,3,10
-PLW,Amira Sailors Hockey Club,5,6,7,1,1,3,4,7,6,5,3,2,2,11
-PLW,Blazers Hockey Club,5,17,0,5,0,0,15,6,13,3,4,2,0,14
-PLW,JKUAT Ladies,5,3,15,0,1,4,1,4,2,16,1,0,3,3
-PLW,Kenyatta University Ladies,6,6,14,1,2,3,5,4,2,5,1,0,3,3
-PLW,Kisumu Queens,6,5,2,2,4,0,10,7,9,5,3,2,2,11
-PLW,Lakers Hockey Club,6,7,4,3,2,1,11,5,11,4,3,1,1,10
-PLW,Sliders Hockey Club,8,2,22,1,0,7,3,7,4,9,1,2,4,5
-PLW,Strathmore University Ladies,6,4,5,2,2,2,8,7,21,4,4,3,0,15
-PLW,UON Ladies,6,4,8,0,2,4,2,5,8,7,2,2,1,8
-PLW,USIU – A Ladies,4,5,4,1,2,1,5,5,5,1,3,2,0,11
+PLW,Amira Sailors Hockey Club,6,7,8,1,2,3,5,7,6,5,3,2,2,11
+PLW,Blazers Hockey Club,5,17,0,5,0,0,15,8,17,4,6,2,0,20
+PLW,JKUAT Ladies,5,3,15,0,1,4,1,6,3,23,1,0,5,3
+PLW,Kenyatta University Ladies,6,6,14,1,2,3,5,6,4,6,2,1,3,7
+PLW,Kisumu Queens,8,9,3,3,4,1,13,7,9,5,3,2,2,11
+PLW,Lakers Hockey Club,8,11,8,4,2,2,14,5,11,4,3,1,1,10
+PLW,Sliders Hockey Club,8,2,22,1,0,7,3,8,4,11,1,2,5,5
+PLW,Strathmore University Ladies,6,4,5,2,2,2,8,8,22,4,5,3,0,18
+PLW,UON Ladies,7,4,9,0,2,5,2,5,8,7,2,2,1,8
+PLW,USIU – A Ladies,6,7,5,2,2,2,8,5,5,1,3,2,0,11
 SLM,GHF Blue Pirates,2,2,2,1,0,1,3,3,4,1,2,1,0,7
-SLM,Impala,4,8,6,2,2,0,8,4,9,13,0,3,1,3
+SLM,Impala,5,9,8,2,2,1,8,4,9,13,0,3,1,3
 SLM,KCA University,5,13,9,2,1,2,7,4,15,3,4,0,0,12
 SLM,Kenyatta University Men,1,1,1,0,1,0,1,1,3,3,0,1,0,1
-SLM,Mvita XI,3,8,6,1,2,0,5,2,4,1,2,0,0,6
-SLM,Nakuru Hockey Club,3,3,4,0,2,1,2,4,5,10,0,1,3,1
-SLM,Parkroad Badgers,5,8,14,1,0,4,3,2,5,3,1,0,1,3
-SLM,Parkroad Tigers,4,5,13,2,0,2,6,2,4,4,1,0,1,3
+SLM,Mvita XI,3,8,6,1,2,0,5,4,6,5,3,0,1,9
+SLM,Nakuru Hockey Club,3,3,4,0,2,1,2,5,7,11,1,1,3,4
+SLM,Parkroad Badgers,6,11,14,2,0,4,6,2,5,3,1,0,1,3
+SLM,Parkroad Tigers,5,6,15,2,0,3,6,2,4,4,1,0,1,3
 SLM,Strathmore University,3,6,4,1,2,0,5,4,11,3,3,1,0,10
 SLM,UON Men,3,4,7,1,0,2,3,3,3,3,1,1,1,4
 SLM,Wazalendo Masters,3,0,6,0,0,3,0,6,9,12,1,2,3,5
-SLW,Daystar University Ladies,4,3,7,1,0,3,3,1,0,2,0,0,1,0
-SLW,GHF Rift Pirates Ladies,3,4,3,2,0,1,6,3,4,4,1,0,2,3
+SLW,Daystar University Ladies,5,3,8,1,0,4,3,1,0,2,0,0,1,0
+SLW,GHF Rift Pirates Ladies,3,4,3,2,0,1,6,4,7,4,2,0,2,6
 SLW,Gorillas Hockey Club – Ladies,1,0,5,0,0,1,0,3,2,6,0,0,3,0
-SLW,Kisii Uni Ladies,1,0,8,0,0,1,0,1,0,5,0,0,1,0
+SLW,Kisii Uni Ladies,2,0,11,0,0,2,0,1,0,5,0,0,1,0
 SLW,Lakers Hockey Club – B,4,9,3,2,2,0,8,3,3,2,2,0,1,6
-SLW,Mombasa Sports Club Ladies,1,1,2,0,0,1,0,3,2,3,0,2,1,2
-SLW,Twinkle Hockey Club,1,2,0,1,0,0,3,6,24,3,5,1,0,16
-SLW,Wazalendo Pearls,3,4,3,2,0,1,6,3,6,2,2,1,0,7
+SLW,Mombasa Sports Club Ladies,1,1,2,0,0,1,0,5,4,6,1,2,2,5
+SLW,Swans Hockey Club,4,4,4,1,2,1,5,2,0,10,0,0,2,0
+SLW,Twinkle Hockey Club,3,10,1,3,0,0,9,6,24,3,5,1,0,16
+SLW,Wazalendo Pearls,4,9,3,3,0,1,9,3,6,2,2,1,0,7
