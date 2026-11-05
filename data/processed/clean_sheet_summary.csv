@@ -1,77 +1,74 @@
 ,Competition,Team,CleanSheets,Matches,CleanSheetRate
 0,NLM-CZ,Chuka University,2,4,0.5
-1,NLM-CZ,Dukes of Gloucester,1,5,0.2
-2,NLM-CZ,Egerton Uni Sharks,5,8,0.62
-3,NLM-CZ,GHF Rift Pirates Men,0,8,0.0
-4,NLM-CZ,JKUAT,4,11,0.36
-5,NLM-CZ,Maasai Mara Hockey Team,2,7,0.29
-6,NLM-CZ,Multimedia University,2,8,0.25
-7,NLM-CZ,Nyari Hockey Club,0,1,0.0
-8,NLM-CZ,Thika Rovers,2,6,0.33
-9,NLM-EZ,Black Tigers,2,10,0.2
-10,NLM-EZ,Daystar University Men,0,6,0.0
-11,NLM-EZ,Gorillas,4,10,0.4
-12,NLM-EZ,Mombasa Sports Club,2,9,0.22
-13,NLM-EZ,Mombasa West,1,5,0.2
-14,NLM-EZ,Parklands Sports Club – Legacy,2,10,0.2
-15,NLM-EZ,Snippers Hockey Club (Makueni),0,9,0.0
-16,NLM-EZ,TUK Men,0,3,0.0
-17,NLM-EZ,Ulinzi Patriots,2,9,0.22
-18,NLM-EZ,UoN Cubs,2,9,0.22
-19,NLM-SZ,Bay Club,5,9,0.56
-20,NLM-SZ,Gorillas Hockey CLub – Migori,0,10,0.0
-21,NLM-SZ,Kabianga University,4,9,0.44
-22,NLM-SZ,Kisii Falcons,6,13,0.46
-23,NLM-SZ,Kisii University,3,6,0.5
-24,NLM-SZ,Oyugis Hockey Club,0,7,0.0
-25,NLM-SZ,Rongo University,1,8,0.12
-26,NLM-WZ,Fire Flickers,4,12,0.33
-27,NLM-WZ,GHF Blue Pirates II,2,12,0.17
-28,NLM-WZ,Kaimosi Uni,3,11,0.27
-29,NLM-WZ,Kitale Hockey Club,8,12,0.67
-30,NLM-WZ,Lakers Hockey Club Men,3,11,0.27
-31,NLM-WZ,Nandi Hawks,1,12,0.08
-32,NLM-WZ,Western Jaguars Dev,2,12,0.17
-33,PLM,Butali Warriors,4,15,0.27
-34,PLM,Daikyo Heroes,2,17,0.12
-35,PLM,Greensharks,0,17,0.0
-36,PLM,Kenya Police,4,18,0.22
-37,PLM,Kisumu Youngsters,4,18,0.22
-38,PLM,Parklands Sports Club,3,17,0.18
-39,PLM,Sikh Union Nairobi,3,16,0.19
-40,PLM,USIU – A,3,12,0.25
-41,PLM,Warriors,1,10,0.1
-42,PLM,Wazalendo,5,17,0.29
-43,PLM,Western Jaguars,5,17,0.29
-44,PLW,Amira Sailors Hockey Club,7,13,0.54
-45,PLW,Blazers Hockey Club,10,13,0.77
-46,PLW,JKUAT Ladies,0,11,0.0
-47,PLW,Kenyatta University Ladies,3,12,0.25
-48,PLW,Kisumu Queens,8,15,0.53
-49,PLW,Lakers Hockey Club,4,13,0.31
-50,PLW,Sliders Hockey Club,3,16,0.19
-51,PLW,Strathmore University Ladies,9,14,0.64
-52,PLW,UON Ladies,1,12,0.08
-53,PLW,USIU – A Ladies,6,11,0.55
-54,SLM,GHF Blue Pirates,3,5,0.6
-55,SLM,Impala,0,9,0.0
-56,SLM,KCA University,3,9,0.33
-57,SLM,Kenyatta University Men,0,2,0.0
-58,SLM,Mvita XI,2,7,0.29
-59,SLM,Nakuru Hockey Club,0,8,0.0
-60,SLM,Parkroad Badgers,1,8,0.12
-61,SLM,Parkroad Tigers,1,7,0.14
-62,SLM,Strathmore University,2,7,0.29
-63,SLM,UOE Men,0,1,0.0
-64,SLM,UON Men,1,6,0.17
-65,SLM,Wazalendo Masters,0,9,0.0
-66,SLW,Black Tigresses,0,1,0.0
-67,SLW,Daystar University Ladies,0,6,0.0
-68,SLW,GHF Rift Pirates Ladies,2,7,0.29
-69,SLW,Gorillas Hockey Club – Ladies,0,4,0.0
-70,SLW,Kisii Uni Ladies,0,3,0.0
-71,SLW,Lakers Hockey Club – B,5,7,0.71
-72,SLW,Mombasa Sports Club Ladies,2,6,0.33
-73,SLW,Swans Hockey Club,0,6,0.0
-74,SLW,Twinkle Hockey Club,7,9,0.78
-75,SLW,Wazalendo Pearls,2,7,0.29
+1,NLM-CZ,Egerton Uni Sharks,5,8,0.62
+2,NLM-CZ,GHF Rift Pirates Men,0,7,0.0
+3,NLM-CZ,JKUAT,3,10,0.3
+4,NLM-CZ,Maasai Mara Hockey Team,2,7,0.29
+5,NLM-CZ,Multimedia University,2,7,0.29
+6,NLM-CZ,Thika Rovers,1,5,0.2
+7,NLM-EZ,Black Tigers,2,10,0.2
+8,NLM-EZ,Daystar University Men,0,6,0.0
+9,NLM-EZ,Gorillas,4,10,0.4
+10,NLM-EZ,Mombasa Sports Club,2,9,0.22
+11,NLM-EZ,Mombasa West,1,5,0.2
+12,NLM-EZ,Parklands Sports Club – Legacy,2,10,0.2
+13,NLM-EZ,Snippers Hockey Club (Makueni),0,9,0.0
+14,NLM-EZ,TUK Men,0,3,0.0
+15,NLM-EZ,Ulinzi Patriots,2,9,0.22
+16,NLM-EZ,UoN Cubs,2,9,0.22
+17,NLM-SZ,Bay Club,5,9,0.56
+18,NLM-SZ,Gorillas Hockey CLub – Migori,0,10,0.0
+19,NLM-SZ,Kabianga University,4,9,0.44
+20,NLM-SZ,Kisii Falcons,6,13,0.46
+21,NLM-SZ,Kisii University,3,6,0.5
+22,NLM-SZ,Oyugis Hockey Club,0,7,0.0
+23,NLM-SZ,Rongo University,1,8,0.12
+24,NLM-WZ,Fire Flickers,4,12,0.33
+25,NLM-WZ,GHF Blue Pirates II,2,12,0.17
+26,NLM-WZ,Kaimosi Uni,3,11,0.27
+27,NLM-WZ,Kitale Hockey Club,8,12,0.67
+28,NLM-WZ,Lakers Hockey Club Men,3,11,0.27
+29,NLM-WZ,Nandi Hawks,1,12,0.08
+30,NLM-WZ,Western Jaguars Dev,2,12,0.17
+31,PLM,Butali Warriors,4,15,0.27
+32,PLM,Daikyo Heroes,2,16,0.12
+33,PLM,Greensharks,0,16,0.0
+34,PLM,Kenya Police,4,16,0.25
+35,PLM,Kisumu Youngsters,4,17,0.24
+36,PLM,Parklands Sports Club,3,16,0.19
+37,PLM,Sikh Union Nairobi,4,15,0.27
+38,PLM,USIU – A,3,11,0.27
+39,PLM,Wazalendo,5,16,0.31
+40,PLM,Western Jaguars,5,16,0.31
+41,PLW,Amira Sailors Hockey Club,7,13,0.54
+42,PLW,Blazers Hockey Club,11,13,0.85
+43,PLW,JKUAT Ladies,0,11,0.0
+44,PLW,Kenyatta University Ladies,3,12,0.25
+45,PLW,Kisumu Queens,8,15,0.53
+46,PLW,Lakers Hockey Club,4,13,0.31
+47,PLW,Sliders Hockey Club,4,16,0.25
+48,PLW,Strathmore University Ladies,9,14,0.64
+49,PLW,UON Ladies,1,12,0.08
+50,PLW,USIU – A Ladies,5,11,0.45
+51,SLM,GHF Blue Pirates,3,5,0.6
+52,SLM,Impala,0,9,0.0
+53,SLM,KCA University,3,9,0.33
+54,SLM,Kenyatta University Men,0,2,0.0
+55,SLM,Mvita XI,2,7,0.29
+56,SLM,Nakuru Hockey Club,0,8,0.0
+57,SLM,Parkroad Badgers,1,8,0.12
+58,SLM,Parkroad Tigers,1,7,0.14
+59,SLM,Strathmore University,2,7,0.29
+60,SLM,UOE Men,0,1,0.0
+61,SLM,UON Men,1,6,0.17
+62,SLM,Wazalendo Masters,0,9,0.0
+63,SLW,Black Tigresses,1,1,1.0
+64,SLW,Daystar University Ladies,0,6,0.0
+65,SLW,GHF Rift Pirates Ladies,2,7,0.29
+66,SLW,Gorillas Hockey Club – Ladies,0,4,0.0
+67,SLW,Kisii Uni Ladies,0,3,0.0
+68,SLW,Lakers Hockey Club – B,5,7,0.71
+69,SLW,Mombasa Sports Club Ladies,2,6,0.33
+70,SLW,Swans Hockey Club,0,6,0.0
+71,SLW,Twinkle Hockey Club,7,9,0.78
+72,SLW,Wazalendo Pearls,2,7,0.29

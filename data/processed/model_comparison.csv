@@ -1,9 +1,9 @@
 Competition,EloRankCorrelation,PythagoreanRankCorrelation,BetterModel
-NLM-CZ,0.88,0.97,Pythagorean
+NLM-CZ,0.89,0.86,Elo
 NLM-EZ,0.9,0.96,Pythagorean
 NLM-SZ,1.0,0.93,Elo
 NLM-WZ,0.86,0.89,Pythagorean
-PLM,0.74,0.99,Pythagorean
-PLW,0.98,0.98,Tied
+PLM,0.96,0.98,Pythagorean
+PLW,0.99,0.88,Elo
 SLM,0.68,0.92,Pythagorean
-SLW,0.94,0.98,Pythagorean
+SLW,0.9,0.98,Pythagorean

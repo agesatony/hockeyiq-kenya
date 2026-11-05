@@ -6,8 +6,6 @@ NLM-CZ,Maasai Mara Hockey Team,WDDDL
 NLM-CZ,Chuka University,LDWW
 NLM-CZ,Thika Rovers,DWLLL
 NLM-CZ,Multimedia University,LDDLL
-NLM-CZ,Dukes of Gloucester,WLLLL
-NLM-CZ,Nyari Hockey Club,L
 NLM-EZ,Gorillas,LWWWW
 NLM-EZ,Mombasa Sports Club,DWWWW
 NLM-EZ,Ulinzi Patriots,DDWWD
@@ -32,26 +30,25 @@ NLM-WZ,Lakers Hockey Club Men,LDLDW
 NLM-WZ,Kaimosi Uni,LWDLW
 NLM-WZ,GHF Blue Pirates II,LDLWL
 NLM-WZ,Nandi Hawks,DLLLL
-PLM,Western Jaguars,WLWWL
 PLM,Butali Warriors,WDWWW
+PLM,Western Jaguars,WLWWL
 PLM,Sikh Union Nairobi,WWDLW
 PLM,Wazalendo,WDDWD
-PLM,Kenya Police,WLWWL
 PLM,Daikyo Heroes,LWLDW
 PLM,Parklands Sports Club,WLWLD
-PLM,Warriors,DLWWD
-PLM,Kisumu Youngsters,LLLLL
+PLM,Kenya Police,WLLWL
+PLM,Kisumu Youngsters,LLWLL
 PLM,USIU – A,WWWWW
 PLM,Greensharks,LLLDL
 PLW,Blazers Hockey Club,WWWWW
 PLW,Strathmore University Ladies,WDWWW
 PLW,Lakers Hockey Club,LWWWL
 PLW,Kisumu Queens,LDWLW
-PLW,USIU – A Ladies,DLWLW
 PLW,Amira Sailors Hockey Club,LWLLD
+PLW,USIU – A Ladies,LLWLW
 PLW,Kenyatta University Ladies,WLDDW
-PLW,UON Ladies,DWLLL
 PLW,Sliders Hockey Club,LLLLL
+PLW,UON Ladies,DWLLL
 PLW,JKUAT Ladies,WLLLL
 SLM,KCA University,LWWLD
 SLM,Strathmore University,WDWWD
@@ -72,6 +69,6 @@ SLW,GHF Rift Pirates Ladies,LWWLW
 SLW,Mombasa Sports Club Ladies,LLDLW
 SLW,Swans Hockey Club,DLWLL
 SLW,Daystar University Ladies,LLWLL
-SLW,Black Tigresses,L
+SLW,Black Tigresses,D
 SLW,Gorillas Hockey Club – Ladies,LLLL
 SLW,Kisii Uni Ladies,LLL
