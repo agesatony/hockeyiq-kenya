@@ -12,34 +12,34 @@ NLM-EZ,Mombasa West,False,3,1,1,4,3,3,1.33
 NLM-EZ,Mombasa Sports Club,True,2,0,2,2,3,3,1.0
 NLM-EZ,Gorillas,True,2,0,1,1,1,3,0.5
 NLM-EZ,Black Tigers,False,3,0,1,1,2,4,0.33
-NLM-EZ,Daystar University Men,False,2,0,0,0,3,5,0.0
 NLM-EZ,Snippers Hockey Club (Makueni),False,5,0,0,0,4,11,0.0
-NLM-EZ,UoN Cubs,False,3,0,0,0,1,6,0.0
 NLM-EZ,TUK Men,False,2,0,0,0,1,4,0.0
+NLM-EZ,Daystar University Men,False,2,0,0,0,3,5,0.0
+NLM-EZ,UoN Cubs,False,3,0,0,0,1,6,0.0
 NLM-SZ,Bay Club,True,3,2,0,6,6,4,2.0
 NLM-SZ,Kisii Falcons,True,5,2,1,7,9,9,1.4
 NLM-SZ,Kisii University,True,2,0,1,1,3,5,0.5
 NLM-SZ,Kabianga University,False,5,0,2,2,2,9,0.4
+NLM-SZ,Gorillas Hockey CLub – Migori,False,5,0,0,0,1,28,0.0
 NLM-SZ,Rongo University,False,5,0,0,0,2,22,0.0
 NLM-SZ,Oyugis Hockey Club,False,3,0,0,0,0,17,0.0
-NLM-SZ,Gorillas Hockey CLub – Migori,False,5,0,0,0,1,28,0.0
 NLM-WZ,Kitale Hockey Club,True,4,4,0,12,8,1,3.0
 NLM-WZ,Fire Flickers,True,4,1,1,4,4,7,1.0
 NLM-WZ,GHF Blue Pirates II,False,6,1,2,5,9,9,0.83
 NLM-WZ,Lakers Hockey Club Men,False,6,1,1,4,4,7,0.67
-NLM-WZ,Kaimosi Uni,False,6,1,1,4,4,8,0.67
 NLM-WZ,Nandi Hawks,False,6,1,1,4,2,16,0.67
+NLM-WZ,Kaimosi Uni,False,6,1,1,4,4,8,0.67
 NLM-WZ,Western Jaguars Dev,True,4,0,1,1,2,6,0.25
 PLM,Butali Warriors,True,3,2,1,7,7,4,2.33
 PLM,Wazalendo,False,6,1,4,7,8,9,1.17
-PLM,Parklands Sports Club,False,6,2,0,6,7,14,1.0
-PLM,Sikh Union Nairobi,True,3,1,0,3,5,6,1.0
 PLM,Western Jaguars,True,4,1,1,4,7,9,1.0
+PLM,Sikh Union Nairobi,True,3,1,0,3,5,6,1.0
+PLM,Parklands Sports Club,False,6,2,0,6,7,14,1.0
 PLM,Kisumu Youngsters,False,6,1,1,4,5,12,0.67
 PLM,Kenya Police,False,5,0,3,3,5,11,0.6
 PLM,Daikyo Heroes,False,4,0,1,1,5,14,0.25
-PLM,USIU – A,False,3,0,0,0,3,11,0.0
 PLM,Greensharks,False,6,0,0,0,4,20,0.0
+PLM,USIU – A,False,3,0,0,0,3,11,0.0
 PLW,Blazers Hockey Club,True,3,3,0,9,8,2,3.0
 PLW,UON Ladies,False,4,1,2,5,4,4,1.25
 PLW,USIU – A Ladies,False,4,1,1,4,1,6,1.0
@@ -47,8 +47,8 @@ PLW,Strathmore University Ladies,True,2,0,1,1,2,4,0.5
 PLW,Kisumu Queens,False,6,0,3,3,2,5,0.5
 PLW,Lakers Hockey Club,True,3,0,1,1,2,6,0.33
 PLW,Amira Sailors Hockey Club,False,4,0,1,1,1,6,0.25
-PLW,JKUAT Ladies,False,3,0,0,0,1,16,0.0
 PLW,Kenyatta University Ladies,False,5,0,0,0,2,16,0.0
+PLW,JKUAT Ladies,False,3,0,0,0,1,16,0.0
 PLW,Sliders Hockey Club,False,6,0,0,0,0,20,0.0
 SLM,Strathmore University,True,1,1,0,3,2,1,3.0
 SLM,Mvita XI,True,1,1,0,3,2,1,3.0
@@ -57,17 +57,17 @@ SLM,Kenyatta University Men,False,2,0,2,2,4,4,1.0
 SLM,Impala,False,3,0,2,2,7,11,0.67
 SLM,Nakuru Hockey Club,False,2,0,1,1,4,6,0.5
 SLM,UON Men,False,2,0,1,1,1,2,0.5
-SLM,Wazalendo Masters,False,3,0,0,0,0,7,0.0
+SLM,GHF Blue Pirates,False,1,0,0,0,0,2,0.0
 SLM,Parkroad Tigers,False,3,0,0,0,2,13,0.0
 SLM,KCA University,True,2,0,0,0,2,4,0.0
-SLM,GHF Blue Pirates,False,1,0,0,0,0,2,0.0
+SLM,Wazalendo Masters,False,3,0,0,0,0,7,0.0
 SLW,Twinkle Hockey Club,True,2,1,1,4,4,3,2.0
 SLW,Lakers Hockey Club – B,True,1,0,1,1,3,3,1.0
-SLW,Black Tigresses,False,1,0,1,1,0,0,1.0
 SLW,GHF Rift Pirates Ladies,False,3,1,0,3,3,4,1.0
+SLW,Black Tigresses,False,1,0,1,1,0,0,1.0
 SLW,Mombasa Sports Club Ladies,False,3,0,1,1,2,5,0.33
 SLW,Swans Hockey Club,False,4,0,1,1,1,12,0.25
-SLW,Gorillas Hockey Club – Ladies,False,3,0,0,0,1,8,0.0
 SLW,Wazalendo Pearls,True,1,0,0,0,0,1,0.0
+SLW,Gorillas Hockey Club – Ladies,False,3,0,0,0,1,8,0.0
 SLW,Kisii Uni Ladies,False,2,0,0,0,0,13,0.0
 SLW,Daystar University Ladies,False,3,0,0,0,0,6,0.0
