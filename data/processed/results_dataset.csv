@@ -344,6 +344,30 @@ NLM-SZ,Rongo University,Gorillas Hockey CLub – Migori,Home,1,1,0,1,0,1,0,0
 NLM-SZ,Rongo University,Kabianga University,Home,0,0,0,1,0,1,1,1
 NLM-SZ,Rongo University,Kisii Falcons,Home,0,5,0,0,1,0,0,1
 NLM-SZ,Rongo University,Kisii University,Home,0,5,0,0,1,0,0,1
+PLW,Amira Sailors Hockey Club,USIU – A Ladies,Home,1,0,1,0,0,3,1,0
+PLW,Blazers Hockey Club,Strathmore University Ladies,Home,1,1,0,1,0,1,0,0
+PLW,JKUAT Ladies,USIU – A Ladies,Home,0,5,0,0,1,0,0,1
+PLW,Kenyatta University Ladies,JKUAT Ladies,Home,2,0,1,0,0,3,1,0
+PLW,Kisumu Queens,UON Ladies,Home,0,0,0,1,0,1,1,1
+PLW,Lakers Hockey Club,UON Ladies,Home,1,1,0,1,0,1,0,0
+PLW,Sliders Hockey Club,Kenyatta University Ladies,Home,0,0,0,1,0,1,1,1
+PLM,Parklands Sports Club,USIU – A,Home,2,4,0,0,1,0,0,0
+PLM,Sikh Union Nairobi,Kenya Police,Home,4,3,1,0,0,3,0,0
+PLM,Wazalendo,Greensharks,Home,5,0,1,0,0,3,1,0
+SLW,Mombasa Sports Club Ladies,Daystar University Ladies,Home,4,2,1,0,0,3,0,0
+SLW,Swans Hockey Club,Daystar University Ladies,Home,0,1,0,0,1,0,0,1
+NLM-EZ,Mombasa Sports Club,Daystar University Men,Home,0,0,0,1,0,1,1,1
+NLM-EZ,Mombasa West,Daystar University Men,Home,0,1,0,0,1,0,0,1
+NLM-EZ,Snippers Hockey Club (Makueni),Mombasa West,Home,2,3,0,0,1,0,0,0
+NLM-EZ,UoN Cubs,Mombasa West,Home,0,2,0,0,1,0,0,1
+NLM-CZ,Egerton Uni Sharks,GHF Rift Pirates Men,Home,0,2,0,0,1,0,0,1
+NLM-CZ,JKUAT,Chuka University,Home,0,1,0,0,1,0,0,1
+NLM-CZ,Maasai Mara Hockey Team,Multimedia University,Home,5,0,1,0,0,3,1,0
+NLM-CZ,Thika Rovers,Chuka University,Home,3,3,0,1,0,1,0,0
+NLM-SZ,Bay Club,Oyugis Hockey Club,Home,3,0,1,0,0,3,1,0
+NLM-SZ,Kabianga University,Kisii University,Home,1,1,0,1,0,1,0,0
+NLM-SZ,Kabianga University,Rongo University,Home,0,0,0,1,0,1,1,1
+NLM-SZ,Rongo University,Oyugis Hockey Club,Home,2,3,0,0,1,0,0,0
 PLW,Blazers Hockey Club,Amira Sailors Hockey Club,Away,3,0,1,0,0,3,1,0
 PLW,JKUAT Ladies,Amira Sailors Hockey Club,Away,0,4,0,0,1,0,0,1
 PLW,Kenyatta University Ladies,Amira Sailors Hockey Club,Away,1,1,0,1,0,1,0,0
@@ -689,3 +713,27 @@ NLM-SZ,Gorillas Hockey CLub – Migori,Rongo University,Away,1,1,0,1,0,1,0,0
 NLM-SZ,Kabianga University,Rongo University,Away,0,0,0,1,0,1,1,1
 NLM-SZ,Kisii Falcons,Rongo University,Away,5,0,1,0,0,3,1,0
 NLM-SZ,Kisii University,Rongo University,Away,5,0,1,0,0,3,1,0
+PLW,USIU – A Ladies,Amira Sailors Hockey Club,Away,0,1,0,0,1,0,0,1
+PLW,Strathmore University Ladies,Blazers Hockey Club,Away,1,1,0,1,0,1,0,0
+PLW,USIU – A Ladies,JKUAT Ladies,Away,5,0,1,0,0,3,1,0
+PLW,JKUAT Ladies,Kenyatta University Ladies,Away,0,2,0,0,1,0,0,1
+PLW,UON Ladies,Kisumu Queens,Away,0,0,0,1,0,1,1,1
+PLW,UON Ladies,Lakers Hockey Club,Away,1,1,0,1,0,1,0,0
+PLW,Kenyatta University Ladies,Sliders Hockey Club,Away,0,0,0,1,0,1,1,1
+PLM,USIU – A,Parklands Sports Club,Away,4,2,1,0,0,3,0,0
+PLM,Kenya Police,Sikh Union Nairobi,Away,3,4,0,0,1,0,0,0
+PLM,Greensharks,Wazalendo,Away,0,5,0,0,1,0,0,1
+SLW,Daystar University Ladies,Mombasa Sports Club Ladies,Away,2,4,0,0,1,0,0,0
+SLW,Daystar University Ladies,Swans Hockey Club,Away,1,0,1,0,0,3,1,0
+NLM-EZ,Daystar University Men,Mombasa Sports Club,Away,0,0,0,1,0,1,1,1
+NLM-EZ,Daystar University Men,Mombasa West,Away,1,0,1,0,0,3,1,0
+NLM-EZ,Mombasa West,Snippers Hockey Club (Makueni),Away,3,2,1,0,0,3,0,0
+NLM-EZ,Mombasa West,UoN Cubs,Away,2,0,1,0,0,3,1,0
+NLM-CZ,GHF Rift Pirates Men,Egerton Uni Sharks,Away,2,0,1,0,0,3,1,0
+NLM-CZ,Chuka University,JKUAT,Away,1,0,1,0,0,3,1,0
+NLM-CZ,Multimedia University,Maasai Mara Hockey Team,Away,0,5,0,0,1,0,0,1
+NLM-CZ,Chuka University,Thika Rovers,Away,3,3,0,1,0,1,0,0
+NLM-SZ,Oyugis Hockey Club,Bay Club,Away,0,3,0,0,1,0,0,1
+NLM-SZ,Kisii University,Kabianga University,Away,1,1,0,1,0,1,0,0
+NLM-SZ,Rongo University,Kabianga University,Away,0,0,0,1,0,1,1,1
+NLM-SZ,Oyugis Hockey Club,Rongo University,Away,3,2,1,0,0,3,0,0

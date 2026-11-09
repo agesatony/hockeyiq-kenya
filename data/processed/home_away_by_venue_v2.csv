@@ -1,52 +1,52 @@
 Competition,Team,Venue,Played,Wins,Draws,Losses,GF,GA,Points
-NLM-CZ,Chuka University,Away,2,0,1,1,3,5,1
+NLM-CZ,Chuka University,Away,4,1,2,1,7,8,5
 NLM-CZ,Chuka University,Home,2,2,0,0,7,0,6
 NLM-CZ,Egerton Uni Sharks,Away,4,2,1,1,7,2,7
-NLM-CZ,Egerton Uni Sharks,Home,4,0,4,0,2,2,4
-NLM-CZ,GHF Rift Pirates Men,Away,4,2,2,0,8,6,8
+NLM-CZ,Egerton Uni Sharks,Home,5,0,4,1,2,4,4
+NLM-CZ,GHF Rift Pirates Men,Away,5,3,2,0,10,6,11
 NLM-CZ,GHF Rift Pirates Men,Home,3,2,1,0,8,4,7
 NLM-CZ,JKUAT,Away,5,1,3,1,7,4,6
-NLM-CZ,JKUAT,Home,5,2,2,1,9,6,8
+NLM-CZ,JKUAT,Home,6,2,2,2,9,7,8
 NLM-CZ,Maasai Mara Hockey Team,Away,4,1,1,2,5,9,4
-NLM-CZ,Maasai Mara Hockey Team,Home,3,1,2,0,5,3,5
-NLM-CZ,Multimedia University,Away,4,0,1,3,0,8,1
+NLM-CZ,Maasai Mara Hockey Team,Home,4,2,2,0,10,3,8
+NLM-CZ,Multimedia University,Away,5,0,1,4,0,13,1
 NLM-CZ,Multimedia University,Home,3,0,1,2,2,4,1
 NLM-CZ,Thika Rovers,Away,1,0,1,0,1,1,1
-NLM-CZ,Thika Rovers,Home,4,1,0,3,2,12,3
+NLM-CZ,Thika Rovers,Home,5,1,1,3,5,15,4
 NLM-EZ,Black Tigers,Away,6,2,1,3,9,10,7
 NLM-EZ,Black Tigers,Home,4,3,0,1,7,3,9
-NLM-EZ,Daystar University Men,Away,3,1,0,2,3,6,3
+NLM-EZ,Daystar University Men,Away,5,2,1,2,4,6,7
 NLM-EZ,Daystar University Men,Home,3,0,0,3,3,6,0
 NLM-EZ,Gorillas,Away,4,4,0,0,7,3,12
 NLM-EZ,Gorillas,Home,6,2,2,2,6,6,8
 NLM-EZ,Mombasa Sports Club,Away,7,5,2,0,15,7,17
-NLM-EZ,Mombasa Sports Club,Home,2,0,2,0,2,2,2
-NLM-EZ,Mombasa West,Away,2,1,1,0,2,1,4
-NLM-EZ,Mombasa West,Home,3,1,1,1,6,5,4
+NLM-EZ,Mombasa Sports Club,Home,3,0,3,0,2,2,3
+NLM-EZ,Mombasa West,Away,4,3,1,0,7,3,10
+NLM-EZ,Mombasa West,Home,4,1,1,2,6,6,4
 NLM-EZ,Parklands Sports Club – Legacy,Away,7,2,3,2,10,10,9
 NLM-EZ,Parklands Sports Club – Legacy,Home,3,1,1,1,6,6,4
 NLM-EZ,Snippers Hockey Club (Makueni),Away,3,0,0,3,0,4,0
-NLM-EZ,Snippers Hockey Club (Makueni),Home,6,0,0,6,5,13,0
+NLM-EZ,Snippers Hockey Club (Makueni),Home,7,0,0,7,7,16,0
 NLM-EZ,TUK Men,Away,1,0,0,1,0,2,0
 NLM-EZ,TUK Men,Home,2,1,0,1,4,4,3
 NLM-EZ,Ulinzi Patriots,Away,4,3,1,0,9,5,10
 NLM-EZ,Ulinzi Patriots,Home,5,2,2,1,8,6,8
 NLM-EZ,UoN Cubs,Away,3,1,0,2,4,5,3
-NLM-EZ,UoN Cubs,Home,6,3,0,3,6,8,9
+NLM-EZ,UoN Cubs,Home,7,3,0,4,6,10,9
 NLM-SZ,Bay Club,Away,6,6,0,0,20,2,18
-NLM-SZ,Bay Club,Home,3,1,1,1,6,4,4
+NLM-SZ,Bay Club,Home,4,2,1,1,9,4,7
 NLM-SZ,Gorillas Hockey CLub – Migori,Away,6,1,1,4,4,17,4
 NLM-SZ,Gorillas Hockey CLub – Migori,Home,4,0,0,4,3,25,0
 NLM-SZ,Kabianga University,Away,5,0,4,1,4,6,4
-NLM-SZ,Kabianga University,Home,4,2,0,2,11,6,6
+NLM-SZ,Kabianga University,Home,6,2,2,2,12,7,8
 NLM-SZ,Kisii Falcons,Away,5,4,1,0,25,4,13
 NLM-SZ,Kisii Falcons,Home,8,5,1,2,21,7,16
-NLM-SZ,Kisii University,Away,3,2,0,1,16,4,6
+NLM-SZ,Kisii University,Away,4,2,1,1,17,5,7
 NLM-SZ,Kisii University,Home,3,2,1,0,6,2,7
-NLM-SZ,Oyugis Hockey Club,Away,3,1,0,2,2,11,3
+NLM-SZ,Oyugis Hockey Club,Away,5,2,0,3,5,16,6
 NLM-SZ,Oyugis Hockey Club,Home,4,0,1,3,4,18,1
-NLM-SZ,Rongo University,Away,3,1,0,2,6,9,3
-NLM-SZ,Rongo University,Home,5,0,2,3,2,15,2
+NLM-SZ,Rongo University,Away,4,1,1,2,6,9,4
+NLM-SZ,Rongo University,Home,6,0,2,4,4,18,2
 NLM-WZ,Fire Flickers,Away,6,1,2,3,5,9,5
 NLM-WZ,Fire Flickers,Home,6,4,1,1,12,4,13
 NLM-WZ,GHF Blue Pirates II,Away,6,1,2,3,5,9,5
@@ -65,41 +65,41 @@ PLM,Butali Warriors,Away,7,3,3,1,16,8,12
 PLM,Butali Warriors,Home,8,6,2,0,23,10,20
 PLM,Daikyo Heroes,Away,9,3,1,5,13,21,10
 PLM,Daikyo Heroes,Home,7,4,1,2,14,8,13
-PLM,Greensharks,Away,7,0,0,7,5,17,0
+PLM,Greensharks,Away,8,0,0,8,5,22,0
 PLM,Greensharks,Home,9,0,1,8,6,24,1
-PLM,Kenya Police,Away,7,1,2,4,6,18,5
+PLM,Kenya Police,Away,8,1,2,5,9,22,5
 PLM,Kenya Police,Home,9,4,3,2,16,11,15
 PLM,Kisumu Youngsters,Away,8,1,1,6,10,21,4
 PLM,Kisumu Youngsters,Home,9,4,1,4,12,9,13
 PLM,Parklands Sports Club,Away,9,5,0,4,11,12,15
-PLM,Parklands Sports Club,Home,7,2,2,3,11,14,8
+PLM,Parklands Sports Club,Home,8,2,2,4,13,18,8
 PLM,Sikh Union Nairobi,Away,8,3,3,2,18,12,12
-PLM,Sikh Union Nairobi,Home,7,5,1,1,16,7,16
-PLM,USIU – A,Away,6,2,0,4,6,13,6
+PLM,Sikh Union Nairobi,Home,8,6,1,1,20,10,19
+PLM,USIU – A,Away,7,3,0,4,10,15,9
 PLM,USIU – A,Home,5,3,0,2,7,12,9
 PLM,Wazalendo,Away,9,3,3,3,16,13,12
-PLM,Wazalendo,Home,7,4,2,1,13,7,14
+PLM,Wazalendo,Home,8,5,2,1,18,7,17
 PLM,Western Jaguars,Away,7,3,1,3,11,9,10
 PLM,Western Jaguars,Home,9,7,1,1,26,10,22
 PLW,Amira Sailors Hockey Club,Away,7,3,2,2,6,5,11
-PLW,Amira Sailors Hockey Club,Home,6,1,2,3,7,8,5
+PLW,Amira Sailors Hockey Club,Home,7,2,2,3,8,8,8
 PLW,Blazers Hockey Club,Away,8,7,1,0,20,2,22
-PLW,Blazers Hockey Club,Home,5,5,0,0,17,0,15
-PLW,JKUAT Ladies,Away,6,1,0,5,3,23,3
-PLW,JKUAT Ladies,Home,5,0,1,4,3,15,1
-PLW,Kenyatta University Ladies,Away,6,2,1,3,4,6,7
-PLW,Kenyatta University Ladies,Home,6,1,2,3,6,14,5
+PLW,Blazers Hockey Club,Home,6,5,1,0,18,1,16
+PLW,JKUAT Ladies,Away,7,1,0,6,3,25,3
+PLW,JKUAT Ladies,Home,6,0,1,5,3,20,1
+PLW,Kenyatta University Ladies,Away,7,2,2,3,4,6,8
+PLW,Kenyatta University Ladies,Home,7,2,2,3,8,14,8
 PLW,Kisumu Queens,Away,7,3,2,2,9,5,11
-PLW,Kisumu Queens,Home,8,3,4,1,9,3,13
+PLW,Kisumu Queens,Home,9,3,5,1,9,3,14
 PLW,Lakers Hockey Club,Away,5,3,1,1,11,4,10
-PLW,Lakers Hockey Club,Home,8,4,2,2,11,8,14
+PLW,Lakers Hockey Club,Home,9,4,3,2,12,9,15
 PLW,Sliders Hockey Club,Away,8,1,2,5,4,11,5
-PLW,Sliders Hockey Club,Home,8,2,0,6,7,20,6
-PLW,Strathmore University Ladies,Away,8,5,3,0,22,4,18
+PLW,Sliders Hockey Club,Home,9,2,1,6,7,20,7
+PLW,Strathmore University Ladies,Away,9,5,4,0,23,5,19
 PLW,Strathmore University Ladies,Home,6,2,2,2,4,5,8
-PLW,UON Ladies,Away,5,2,2,1,8,7,8
+PLW,UON Ladies,Away,7,2,4,1,9,8,10
 PLW,UON Ladies,Home,7,0,2,5,4,9,2
-PLW,USIU – A Ladies,Away,5,2,2,1,3,6,8
+PLW,USIU – A Ladies,Away,7,3,2,2,8,7,11
 PLW,USIU – A Ladies,Home,6,2,1,3,5,8,7
 SLM,GHF Blue Pirates,Away,3,2,1,0,4,1,7
 SLM,GHF Blue Pirates,Home,2,1,0,1,2,2,3
@@ -125,7 +125,7 @@ SLM,UON Men,Home,3,1,0,2,4,7,3
 SLM,Wazalendo Masters,Away,6,1,2,3,9,12,5
 SLM,Wazalendo Masters,Home,3,0,0,3,0,6,0
 SLW,Black Tigresses,Home,1,0,1,0,0,0,1
-SLW,Daystar University Ladies,Away,1,0,0,1,0,2,0
+SLW,Daystar University Ladies,Away,3,1,0,2,3,6,3
 SLW,Daystar University Ladies,Home,5,1,0,4,3,8,3
 SLW,GHF Rift Pirates Ladies,Away,4,2,0,2,7,4,6
 SLW,GHF Rift Pirates Ladies,Home,3,2,0,1,4,3,6
@@ -136,9 +136,9 @@ SLW,Kisii Uni Ladies,Home,2,0,0,2,0,11,0
 SLW,Lakers Hockey Club – B,Away,3,2,0,1,3,2,6
 SLW,Lakers Hockey Club – B,Home,4,2,2,0,9,3,8
 SLW,Mombasa Sports Club Ladies,Away,5,1,2,2,4,6,5
-SLW,Mombasa Sports Club Ladies,Home,1,0,0,1,1,2,0
+SLW,Mombasa Sports Club Ladies,Home,2,1,0,1,5,4,3
 SLW,Swans Hockey Club,Away,2,0,0,2,0,10,0
-SLW,Swans Hockey Club,Home,4,1,2,1,4,4,5
+SLW,Swans Hockey Club,Home,5,1,2,2,4,5,5
 SLW,Twinkle Hockey Club,Away,6,4,2,0,18,3,14
 SLW,Twinkle Hockey Club,Home,3,3,0,0,10,1,9
 SLW,Wazalendo Pearls,Away,3,2,1,0,6,2,7

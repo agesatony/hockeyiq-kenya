@@ -1,5 +1,5 @@
 Tier,Gender,Teams,MatchesPlayed,AvgGoalsPerMatch,AvgDrawRate,CompetitiveBalance
-Premier League,Men,10,77,3.32,17.8,0.43
-Premier League,Women,10,65,2.51,24.4,0.54
+Premier League,Men,10,80,3.42,17.2,0.42
+Premier League,Women,10,72,2.43,27.5,0.49
 Super League,Men,12,39,3.56,27.9,0.61
-Super League,Women,10,28,2.86,23.2,1.0
+Super League,Women,10,30,2.9,22.2,0.9

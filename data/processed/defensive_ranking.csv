@@ -1,27 +1,27 @@
 Competition,Team,GoalsConceded,Matches,GoalsPerGame
-NLM-CZ,Egerton Uni Sharks,4,8,0.5
-NLM-CZ,JKUAT,10,10,1.0
-NLM-CZ,Chuka University,5,4,1.25
-NLM-CZ,GHF Rift Pirates Men,10,7,1.4285714285714286
-NLM-CZ,Maasai Mara Hockey Team,12,7,1.7142857142857142
-NLM-CZ,Multimedia University,12,7,1.7142857142857142
-NLM-CZ,Thika Rovers,13,5,2.6
+NLM-CZ,Egerton Uni Sharks,6,9,0.6666666666666666
+NLM-CZ,JKUAT,11,11,1.0
+NLM-CZ,GHF Rift Pirates Men,10,8,1.25
+NLM-CZ,Chuka University,8,6,1.3333333333333333
+NLM-CZ,Maasai Mara Hockey Team,12,8,1.5
+NLM-CZ,Multimedia University,17,8,2.125
+NLM-CZ,Thika Rovers,16,6,2.6666666666666665
 NLM-EZ,Gorillas,9,10,0.9
-NLM-EZ,Mombasa Sports Club,9,9,1.0
-NLM-EZ,Mombasa West,6,5,1.2
+NLM-EZ,Mombasa Sports Club,9,10,0.9
+NLM-EZ,Mombasa West,9,8,1.125
 NLM-EZ,Ulinzi Patriots,11,9,1.2222222222222223
 NLM-EZ,Black Tigers,13,10,1.3
-NLM-EZ,UoN Cubs,13,9,1.4444444444444444
+NLM-EZ,Daystar University Men,12,8,1.5
+NLM-EZ,UoN Cubs,15,10,1.5
 NLM-EZ,Parklands Sports Club – Legacy,16,10,1.6
-NLM-EZ,Snippers Hockey Club (Makueni),17,9,1.8888888888888888
-NLM-EZ,Daystar University Men,12,6,2.0
+NLM-EZ,Snippers Hockey Club (Makueni),20,10,2.0
 NLM-EZ,TUK Men,6,3,2.0
-NLM-SZ,Bay Club,6,9,0.6666666666666666
+NLM-SZ,Bay Club,6,10,0.6
 NLM-SZ,Kisii Falcons,11,13,0.8461538461538461
-NLM-SZ,Kisii University,6,6,1.0
-NLM-SZ,Kabianga University,12,9,1.3333333333333333
-NLM-SZ,Rongo University,24,8,3.0
-NLM-SZ,Oyugis Hockey Club,29,7,4.142857142857143
+NLM-SZ,Kisii University,7,7,1.0
+NLM-SZ,Kabianga University,13,11,1.1818181818181819
+NLM-SZ,Rongo University,27,10,2.7
+NLM-SZ,Oyugis Hockey Club,34,9,3.7777777777777777
 NLM-SZ,Gorillas Hockey CLub – Migori,42,10,4.2
 NLM-WZ,Kitale Hockey Club,5,12,0.4166666666666667
 NLM-WZ,Kaimosi Uni,11,11,1.0
@@ -30,26 +30,26 @@ NLM-WZ,Fire Flickers,13,12,1.0833333333333333
 NLM-WZ,Western Jaguars Dev,15,12,1.25
 NLM-WZ,GHF Blue Pirates II,19,12,1.5833333333333333
 NLM-WZ,Nandi Hawks,29,12,2.4166666666666665
+PLM,Wazalendo,20,17,1.1764705882352942
 PLM,Western Jaguars,19,16,1.1875
 PLM,Butali Warriors,18,15,1.2
-PLM,Wazalendo,20,16,1.25
-PLM,Sikh Union Nairobi,19,15,1.2666666666666666
-PLM,Parklands Sports Club,26,16,1.625
+PLM,Sikh Union Nairobi,22,16,1.375
 PLM,Kisumu Youngsters,30,17,1.7647058823529411
+PLM,Parklands Sports Club,30,17,1.7647058823529411
 PLM,Daikyo Heroes,29,16,1.8125
-PLM,Kenya Police,29,16,1.8125
-PLM,USIU – A,25,11,2.272727272727273
-PLM,Greensharks,41,16,2.5625
-PLW,Blazers Hockey Club,2,13,0.15384615384615385
-PLW,Kisumu Queens,8,15,0.5333333333333333
-PLW,Strathmore University Ladies,9,14,0.6428571428571429
-PLW,Lakers Hockey Club,12,13,0.9230769230769231
-PLW,Amira Sailors Hockey Club,13,13,1.0
-PLW,USIU – A Ladies,14,11,1.2727272727272727
-PLW,UON Ladies,16,12,1.3333333333333333
-PLW,Kenyatta University Ladies,20,12,1.6666666666666667
-PLW,Sliders Hockey Club,31,16,1.9375
-PLW,JKUAT Ladies,38,11,3.4545454545454546
+PLM,Kenya Police,33,17,1.9411764705882353
+PLM,USIU – A,27,12,2.25
+PLM,Greensharks,46,17,2.7058823529411766
+PLW,Blazers Hockey Club,3,14,0.21428571428571427
+PLW,Kisumu Queens,8,16,0.5
+PLW,Strathmore University Ladies,10,15,0.6666666666666666
+PLW,Amira Sailors Hockey Club,13,14,0.9285714285714286
+PLW,Lakers Hockey Club,13,14,0.9285714285714286
+PLW,USIU – A Ladies,15,13,1.1538461538461537
+PLW,UON Ladies,17,14,1.2142857142857142
+PLW,Kenyatta University Ladies,20,14,1.4285714285714286
+PLW,Sliders Hockey Club,31,17,1.8235294117647058
+PLW,JKUAT Ladies,45,13,3.4615384615384617
 SLM,GHF Blue Pirates,3,5,0.6
 SLM,Strathmore University,7,7,1.0
 SLM,KCA University,12,9,1.3333333333333333
@@ -67,8 +67,8 @@ SLW,Twinkle Hockey Club,4,9,0.4444444444444444
 SLW,Lakers Hockey Club – B,5,7,0.7142857142857143
 SLW,Wazalendo Pearls,5,7,0.7142857142857143
 SLW,GHF Rift Pirates Ladies,7,7,1.0
-SLW,Mombasa Sports Club Ladies,8,6,1.3333333333333333
-SLW,Daystar University Ladies,10,6,1.6666666666666667
-SLW,Swans Hockey Club,14,6,2.3333333333333335
+SLW,Mombasa Sports Club Ladies,10,7,1.4285714285714286
+SLW,Daystar University Ladies,14,8,1.75
+SLW,Swans Hockey Club,15,7,2.142857142857143
 SLW,Gorillas Hockey Club – Ladies,11,4,2.75
 SLW,Kisii Uni Ladies,16,3,5.333333333333333
